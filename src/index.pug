@@ -1,0 +1,27 @@
+doctype html
+head
+  meta(charset='utf-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0')
+  // Styles will be loaded by webpack
+  link(rel='shortcut icon' href='assets/mini_favicon.png')
+  meta(name='description' content='Mini to English dictionary')
+  title buku-name: Mini dictionary
+#main-wrapper
+  header
+    h1 buku-name
+    p.subtitle Mini-English Dictionary
+  main
+    #search-box
+      input(type='text' id='search' autofocus='true' placeholder='search' autocorrect='off' autocapitalize='off' spellcheck='false')
+    .dictionary-words
+      each term in dictionary
+        .word
+          p.word-container #{term.word}: #{term.meaning}
+  footer
+    .credits
+      ul
+        li
+          a(target='_blank' rel="noopener" href='https://jprogr.github.io/') Page by jProgr
+        li
+          a(target='_blank' rel="noopener" href='https://minilanguage.com/') Mini language by S.C. Gruget
+  // JavaScript will be loaded by webpack

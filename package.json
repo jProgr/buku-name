@@ -1,0 +1,34 @@
+{
+  "name": "buku-name",
+  "description": "Mini - English dictionary",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/",
+    "start": "npm run lint && webpack-dev-server --open --config webpack.dev.js",
+    "start:open": "webpack-dev-server --open --host 0.0.0.0 --config webpack.dev.js",
+    "start:prod": "webpack-dev-server --open --host 0.0.0.0 --config webpack.prod.js",
+    "build": "webpack --config webpack.prod.js"
+  },
+  "author": "jProgr <8537691@gmail.com> (https://github.com/jProgr)",
+  "repository": "github:jProgr/buku-name",
+  "license": "Unlicense",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^6.0.2",
+    "css-loader": "^3.6.0",
+    "css-minimizer-webpack-plugin": "^1.1.5",
+    "csv-parse": "^5.3.3",
+    "eslint": "^7.3.1",
+    "file-loader": "^6.0.0",
+    "html-inline-css-webpack-plugin": "^1.9.1",
+    "html-webpack-plugin": "^4.3.0",
+    "mini-css-extract-plugin": "^1.3.1",
+    "pug": "^3.0.0",
+    "pug-loader": "^2.4.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {}
+}
