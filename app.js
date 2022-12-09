@@ -101,6 +101,7 @@ __webpack_require__.r(__webpack_exports__);
  * according to a search query.
  */
 class ElementSearcher {
+
   /**
    * Creates an ElementSearcher.
    *
@@ -203,9 +204,9 @@ class ElementSearcher {
    * nodes in no particular order.
    */
   _getTextNodesRecursively(element, textNodes = new Set()) {
-      this._getTextNode(element)
-        .split(/\W+/)
-        .forEach(textNodes.add, textNodes);
+    this._getTextNode(element)
+      .split(/\W+/)
+      .forEach(textNodes.add, textNodes);
 
     if (element.hasChildNodes()) {
       for (const node of element.childNodes) this._getTextNodesRecursively(node, textNodes)
