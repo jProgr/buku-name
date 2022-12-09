@@ -107,13 +107,25 @@ export class ElementSearcher {
    */
   _getTextNodesRecursively(element, textNodes = new Set()) {
     this._getTextNode(element)
-      .split(/\W+/)
+      .split(/[^\w\-]/)
       .forEach(textNodes.add, textNodes);
 
     if (element.hasChildNodes()) {
       for (const node of element.childNodes) this._getTextNodesRecursively(node, textNodes)
     }
 
-    return textNodes;
+    return this._cleanEmpty(textNodes);
+  }
+
+  /**
+   * Removes any empty strings from the set.
+   *
+   * @param  {Set} strings
+   * @return {Set}
+   */
+  _cleanEmpty(strings) {
+    if (strings.has('')) strings.delete('');
+
+    return strings;
   }
 }
