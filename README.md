@@ -1,6 +1,6 @@
 # buku-name dictionary
 
-Mini - English dictionary.
+[Mini](https://minilanguage.com/) - English dictionary.
 
 ## Development
 
