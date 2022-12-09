@@ -3,6 +3,7 @@
  * according to a search query.
  */
 export class ElementSearcher {
+
   /**
    * Creates an ElementSearcher.
    *
@@ -105,9 +106,9 @@ export class ElementSearcher {
    * nodes in no particular order.
    */
   _getTextNodesRecursively(element, textNodes = new Set()) {
-      this._getTextNode(element)
-        .split(/\W+/)
-        .forEach(textNodes.add, textNodes);
+    this._getTextNode(element)
+      .split(/\W+/)
+      .forEach(textNodes.add, textNodes);
 
     if (element.hasChildNodes()) {
       for (const node of element.childNodes) this._getTextNodesRecursively(node, textNodes)
