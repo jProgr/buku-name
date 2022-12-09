@@ -12,11 +12,22 @@ head
     p.subtitle Mini-English Dictionary
   main
     #search-box
-      input(type='text' id='search' autofocus='true' placeholder='search' autocorrect='off' autocapitalize='off' spellcheck='false')
+      input(
+        type='text'
+        id='search'
+        autofocus='true'
+        placeholder='search'
+        autocorrect='off'
+        autocapitalize='off'
+        spellcheck='false'
+      )
     .dictionary-words
       each term in dictionary
         .word
-          p.word-container #{term.word}: #{term.meaning}
+          p(
+            id=term.word
+            class='word.word-container'
+          ) #{term.word}: #{term.meaning}
   footer
     .credits
       ul
