@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+### Fixed
+- Fix spacing between terms.
+
 ## 1.0.1
 ### Added
 - Added version info to footer.
