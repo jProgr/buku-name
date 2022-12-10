@@ -42,16 +42,25 @@ export class ElementSearcher {
    * @param {string} query
    * @return {undefined}
    */
-  search(query) {
+  search(query, options) {
     if (!query) {
       this.showAll();
       return;
     }
 
     this._nodes.forEach((element, id) => {
-      if (this._textNodes.get(id).has(query)) { this._showElement(element); }
+      if (this._doesMatch(query, this._textNodes.get(id), options)) { this._showElement(element); }
       else { this._hideElement(element); }
     });
+  }
+
+  _doesMatch(query, strings, options) {
+    if (options.exactMatch) { return strings.has(query); }
+    else {
+      for (const string of strings) if (string.includes(query)) return true;
+    }
+
+    return false;
   }
 
   /**
@@ -107,7 +116,7 @@ export class ElementSearcher {
    */
   _getTextNodesRecursively(element, textNodes = new Set()) {
     this._getTextNode(element)
-      .split(/[^\w\-]/)
+      .split(/[^\w-]/)
       .forEach(textNodes.add, textNodes);
 
     if (element.hasChildNodes()) {
