@@ -140,16 +140,25 @@ class ElementSearcher {
    * @param {string} query
    * @return {undefined}
    */
-  search(query) {
+  search(query, options) {
     if (!query) {
       this.showAll();
       return;
     }
 
     this._nodes.forEach((element, id) => {
-      if (this._textNodes.get(id).has(query)) { this._showElement(element); }
+      if (this._doesMatch(query, this._textNodes.get(id), options)) { this._showElement(element); }
       else { this._hideElement(element); }
     });
+  }
+
+  _doesMatch(query, strings, options) {
+    if (options.exactMatch) { return strings.has(query); }
+    else {
+      for (const string of strings) if (string.includes(query)) return true;
+    }
+
+    return false;
   }
 
   /**
@@ -205,14 +214,26 @@ class ElementSearcher {
    */
   _getTextNodesRecursively(element, textNodes = new Set()) {
     this._getTextNode(element)
-      .split(/\W+/)
+      .split(/[^\w-]/)
       .forEach(textNodes.add, textNodes);
 
     if (element.hasChildNodes()) {
       for (const node of element.childNodes) this._getTextNodesRecursively(node, textNodes)
     }
 
-    return textNodes;
+    return this._cleanEmpty(textNodes);
+  }
+
+  /**
+   * Removes any empty strings from the set.
+   *
+   * @param  {Set} strings
+   * @return {Set}
+   */
+  _cleanEmpty(strings) {
+    if (strings.has('')) strings.delete('');
+
+    return strings;
   }
 }
 
@@ -220,14 +241,27 @@ class ElementSearcher {
 
 
 
+// Search
 const wordElements = document.querySelectorAll('div[class=word]');
 const searcher = new ElementSearcher(wordElements);
-
 const searchElement = document.getElementById('search');
-searchElement.addEventListener('keyup', () => {
-  const query = searchElement.value.trim().toLowerCase();
-  searcher.search(query);
+
+// Options
+const exactMatchElement = document.getElementById('exact-match');
+let options = {
+  exactMatch: exactMatchElement.checked,
+};
+exactMatchElement.addEventListener('change', () => {
+  options.exactMatch = exactMatchElement.checked
+  search(searcher, searchElement, options);
 });
+
+searchElement.addEventListener('keyup', () => search(searcher, searchElement, options));
+
+function search(searcher, searchElement, options) {
+  const query = searchElement.value.trim().toLowerCase();
+  searcher.search(query, options);
+}
 
 
 /***/ })
