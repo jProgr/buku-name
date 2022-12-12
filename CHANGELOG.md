@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.1
+### Added
+- Added multiple words.
+
+### Changed
+- Updated favicon.
+- Improved some definitions.
+
 ## 1.1.0
 ### Added
 - Added exact match option.
