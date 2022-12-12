@@ -6,6 +6,7 @@ adere;adhere, stick, cling, sticky, glue
 adio;bye, farewell, valediction
 aeji;shield, armor
 aero-loka;airlock
+aero-pota;airport
 aero;air, atmosphere, gas
 afa;after
 afoga;drown, submerge, a drowning
@@ -544,7 +545,7 @@ metodo;method, procedure, technique, means, methodical
 mi-ale;we (includes addressee)
 mi-ego;myself
 mi-mui;we (excludes addressee)
-mi;first person
+mi;first person, I
 midori;green
 milita;military, army
 mime;mimic, copy, imitation
@@ -851,7 +852,7 @@ si-kosa;it
 si-ota;the other one
 si-uno;one (indefinite pronoun)
 si-viro;he
-si;third person
+si;third person, he, she, it
 sibi;sibling, brother, sister
 sibila;whistle, hiss, fizzle, whiz, zip
 siensa-ma;scientist
@@ -960,7 +961,7 @@ toti;turtle, tortoise
 tovari;companion, spouse, partner, comrade
 tu-ale;you all
 tu-ego;yourself
-tu;second person
+tu;second person, you
 tubo;tube, pipe
 tufan;storm, stormy, typhoon, hurricane
 tuju;always, forever, ever
