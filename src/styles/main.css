@@ -71,6 +71,9 @@ main {
   margin: 0 auto;
   width: 250px;
 }
+#search {
+  font-family: serif;
+}
 input {
   width: 100%;
   height: 100%;
