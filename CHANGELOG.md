@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.2.0
+### Added
+- Options are now saved between visits.
+- Added new words.
+
+### Changed
+- Improved page size.
+- Updated dictionary.
+
+### Fixed
+- More consistent style.
+
 ## 1.1.1
 ### Added
 - Added multiple words.
