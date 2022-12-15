@@ -181,14 +181,21 @@ input[type=checkbox]:checked::before {
 
 footer {
   margin-top: 50px;
-  font-size: 16px;
+  font-size: 14px;
 }
 
-.footer-title {
-  font-weight: 600;
+p.keyboard-shortcuts {
+  font-size: 18px;
 }
-.parts-of-speech {
-  font-weight: 300;
+#shortcuts dt {
+  display: inline;
+  border: 2px solid snow;
+  padding: 4px 4px 1px;
+  margin: 1px;
+}
+#shortcuts dd {
+  margin-left: 5px;
+  display: inline;
 }
 
 .credits {
