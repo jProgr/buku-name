@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.0
+### Added
+- Added keyboard shortcuts: Pressing "." will toggle the exact match option.
+
+### Changed
+- Updated dictionary.
+
 ## 1.2.0
 ### Added
 - Options are now saved between visits.
