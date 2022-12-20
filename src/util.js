@@ -17,3 +17,7 @@ export function triggerEvent(element, eventName) {
 export function removeDots(string) {
   return string.replace(/\.+/, '');
 }
+
+export function isElementFocused(element) {
+  return element.matches(':focus');
+}

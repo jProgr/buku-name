@@ -187,6 +187,10 @@ footer {
 p.keyboard-shortcuts {
   font-size: 18px;
 }
+#shortcuts div {
+  display: block;
+  margin-bottom: 18px;
+}
 #shortcuts dt {
   display: inline;
   border: 2px solid snow;

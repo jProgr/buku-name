@@ -1,7 +1,8 @@
 import './styles/main.css';
 import {ElementSearcher} from './search';
 import {Options} from './options';
-import {triggerEvent, removeDots} from './util';
+import {removeDots} from './util';
+import {Shortcuts} from './shortcuts';
 
 // Options
 const exactMatchElement = document.getElementById('exact-match');
@@ -18,15 +19,7 @@ exactMatchElement.addEventListener('change', () => search(searcher, searchElemen
 searchElement.addEventListener('keyup', () => search(searcher, searchElement, options.options));
 
 // Keyboard shortcuts
-searchElement.addEventListener('keyup', (event) => {
-  if (event.key === '.') searchElement.value = removeDots(searchElement.value);
-});
-window.addEventListener('keyup', (event) => {
-  if (event.key !== '.') return;
-
-  exactMatchElement.checked = !exactMatchElement.checked;
-  triggerEvent(exactMatchElement, 'change');
-});
+new Shortcuts(searchElement, exactMatchElement);
 
 function search(searcher, searchElement, options) {
   const query = searchElement.value.trim().toLowerCase();
