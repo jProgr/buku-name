@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.3.1
+### Added
+- Added keyboard shortcuts:
+    - "f" will focus the search box.
+    - "<" (less than) will clear the search box contents.
+
+### Changed
+- Updated dictionary.
+- Updated icons.
+
+### Fixed
+- Fixed some definitions.
+
 ## 1.3.0
 ### Added
 - Added keyboard shortcuts: Pressing "." will toggle the exact match option.
