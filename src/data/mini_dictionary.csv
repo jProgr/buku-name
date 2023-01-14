@@ -23,6 +23,7 @@ alien;foreign, alien
 alio;garlic
 amidala;almond, tonsil, amygdala
 amigo;friend, acquaintance, befriend, friendly
+amo-man;darling
 amo;love, dear
 amuse;amuse, entertain, fun, entertainment
 an;and, also
@@ -60,6 +61,7 @@ bai;bay, golf, cove
 bajo-fura;anus
 bajo;low, short (height)
 baka-pale-tori;mockingbird
+baka-pale;mock
 baka;back (body + adv), rear side, backward, behind
 balansa;balance, equilibrium, a scale, balanced, fair
 balena;whale, dolphin, porpoise, cetacean
@@ -180,8 +182,8 @@ e;introduces adjectival & adverbial complement
 edu;teach, educate, education, educated
 efeto;effect, result, to effect, effective
 egala;equal, equality, equation, equally
+ego-ereki;independence
 ego;self, own (adj)
-ego_ereki;independence
 eki-mun;exit
 eki;out, ex-, away, external
 eko;echo, reflection
@@ -233,6 +235,7 @@ favo;favor, like, favorite, please
 fekun;fertile, fecund, fertilizer, productive
 feme-amigo;girlfriend
 feme-kinde;girl
+feme-paren;mother
 feme;woman, female
 fen;fen, swamp, bog, marsh
 fense;fence, barrier, partition, hedge, fence off
@@ -256,6 +259,7 @@ fisu;crack, fissure, cracked
 fo;four, 4
 fobo;fear, horror, fearful, scary
 fogo;fire, hot, burn
+foli-nase;flat nose
 foli;sheet, leaf, flat, flatten, page
 foma;foam, froth, suds, mousse, lather
 fon;phone
@@ -296,6 +300,7 @@ guru;teacher, expert, priest, guru
 i;introduces verb
 ia;hear, listen, ear
 idea;idea, concept, conceptual, ideate
+igi-man;carpenter
 igi;tree, wood
 ila;island
 imaje;image, picture
@@ -345,6 +350,7 @@ jusi;juice, juicy
 ka;because
 kabinete;cabinet, hutch, wardrobe
 kabon;carbon, coal
+kabuma-oko;pop eye, pop-eyed
 kabuma;explode, explosion, blast, detonate, pop
 kada;each, respectively
 kadena;chain, fetters
@@ -376,11 +382,13 @@ kanti;sing, song, tune, melody
 kapa;capture, catch, seize, grasp, captive, grab
 kapo;head
 kare;square, plaza
+karera-man;contestant, player, participant, challenger
 karera;race, competition, compete
 karo;car, vehicle, drive
 kasa;house, building
 kasele;castle, fortress
 kasi;almost
+kata-igi-man;woodman, woodsman
 kata;cut, incision, slice, chop
 katana;sword
 kavalo;horse, donkey, mule
@@ -401,6 +409,7 @@ kilo;thousand, 1000
 kinde-gaden;kindergarten
 kinde;child
 kino;film, movie, cinema, to film
+kipa-tenden-neso;stability
 kipa;keep, stay, remain, remainder
 kirikiti;cricket, grasshopper, locust
 kite;leave, quit, abandon, exit
@@ -467,6 +476,7 @@ leje;read, a reading, well-read
 lense;lens, eyeglasses, magnifying glass
 lenta;slow, slowly
 leon;lion, tiger, panther, a big cat
+leva-sole;sunrise, dawn, daybreak
 leva;level, elevate, rise
 levi;left (direction)
 liabili;responsible, liable, liability, responsibility
@@ -481,6 +491,7 @@ limon;lemon, lime, citrus
 limpe;limp, flaccid, floppy, to limp, lax
 lin;flash, lightning, bolt
 line;line
+linga-name;vocabulary
 linga;tongue, lick, language
 lipo-patata;fries, chips, french fries, finger chips
 lipo;fat, fatty, grease, fatten, to fry
@@ -508,6 +519,7 @@ madu;honey
 mageneti;magnet, magnetic
 maisa;corn
 maji;magic, magical, conjure
+make-man;author
 make;make, do, create
 makina;machine, apparatus
 mala-tira;misfire
@@ -589,6 +601,7 @@ muro;wall
 musele;muscle, muscular
 musika;music, musical
 muso;mouse, rat
+muta-numa;version (number)
 muta;change, modify, modification, mutation
 nafasa;breathe, breath
 naga;snake, slither
@@ -630,6 +643,8 @@ nudelo;noodle
 nudi;nude, naked, nudity
 nuga;rub, friction, massage, caress, tickle, chafe
 nuki;nut
+nulo-mira;blind
+nulo-pelo;hairless
 nulo;nothing, zero, 0
 numa;number
 nun-dia;today
@@ -789,7 +804,7 @@ robare;steal, theft
 roboto;robot
 roden;rodent (non-mouse), squirrel, beaver
 roga;ask, question
-roka;rock
+roka;rock, stone
 roketa;rocket, missle, projectile
 rompe;break, rupture, smash, disrupt
 rondo;circle, round, around
@@ -860,6 +875,7 @@ sete;thirst, thirsty
 seven;seven, 7
 severe;severe, strict
 si-ale;they
+si-duo;both
 si-ego;himself, herself, itself
 si-feme;she
 si-kosa;it
@@ -1048,9 +1064,11 @@ violensa;violence, violent
 vipi;whip, lash
 viro-amigo;boyfriend
 viro-kinde;boy
+viro-paren;father
 viro;man, male
 viru;virus, viral
 visita;visit
+viva-kamera;living room
 viva;life, live
 voka;voice, call, call out, summon
 vola-muso;bat (animal)
