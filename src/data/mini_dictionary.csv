@@ -50,7 +50,7 @@ aseta;accept, consent, agree, agreement, accord, pact
 asido;acid, sour, acidic, vinegar
 asilu;asylum, refuge, shelter
 atira;attract, attraction
-ato;act, performance, behavior, active
+ato;act, performance, behavior, behaviour, active
 atomo;atom, atomic
 ave;have, possession
 avion;airplane
@@ -60,6 +60,8 @@ bagaje;luggage, baggage, gear, personal effects, to lug
 bai;bay, golf, cove
 bajo-fura;anus
 bajo;low, short (height)
+baka-dona;return (something), give back
+baka-go;return (movement), go back
 baka-pale-tori;mockingbird
 baka-pale;mock
 baka;back (body + adv), rear side, backward, behind
@@ -124,6 +126,8 @@ buku;book
 bulu;blue
 buo;float, buoy, buoyant, a float
 butero;butter, buttery
+da-ma-impotan-manja;dinner, supper
+da-ma-impotan;main
 da;that, there, would
 dalili;evidence, proof, demonstration, testimony
 danja;danger, dangerous
@@ -158,6 +162,7 @@ difuse;spread, diffuse, diffusion
 dijesi;digest, digestion
 diji;finger, toe, digit
 dika;fat, thick
+dimenti-neso;forgiveness
 dimenti;forget, forgive
 dinosoro;dinosaur
 dipa;deep, depth, profound
@@ -168,6 +173,7 @@ dive;dive, plunge, submerge
 divi;divide, split, division, separate
 dogi;dog
 domo;home, domestic, reside, domesticate
+dona-duka;attack, assault
 dona;give, gift
 doragon;dragon
 dua;request, ask, prayer, invocation, plea, petition
@@ -265,7 +271,7 @@ foma;foam, froth, suds, mousse, lather
 fon;phone
 fonte;fountain, spring, well
 fore;front, forehead, forward
-foreta;forest
+foreta;forest, woods
 fosi;dig, bury
 fuji;flee, escape, run away
 fule;full, to fill, whole
@@ -308,6 +314,7 @@ imperi;command, imperative, rule, empire, imperial
 impotan;important, importance, to matter
 induseri;industry, industrial
 infero;hell, to damn, hellish
+infiniti-vole;greed
 infiniti;infinity, infinite
 info;information, inform, informative
 inja;wound, injure, injury
@@ -344,6 +351,7 @@ joli;happy, joy, frolic, enjoy
 jue;cheek, jowl
 jumpa;jump, bounce, leap, hop, skip, bounce
 junta;join, group, together
+jura-neso;justice
 jura;law, rule, instruction
 jusa;just (adv), very recently, to have just ...,
 jusi;juice, juicy
@@ -470,6 +478,7 @@ lan;land, territory, domain, state
 lana;wool
 lase;let, allow, license, permission, licit
 lasi;lazy, indolence, inactivity
+lati-maladi;plague, epidemic
 lati;wide, broad, width, latitude
 lava;wash
 leje;read, a reading, well-read
@@ -522,14 +531,17 @@ maji;magic, magical, conjure
 make-man;author
 make;make, do, create
 makina;machine, apparatus
+mala-pasa;misfortune, hardship, adversity, hard times
 mala-tira;misfire
 mala;bad
 maladi;malady, sickness, ill
 maleta;hammer, mallet
+man-ale;everybody, everyone
 man;person, human
 mandiba;jaw, mandible
 manja;food, eat
 manka;mark, stain, blemish, spot
+mano-jeti;applaud
 mano;hand
 mapa;map, chart
 mare;ocean, sea, marine
@@ -545,6 +557,7 @@ mebi;maybe, possibility
 medi;average, medium, normal, usual, standard, norm
 media;media, communication, press
 medika;medicine, medicinal
+mega-sono;loud
 mega;big, great, large, million, 1000000
 melanje;mixture, mix
 melankoli;sad, melancholy, mourn
@@ -554,6 +567,7 @@ memo;memory, remember
 menase;threat, menace, menacing, threaten
 meno;less (comparison), fewer, minus
 menta;mind, mental
+mentira-make;pretend, deceive
 mentira;lie, false, deceive, deception
 menu;menu
 merite;deserve, merit, -worthy
@@ -570,6 +584,7 @@ midori;green
 milita;military, army
 mime;mimic, copy, imitation
 mina;mine (place + action)
+mini-peso;bit, small piece
 mini;small, little
 minute;minute
 mira;see, look, watch, sight
@@ -607,6 +622,7 @@ nafasa;breathe, breath
 naga;snake, slither
 naje;swim
 najima;star, to highlight, celebrity
+name-buku;dictionary
 name;name, word
 nami;wave, undulation
 naro;narrow, thin, strait
@@ -643,6 +659,8 @@ nudelo;noodle
 nudi;nude, naked, nudity
 nuga;rub, friction, massage, caress, tickle, chafe
 nuki;nut
+nulo-arapan;despair, hopeless
+nulo-enejia;listless, sluggish, lethargic
 nulo-mira;blind
 nulo-pelo;hairless
 nulo;nothing, zero, 0
@@ -673,6 +691,7 @@ ota;other, different
 otelo;hotel
 otono;autumn
 oven;oven, furnace, bake, heater
+ovi-man;shepherd
 ovi;lamb, sheep
 ovo;egg
 padon;pardon, forgive, condone, an excuse
@@ -715,7 +734,7 @@ piano;piano
 piato;plate, dish, disc, tray, to plate
 piega;fold, crease
 pigi;pig, boar
-pigu;butt
+pigu;butt, ass
 pika;prick, pierce, sting
 pila;yellow
 pile;pill, pellet, bullet
@@ -756,6 +775,7 @@ pura;pure, clean, cleanse
 puse;press, push, shove
 radi;ray, beam, radiate, bolt, radius
 radika;root, rooted, rhizome, tuber
+raja-senjore;majesty, highness
 raja-topi-viru;coronavirus
 raja;ruler, royal, king, queen
 raka;rack, shelf, ledge
@@ -780,6 +800,7 @@ regen;rain
 regula;regulate, regulation, control, ruler (tool), a rule
 rela;rail, train, bar
 relate;relate, relation, relationship, connection, connect with
+relijon-mesa;altar, shrine
 relijon;religion, religious
 remo;oar, rudder, to row
 rena;kidney
@@ -798,6 +819,7 @@ rio;river, stream
 risa;laugh
 risiti;receive, get, receipt, acknowledge, reception
 riso;rice
+rite-neso;formality
 rite;rite, ceremony, ceremonial
 roba;dress, robe
 robare;steal, theft
@@ -807,6 +829,7 @@ roga;ask, question
 roka;rock, stone
 roketa;rocket, missle, projectile
 rompe;break, rupture, smash, disrupt
+rondo-nun;turn (turn to play)
 rondo;circle, round, around
 ronko;snore, grunt
 ropa;clothing, wear
@@ -835,6 +858,7 @@ san;three, 3
 sando;sandwich
 sange;blood, bleed
 sano;health, healthy, heal
+santi-man;saint
 santi;holy, spiritual
 sapato;shoe
 sava;save, rescue, salvation, salvage, retrieve
@@ -874,6 +898,7 @@ sesi;sex, sexy, copulate, gender
 sete;thirst, thirsty
 seven;seven, 7
 severe;severe, strict
+si-ale-ego;themselves
 si-ale;they
 si-duo;both
 si-ego;himself, herself, itself
@@ -915,6 +940,7 @@ solidi;solid, firm
 solo;single, alone, only
 solu;solve, solution, loose, untie, dissolve
 soma;summer
+some-si-uno;someone, somebody, anyone
 some;some, few, an indefinite amount, somewhat
 sonjo;dream
 sono;sound
@@ -1001,6 +1027,7 @@ tufan;storm, stormy, typhoon, hurricane
 tuju;always, forever, ever
 tumba;grave, tomb
 tumo;tumor, swell, swelling, bulge
+tupe-kavalo;donkey, ass (animal)
 tupe;dull, blunt, obtuse, dumb
 u;or, either
 uben;exercise, training, practice, drill
@@ -1046,14 +1073,18 @@ veni;come, become
 ventana;window, mirror, screen
 vento;wind, windy
 vepon;weapon, arms, to arm, weaponize
+vere-fule-neso;honesty
+vere-fule;honest, truthful
 vere;true, truth, really
 vese;west
 veta;weather, climate
 via-linga;translate, translation
+via-viva;survive
 via;through, across, trans-
 vibe;vibe, shake, vibrate, agitate, vibration, turbulence
 vila;village, town
 vile;while, during
+vina-man;culprit, wrongdoer
 vina;blame, fault, guilt
 vinge;wing, brim, vane
 vino-beri;grapes
