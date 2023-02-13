@@ -1,6 +1,7 @@
 word;meaning
 a;introduces direct object & nominal complement
 abuso;abuse, violate, rape, assault, abusive
+ade-kolun;spar (ship), mast
 ade;aid, care, concern, help, care for
 adere;adhere, stick, cling, sticky, glue
 adio;bye, farewell, valediction
@@ -29,12 +30,14 @@ amuse;amuse, entertain, fun, entertainment
 an;and, also
 ani;any (determiner), whichever, anyone
 anima;soul, spirit
+animale-sela;pen (for animals), corral, enclosure (for animals)
 animale;animal
 anjo;angel, angelic
 ankora;yet, even, still
 ano;year, annual
 ansio;anxious, anxiety, nervous
 ante;before
+anti-tempo-tolera;impatience
 anti;against, anti-, opposite, opposing, oppose
 antika;old, to age, antique, ancient
 anunsi;announce, announcement, declare, declaration
@@ -146,6 +149,7 @@ deluje;flood, torrent, inundate, overwhelm, overwhelming
 demo;demonstration, indicate, show
 demon;devil, demon, diabolical
 den;then, in that case
+denta-materi;ivory
 denta;tooth, bite
 deo;god, divine
 dereka;right (direction + moral + legal), straight, orthodox
@@ -167,7 +171,7 @@ dimenti;forget, forgive
 dinosoro;dinosaur
 dipa;deep, depth, profound
 dire;say, tell, utter, recite, utterance, saying
-direto;direction, orientation, guidance, course, direct
+direto;direction, orientation, guidance, course, direct, advice, advise
 disipa;waste (use without good purpose), squander
 dive;dive, plunge, submerge
 divi;divide, split, division, separate
@@ -189,6 +193,7 @@ edu;teach, educate, education, educated
 efeto;effect, result, to effect, effective
 egala;equal, equality, equation, equally
 ego-ereki;independence
+ego-man;owner
 ego;self, own (adj)
 eki-mun;exit
 eki;out, ex-, away, external
@@ -258,6 +263,7 @@ figura;figure, form, shape, structure, statue, figurine
 filete;steak, fillet, to fillet
 fili;son, daughter
 filoso;philosophy, philosophical, philosophize
+fini-semana;weekend
 fini;finish, final, end
 fiore;flower
 fisika;physics, physical, physique
@@ -345,6 +351,7 @@ jeo;prison, jail, imprison
 jeritan;yell, scream, shout, exclaim
 jeti;throw, shot, shoot, hit
 jin;gold, golden
+jira-unda-go;fall rolling, tumble down, fall suddenly and without grace
 jira;turn, gyrate, spin, whirl
 joke;joke, jest
 joli;happy, joy, frolic, enjoy
@@ -445,6 +452,7 @@ konka;shell
 kono;cone
 konsiense;conscience, awareness, conscious, consciousness
 kopa;cup, drinking vessel, chalice
+kopen-man;shopper, purchaser, customer, buyer, client
 kopen;buy, a purchase
 kopere;copper
 kore;heart
@@ -454,6 +462,7 @@ kosa;thing, stuff
 kosina;kitchen, to cook
 kote;cost, price, to cost
 koton;cotton
+kova-oko;eyelid
 kova;cover, covering, conceal, blanket, cloak, shawl
 kubita;elbow, nudge, cubit
 kubo;brick, cube, block
@@ -544,7 +553,10 @@ manka;mark, stain, blemish, spot
 mano-jeti;applaud
 mano;hand
 mapa;map, chart
+mare-man;seaman, seafaring person, sailor
 mare;ocean, sea, marine
+mari-feme;wife
+mari-viro;husband
 mari;marry, marriage
 maron;brown
 masa;mass, pile, heap, to amass, massive
@@ -602,6 +614,7 @@ monte;mountain, hill, bump, protrusion, protrude, bumpy
 morale;moral, morality, moralize, morale, virtue
 more;custom, habit, customary, tradition, traditional
 mori;death, die, dead, kill
+moto-bike;motorcycle, motorbike
 moto;motor, engine
 move-imaje-ludi;video game
 move;move, movement, motion, movie
@@ -609,6 +622,7 @@ mudi;purpose, goal, objective, aim, end, intend, target
 mui;very, many, much, a lot
 muko;mucus, snot, phlegm
 mumi;wax, waxy
+mun-siren;doorbell
 mun;door, gate
 mundo;world, globe, global
 muravi;ant
@@ -660,9 +674,11 @@ nudi;nude, naked, nudity
 nuga;rub, friction, massage, caress, tickle, chafe
 nuki;nut
 nulo-arapan;despair, hopeless
+nulo-benda;inflexible, stubborn, obstinate
 nulo-enejia;listless, sluggish, lethargic
 nulo-mira;blind
 nulo-pelo;hairless
+nulo-uti;useless, in vain
 nulo;nothing, zero, 0
 numa;number
 nun-dia;today
@@ -681,6 +697,7 @@ onion;onion, bulb
 onore;honor, honorable, reputation
 open;open
 opitala;hospital
+ora-uti;clock
 ora;hour, o'clock, clock time
 oranje;orange
 orijen;origin, source, original
@@ -701,6 +718,7 @@ paketa;package, parcel, packet, bundle
 pale;talk, speech, discussion
 pan;bread
 panta;pants, trousers
+papaver-kemi;opium
 pape;paper
 papilon;butterfly, moth
 para;stop, halt
@@ -710,6 +728,7 @@ pari;bet, wager, gamble
 parija;grill, grid, grate, broiler, gridiron
 pasa-pota;passport
 pasa;pass, happen, past
+pase-tori;dove, pigeon
 pase;peace, peaceful
 paso;step, stride, pace
 patata;potato
@@ -757,6 +776,7 @@ polo;chicken, fowl
 poma;apple
 pone;put, lay, place
 ponte;bridge
+popula-regula-gove;democracy
 popula;people, population, populate, populous, popular
 pota;carry, transport, transfer, port, cargo
 pote;pot, pan, cauldron, crucible, saucepan
@@ -934,6 +954,7 @@ sofa;sofa
 sofio;blow, inflate, puff
 soke;sock, stocking
 sole-lense;sunglasses, shades
+sole-luse;sunshine
 sole;sun
 soli;soil, dirt, clay, mud
 solidi;solid, firm
@@ -985,6 +1006,7 @@ teke;goat, antelope, ibex, a caprine
 teki;technology, technological, technical
 tela;cloth, fabric
 tema;theme, subject, topic, to be about, to concern
+tempo-tolera;patience
 tempo;time
 ten;ten, 10
 tenden;tendency, bias, inclination, inclined to
@@ -1013,6 +1035,7 @@ toilete;toilet, urinal, restroom, wc, use bathroom
 tolera;tolerate, tolerance, tolerant, accepting
 toma;take
 tonere;thunder
+topi-noga;lap (front of thighs)
 topi;cap, hat, top, summit
 tore;tower, skyscraper, turret, steeple, minaret
 tori;bird
@@ -1037,7 +1060,9 @@ ujana;young, youth, a youth
 uka;hook, hanger, crook (shepherd), mitre
 ulu;owl
 umile;humble, modest, humility, shame
-unda;under, below, down
+unda-go;fall, descend
+unda-sole;sunset, twilight, sundown
+unda;under, below, down, fall
 undon;sport, athletic, physical exercise
 ungu;nail, hoof, claw
 univesa;universe, universal
