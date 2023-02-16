@@ -157,6 +157,7 @@ deside;decide, decision, adjudicate, resolve, settle
 desini;design, sketch, blueprint, pattern
 detali;detail, detailed, meticulous
 deteki;detect, find, notice, discovery, discovery
+develo-ruja-feruta;tomato
 develo;develop, grow, growth, development
 di-dia;today
 di;this, here
@@ -169,15 +170,19 @@ dika;fat, thick
 dimenti-neso;forgiveness
 dimenti;forget, forgive
 dinosoro;dinosaur
+dipa-enejia;manic, mania
+dipa-melankoli;depression (mood disorder)
 dipa;deep, depth, profound
 dire;say, tell, utter, recite, utterance, saying
 direto;direction, orientation, guidance, course, direct, advice, advise
 disipa;waste (use without good purpose), squander
 dive;dive, plunge, submerge
+divi-man;separatist
 divi;divide, split, division, separate
 dogi;dog
 domo;home, domestic, reside, domesticate
 dona-duka;attack, assault
+dona-mala-name;criticize, criticise, condemn
 dona;give, gift
 doragon;dragon
 dua;request, ask, prayer, invocation, plea, petition
@@ -205,10 +210,12 @@ eleki;electric, electricity
 eleti;elect, election, select, choose, selection
 elika;helix, curl, twist, curly, spiral, coil, propeller
 emo;emotion, emotional, passionate, emote
+en-fini;marginal
 en-move;immigration
 en-mun;entrance
 en-pota;import
 en-salu;welcome
+en-savi;convince, persuade, make someone else understand
 en;in, at, on
 enejia;energy, energize, energetic
 enemi;enemy, nemesis
@@ -263,6 +270,7 @@ figura;figure, form, shape, structure, statue, figurine
 filete;steak, fillet, to fillet
 fili;son, daughter
 filoso;philosophy, philosophical, philosophize
+fini-make;achieve, accomplish, complete doing (something)
 fini-semana;weekend
 fini;finish, final, end
 fiore;flower
@@ -475,6 +483,7 @@ kuri;run, sprint, jog
 kusin;cousin
 kuve;tub, barrel, vat, tank
 labi;lip, rim, brim
+labora-man;employee, worker
 labora;work, labor, hard-working
 lada;ladder, escalator, stairs, steps
 lado;side, adjacent, next to
@@ -499,8 +508,10 @@ leva;level, elevate, rise
 levi;left (direction)
 liabili;responsible, liable, liability, responsibility
 libera;freedom, free, liberate
+lida-make;manage, take care of (an issue), deal with
 lida;lead, leader, direct, guide
 liga;tie, bind, knot, league, link, connection
+liki-salo;sauce, gravy
 liki;liquid, liquify, fluid
 lila;purple, lilac
 limako;snail, slug, a mollusk
@@ -569,6 +580,7 @@ mebi;maybe, possibility
 medi;average, medium, normal, usual, standard, norm
 media;media, communication, press
 medika;medicine, medicinal
+mega-basara;supermarket
 mega-sono;loud
 mega;big, great, large, million, 1000000
 melanje;mixture, mix
@@ -580,7 +592,7 @@ menase;threat, menace, menacing, threaten
 meno;less (comparison), fewer, minus
 menta;mind, mental
 mentira-make;pretend, deceive
-mentira;lie, false, deceive, deception
+mentira;lie, false, deceive, deception, fake
 menu;menu
 merite;deserve, merit, -worthy
 mesa;table
@@ -619,6 +631,7 @@ moto;motor, engine
 move-imaje-ludi;video game
 move;move, movement, motion, movie
 mudi;purpose, goal, objective, aim, end, intend, target
+mui-rite-ropa;suit, tuxedo
 mui;very, many, much, a lot
 muko;mucus, snot, phlegm
 mumi;wax, waxy
@@ -666,6 +679,7 @@ no;no, not
 noga;leg
 nonga;farm, cultivate, agricultural
 nore;north
+note-pape;notepad, memo book, notebook (for writing)
 note;write, a writing
 nu;new
 nube;cloud, cloudy
@@ -676,9 +690,11 @@ nuki;nut
 nulo-arapan;despair, hopeless
 nulo-benda;inflexible, stubborn, obstinate
 nulo-enejia;listless, sluggish, lethargic
+nulo-kipa-tenden-neso;instability, unstability
 nulo-mira;blind
 nulo-pelo;hairless
 nulo-uti;useless, in vain
+nulo-vina;innocence, lack of guilt
 nulo;nothing, zero, 0
 numa;number
 nun-dia;today
@@ -807,6 +823,7 @@ ranko;rank, status, ordering, -th (ordinal)
 rano;early, too soon
 rapi;fast, speed, quickly
 raro;rare, weird, strange
+rasa-divi;racial segregation
 rasa;race, ethnicity, racial
 raso;shave, scrape, graze
 rason;reason, cause, explanation
@@ -828,6 +845,7 @@ renta;rent, borrow
 reo;flow, current, rhythm, influence
 repare;fix, correction, improvement, repair, mend
 repubika;republic, republican
+resi-figura;lie down, lay down
 resi;rest, sleep
 retili;reptile, crawl, creep
 retorante;restaurant
@@ -947,12 +965,14 @@ siren;bell, siren, alarm, to chime, handbell, doorbell
 sisora;scissors, shears
 sita;six, 6
 sitema;system, systematic, systematize
+siti-senta;downtown, city centre, city center
 siti;city
 sivi;citizen, civilian, civil, civilize
 so;so, such
 sofa;sofa
 sofio;blow, inflate, puff
 soke;sock, stocking
+sole-fogo;sunburn
 sole-lense;sunglasses, shades
 sole-luse;sunshine
 sole;sun
@@ -961,6 +981,7 @@ solidi;solid, firm
 solo;single, alone, only
 solu;solve, solution, loose, untie, dissolve
 soma;summer
+some-kosa;something
 some-si-uno;someone, somebody, anyone
 some;some, few, an indefinite amount, somewhat
 sonjo;dream
@@ -1008,6 +1029,7 @@ tela;cloth, fabric
 tema;theme, subject, topic, to be about, to concern
 tempo-tolera;patience
 tempo;time
+ten-ano;decade
 ten;ten, 10
 tenden;tendency, bias, inclination, inclined to
 teni;hold, grasp, cling to
@@ -1045,6 +1067,7 @@ tovari;companion, spouse, partner, comrade
 tu-ale;you all
 tu-ego;yourself
 tu;second person, you
+tubo-laji;sewer, drain
 tubo;tube, pipe
 tufan;storm, stormy, typhoon, hurricane
 tuju;always, forever, ever
@@ -1108,6 +1131,7 @@ via-viva;survive
 via;through, across, trans-
 vibe;vibe, shake, vibrate, agitate, vibration, turbulence
 vila;village, town
+vile-tempo;period, interval (of time)
 vile;while, during
 vina-man;culprit, wrongdoer
 vina;blame, fault, guilt
