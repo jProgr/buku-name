@@ -6,7 +6,7 @@
 
 The project uses NPM and its ecosystem. So to run it you need at least:
 
-- Node 14.
+- Node 18.
 
 To begin install depencies using NPM:
 
