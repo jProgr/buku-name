@@ -23,8 +23,6 @@ run(
   }
  );
 
-panic('stob');
-
 // Gather tag message from CHANGELOG
 const changelog = fs.readFileSync('CHANGELOG.md', 'utf8');
 const titleVersion = '## ' + version;
@@ -91,5 +89,5 @@ function run(command, errorMessage, checker) {
     panic(errorMessage);
   }
 
-  checker(stdout.toString());
+  checker(stdout.toString().trim());
 }
