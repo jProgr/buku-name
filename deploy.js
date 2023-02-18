@@ -46,7 +46,7 @@ run('npm run build', 'There was an error running npm run build');
 
 // Tag
 run(`git push origin master`, 'There was an error uploading master branch');
-run(`git tag -a ${version} -m ${tagMessage}`, 'There was an error tagging');
+run(`git tag -a ${version} -m "${tagMessage}"`, 'There was an error tagging');
 run(`git push origin ${version}`, 'There was an error uploading the tag');
 
 // Copy distributables and upload
