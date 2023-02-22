@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.7
+### Changed
+- Updated dictionary.
+
 ## 1.3.6
 ### Changed
 - Updated dictionary.
