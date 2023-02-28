@@ -9,6 +9,7 @@ aeji;shield, armor
 aero-loka;airlock
 aero-pota;airport
 aero;air, atmosphere, gas
+afa-semi-dia;afternoon
 afa;after
 afoga;drown, submerge, a drowning
 agila;eagle, hawk, a bird of prey
@@ -118,6 +119,7 @@ boka;mouth
 bola;bowl
 boli;glass, crystal, a transparent material
 bomba;bomb
+bon-eleki-peso;proton (atom)
 bon-neso;goodness
 bon-veni;welcome
 bon;good
@@ -129,6 +131,7 @@ boton;button, pressbutton, knob, stud
 bovi;cow, bovine, steer, ox, bison, buffalo
 buku;book
 bulu;blue
+buo-navi;hovercraft
 buo;float, buoy, buoyant, a float
 butero;butter, buttery
 da-ma-impotan-manja;dinner, supper
@@ -538,6 +541,7 @@ loji;logic, logical
 loka;lock, to lock, latch, bolt, clasp
 loke;location, locate, place
 loko;crazy, mad, insane, madden
+longo-pisi;eel (animal)
 longo;long, length, longitude
 lose;lose, loss, failure, fail
 lubi;slip, slide, slippery, glide
@@ -558,6 +562,7 @@ maji;magic, magical, conjure
 make-man;author
 make;make, do, create
 makina;machine, apparatus
+mala-eleki-peso;electron (atom)
 mala-name;curse, swear
 mala-pasa;misfortune, hardship, adversity, hard times
 mala-tira;misfire
@@ -661,6 +666,7 @@ naga;snake, slither
 naje;swim
 najima;star, to highlight, celebrity
 name-buku;dictionary
+name-jura;grammar
 name;name, word
 nami;wave, undulation
 naro;narrow, thin, strait
@@ -713,6 +719,7 @@ nulo;nothing, zero, 0
 numa;number
 nun-dia;today
 nun;now
+nuta-eleki-peso;neutron (atom)
 nuta;neutral, bland, neuter, boring, impartial
 o;modifier separator
 oasi;oasis
@@ -933,6 +940,7 @@ selo;sky
 semana;week, weekly
 semen;seed
 semi-aje;middle age (era, human age), medieval
+semi-dia;noon, midday
 semi-pota;semiconductor
 semi;half, partial, incompletely
 sena;scene, stage
@@ -992,7 +1000,7 @@ sofio;blow, inflate, puff
 soke;sock, stocking
 sole-fogo;sunburn
 sole-lense;sunglasses, shades
-sole-luse;sunshine
+sole-luse;sunshine, sunlight
 sole;sun
 soli;soil, dirt, clay, mud
 solidi;solid, firm
