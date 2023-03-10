@@ -40,12 +40,13 @@ ano;year, annual
 ansio;anxious, anxiety, nervous
 ante;before
 anti-ora-uti-direto;counterclockwise, anticlockwise
+anti-sinifi;antonymous
 anti-tempo-tolera;impatience
 anti;against, anti-, opposite, opposing, oppose
 antika-gadi;celery
 antika;old, to age, antique, ancient
 anunsi;announce, announcement, declare, declaration
-apara;seem, appear, apparent, appearance
+apara;seem, appear, apparent, obvious, appearance
 apojo;support, backing, advocacy, backup, bolster
 ara;bee, hornet, wasp
 arana;spider, arachnid
@@ -507,6 +508,7 @@ kova;cover, covering, conceal, blanket, cloak, shawl
 kubita;elbow, nudge, cubit
 kubo;brick, cube, block
 kujara;spoon
+kula-lubi;ski
 kula;cool, cold
 kulutura;culture, cultural
 kuneli;rabbit, hare, bunny
@@ -619,6 +621,8 @@ matura;mature, ripe, adult
 mebi;maybe, possibility
 medi;average, medium, normal, usual, standard, norm
 media;media, communication, press
+medika-man;doctor
+medika-metodo;operation (medical), surgery
 medika;medicine, medicinal
 mega-basara;supermarket
 mega-sono;loud
@@ -664,6 +668,7 @@ mogi;fly, gnat, mosquito
 moloko;milk, milky
 momen;moment, instant, instantaneous, immediate
 monato;month, monthly
+mone-regula;capitalism
 mone;money
 monki;monkey, gorilla, chimpanzee
 monte;mountain, hill, bump, protrusion, protrude, bumpy
@@ -739,11 +744,13 @@ nuki;nut
 nulo-arapan;despair, hopeless
 nulo-benda;inflexible, stubborn, obstinate
 nulo-enejia;listless, sluggish, lethargic
+nulo-fide;unfaithful, adulterous
 nulo-jura-neso;injustice
 nulo-kipa-tenden-neso;instability, unstability
 nulo-mira;blind
 nulo-pelo;hairless
 nulo-sekura;insecure, insecurity
+nulo-senti;insensitive, numb
 nulo-sori;unapologetic
 nulo-uti;useless, in vain
 nulo-vina;innocence, lack of guilt
@@ -764,6 +771,7 @@ oko;eye, glance, one's sight
 ole;oil, unctuous
 onion;onion, bulb
 onore;honor, honorable, reputation
+open-karo;convertible (car), cabriolet
 open-make;chance, opportuniy
 open;open
 opitala;hospital
@@ -932,6 +940,7 @@ rompe;break, rupture, smash, disrupt
 rondo-foli-veji;cabbage
 rondo-nun;turn (turn to play)
 rondo;circle, round, around
+ronko-dire;complain
 ronko;snore, grunt
 ropa;clothing, wear
 rosa;pink, rose
@@ -955,6 +964,7 @@ salo;salt, salty, seasoning
 salon;salon, parlor
 salu;hello, greet, greeting, salute
 sama-sama;you are welcome
+sama-sinifi;synonymous
 sama;like, as, than, same
 san;three, 3
 sando;sandwich
@@ -1058,6 +1068,7 @@ sono-bata;noisy dispute, argy-bargy
 sono;sound
 sonri;smile
 sori;sorry, to be sorry, contrition, remorse
+sosia-regula-gove;socialism
 sosia;society, social
 su;too, too much
 suave;smooth, soft, sleek, even
