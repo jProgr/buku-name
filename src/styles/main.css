@@ -161,18 +161,8 @@ input[type=checkbox]:checked::before {
 .dictionary-words {
   margin-top: 50px;
 }
-.word {
-  margin: .2em 0;
-  display: flex;
-  font-weight: 400;
-}
 .word-container {
-  margin: 0;
-}
-@media screen and (max-width: 350px) {
-  .word {
-    display: block;
-  }
+  margin: .1em 0;
 }
 
 /*

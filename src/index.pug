@@ -31,11 +31,10 @@ head
         label(for='exact-match') exact match
     .dictionary-words
       each term in dictionary
-        .word
-          p(
-            id=term.word
-            class='word-container'
-          ) #{term.word}: #{term.meaning}
+        p(
+          id=term.word
+          class='word-container'
+        ) #{term.word}: #{term.meaning}
   footer
     p.keyboard-shortcuts Keyboard shortcuts
     dl#shortcuts
