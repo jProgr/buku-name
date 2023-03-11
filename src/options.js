@@ -1,4 +1,5 @@
 import {stringToBool} from './util';
+import {WordType} from './word';
 
 /**
  * Handles search options, storage in localStorage,
@@ -12,32 +13,32 @@ export class Options {
    * @param {object} elements - An object with HTMLElement.
    */
   constructor(elements) {
-    this._exactMatchElement = elements.exactMatch;
+    this._elements = elements;
 
-    this.options = {
-      exactMatch: this._exactMatchElement.checked,
-    };
-
-    this._boot();
-  }
-
-  /**
-   * Does some extra work to initialize the object.
-   *
-   * @return {undefined}
-   */
-  _boot() {
     this._initFromCache();
+    this.onChange(() => this._updateCache());
+  }
 
-    // When elements are updated, update the internal state.
-    this._exactMatchElement.addEventListener('change', () => {
-      this.options.exactMatch = this._exactMatchElement.checked;
-      this._updateCache();
-    });
+  isExactMatchActive() {
+    return this._elements.exactMatch.checked;
+  }
+
+  isBaseActive() {
+    return this._elements.base.checked;
+  }
+
+  isCompoundActive() {
+    return this._elements.compound.checked;
+  }
+
+  get elements() {
+    return Object
+      .entries(this._elements)
+      .map(keyValuePair => keyValuePair[1]);
   }
 
   /**
-   * Update the values in this.options with the ones in localStorage,
+   * Update the values in this._options with the ones in localStorage,
    * if any.
    *
    * @return {undefined}
@@ -45,23 +46,27 @@ export class Options {
   _initFromCache() {
     if (!this._isLocalStorageAvailable()) return;
 
-    let exactMatch = window.localStorage.getItem('exactMatch');
-    if (exactMatch !== null) {
-      exactMatch = stringToBool(exactMatch);
-      this._exactMatchElement.checked = exactMatch;
-      this.options.exactMatch = exactMatch;
-    }
+    const exactMatch = window.localStorage.getItem('exactMatch');
+    if (exactMatch !== null) this._elements.exactMatch.checked = stringToBool(exactMatch);
+
+    const base = window.localStorage.getItem('base');
+    if (base !== null) this._elements.base.checked = stringToBool(base);
+
+    const compound = window.localStorage.getItem('compound');
+    if (compound !== null) this._elements.compound.checked = stringToBool(compound);
   }
 
   /**
-   * Takes the values from this.options and writes them to localStorage.
+   * Takes the values from this._options and writes them to localStorage.
    *
    * @return {undefined}
    */
   _updateCache() {
     if (!this._isLocalStorageAvailable()) return;
 
-    for (const [key, value] of Object.entries(this.options)) window.localStorage.setItem(key, value);
+    for (const [key, element] of Object.entries(this._elements)) {
+      window.localStorage.setItem(key, element.checked)
+    }
   }
 
   /**
@@ -93,5 +98,20 @@ export class Options {
             // acknowledge QuotaExceededError only if there's something already stored
             (storage && storage.length !== 0);
     }
+  }
+
+  getActiveTypes() {
+    let types = [];
+
+    if (this.isBaseActive()) types.push(WordType.BASE);
+    if (this.isCompoundActive()) types.push(WordType.COMPOUND);
+
+    return types;
+  }
+
+  onChange(callback) {
+    Object
+      .values(this._elements)
+      .forEach(element => element.addEventListener('change', callback));
   }
 }

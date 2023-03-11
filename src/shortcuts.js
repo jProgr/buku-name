@@ -1,4 +1,18 @@
-import {triggerEvent, removeDots, isElementFocused} from './util';
+import {
+  triggerEvent,
+  isElementFocused,
+  removeExactMatchKey,
+  removeBaseToggleKey,
+  removeCompoundToggleKey,
+} from './util';
+
+export const ShortcutKey = Object.freeze({
+  EXACT_MATCH: '.',
+  FOCUS_SEARCH: 'f',
+  CLEAR_SEARCH: '<',
+  BASE_TOGGLE: '?',
+  COMPOUND_TOGGLE: ',',
+});
 
 /**
  * Boots keyboard shortcuts.
@@ -11,13 +25,22 @@ export class Shortcuts {
    * @param {HTMLElement} searchElement - A text input.
    * @param {HTMLElement} exactMatchElement - A checkbox.
    */
-  constructor(searchElement, exactMatchElement) {
+  constructor(
+    searchElement,
+    exactMatchElement,
+    baseElement,
+    compoundElement,
+  ) {
     this._searchElement = searchElement;
     this._exactMatchElement = exactMatchElement;
+    this._baseElement = baseElement;
+    this._compoundElement = compoundElement;
 
     this._bootExactMatchToggle();
     this._bootFocusSearch();
     this._bootClearSearch();
+    this._bootBaseToggle();
+    this._bootCompoundToggle();
   }
 
   /**
@@ -27,11 +50,13 @@ export class Shortcuts {
    */
   _bootExactMatchToggle() {
     this._searchElement.addEventListener('keyup', (event) => {
-      if (event.key === '.') this._searchElement.value = removeDots(this._searchElement.value);
+      if (event.key === ShortcutKey.EXACT_MATCH) {
+        this._searchElement.value = removeExactMatchKey(this._searchElement.value);
+      }
     });
 
     window.addEventListener('keyup', (event) => {
-      if (event.key !== '.') return;
+      if (event.key !== ShortcutKey.EXACT_MATCH) return;
 
       this._exactMatchElement.checked = !this._exactMatchElement.checked;
       triggerEvent(this._exactMatchElement, 'change');
@@ -45,7 +70,7 @@ export class Shortcuts {
    */
   _bootFocusSearch() {
     window.addEventListener('keyup', (event) => {
-      if (event.key !== 'f') return;
+      if (event.key !== ShortcutKey.FOCUS_SEARCH) return;
       if (isElementFocused(this._searchElement)) return;
 
       this._searchElement.focus();
@@ -59,10 +84,36 @@ export class Shortcuts {
    */
   _bootClearSearch() {
     window.addEventListener('keyup', (event) => {
-      if (event.key !== '<') return;
+      if (event.key !== ShortcutKey.CLEAR_SEARCH) return;
 
       this._searchElement.value = '';
       triggerEvent(this._searchElement, 'keyup');
+    });
+  }
+
+  _bootBaseToggle() {
+    this._searchElement.addEventListener('keyup', (event) => {
+      if (event.key === ShortcutKey.BASE_TOGGLE) this._searchElement.value = removeBaseToggleKey(this._searchElement.value);
+    });
+
+    window.addEventListener('keyup', (event) => {
+      if (event.key !== ShortcutKey.BASE_TOGGLE) return;
+
+      this._baseElement.checked = !this._baseElement.checked;
+      triggerEvent(this._baseElement, 'change');
+    });
+  }
+
+  _bootCompoundToggle() {
+    this._searchElement.addEventListener('keyup', (event) => {
+      if (event.key === ShortcutKey.COMPOUND_TOGGLE) this._searchElement.value = removeCompoundToggleKey(this._searchElement.value);
+    });
+
+    window.addEventListener('keyup', (event) => {
+      if (event.key !== ShortcutKey.COMPOUND_TOGGLE) return;
+
+      this._compoundElement.checked = !this._compoundElement.checked;
+      triggerEvent(this._compoundElement, 'change');
     });
   }
 }

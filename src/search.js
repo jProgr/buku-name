@@ -2,37 +2,15 @@
  * Handles the visibility of a set of DOM elements
  * according to a search query.
  */
-export class ElementSearcher {
+export class WordSearcher {
 
   /**
-   * Creates an ElementSearcher.
+   * Creates an WordSearcher.
    *
    * @param {iterable} nodes - A bunch of HTMLElement.
    */
-  constructor(nodes) {
-    this._nodes = new Map();
-    let i = 0;
-    for (const node of nodes) {
-      this._nodes.set(i, node);
-      i++;
-    }
-
-    this._boot();
-  }
-
-  /**
-   * Does some extra work to initialize the object.
-   *
-   * @return {undefined}
-   */
-  _boot() {
-    this._textNodes = new Map();
-    this._nodes.forEach((node, id) => {
-      this._textNodes.set(
-        id,
-        this._getTextNodesRecursively(node)
-      );
-    });
+  constructor(words) {
+    this._words = words;
   }
 
   /**
@@ -44,23 +22,25 @@ export class ElementSearcher {
    */
   search(query, options) {
     if (!query) {
-      this.showAll();
+      this.showAll(options);
       return;
     }
 
-    this._nodes.forEach((element, id) => {
-      if (this._doesMatch(query, this._textNodes.get(id), options)) { this._showElement(element); }
-      else { this._hideElement(element); }
+    this._words.forEach(word => {
+      // Hide if the word type is not active.
+      if (!word.is(...options.getActiveTypes())) return word.hide();
+
+      // Check for exact match.
+      if (options.isExactMatchActive()) {
+        return this._showOrHide(word, word.contents.has(query))
+      }
+
+      // Partial match.
+      for (const meaning of word.contents) if (meaning.includes(query)) return word.show();
+
+      // If none.
+      word.hide();
     });
-  }
-
-  _doesMatch(query, strings, options) {
-    if (options.exactMatch) { return strings.has(query); }
-    else {
-      for (const string of strings) if (string.includes(query)) return true;
-    }
-
-    return false;
   }
 
   /**
@@ -68,73 +48,15 @@ export class ElementSearcher {
    *
    * @return {undefined}
    */
-  showAll() {
-    this._nodes.forEach(this._showElement);
+  showAll(options) {
+    this._words.forEach(word => this._showOrHide(
+      word,
+      word.is(...options.getActiveTypes())
+     ));
   }
 
-  /**
-   * Marks element as visible.
-   *
-   * @param {HTMLElement} element
-   * @return {undefined}
-   */
-  _showElement(element) {
-    element.style.display = 'flex';
-  }
-
-  /**
-   * Marks element as invisible.
-   *
-   * @param {HTMLElement} element
-   * @return {undefined}
-   */
-  _hideElement(element) {
-    element.style.display = 'none';
-  }
-
-  /**
-   * Extracts the text node of element if any.
-   *
-   * @param {HTMLElement} element
-   * @return {string} May be an empty string.
-   */
-  _getTextNode(element) {
-    for (const node of element.childNodes) {
-      if (node.nodeType === Node.TEXT_NODE) return node.nodeValue.toLowerCase();
-    }
-
-    return '';
-  }
-
-  /**
-   * Extracts the text node of element and of any of its descendants.
-   *
-   * @param {HTMLElement} element
-   * @param {Set} [textNodes] - Holds the strings of the text nodes already found.
-   * @return {Set} Set of strings that the element and its descendants have as text
-   * nodes in no particular order.
-   */
-  _getTextNodesRecursively(element, textNodes = new Set()) {
-    this._getTextNode(element)
-      .split(/[^\w-]/)
-      .forEach(textNodes.add, textNodes);
-
-    if (element.hasChildNodes()) {
-      for (const node of element.childNodes) this._getTextNodesRecursively(node, textNodes)
-    }
-
-    return this._cleanEmpty(textNodes);
-  }
-
-  /**
-   * Removes any empty strings from the set.
-   *
-   * @param  {Set} strings
-   * @return {Set}
-   */
-  _cleanEmpty(strings) {
-    if (strings.has('')) strings.delete('');
-
-    return strings;
+  _showOrHide(word, shouldShow) {
+    if (shouldShow) word.show();
+    else word.hide();
   }
 }

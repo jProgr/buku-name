@@ -1,27 +1,42 @@
 import './styles/main.css';
-import {ElementSearcher} from './search';
+import {WordSearcher} from './search';
 import {Options} from './options';
-import {removeDots} from './util';
+import {removeShortcutKeys} from './util';
 import {Shortcuts} from './shortcuts';
+import {Word} from './word';
 
-// Options
-const exactMatchElement = document.getElementById('exact-match');
+// Options.
 const options = new Options({
-  exactMatch: exactMatchElement,
+  exactMatch: document.getElementById('exact-match-element'),
+  base: document.getElementById('base-element'),
+  compound: document.getElementById('compound-element'),
 });
 
-// Search
-const wordElements = document.querySelectorAll('div[class=word]');
-const searcher = new ElementSearcher(wordElements);
+// Search.
+const words = Array
+  .from(document.querySelectorAll('p[class=word-container]'))
+  .map(element => new Word(element));
+const searcher = new WordSearcher(words);
 const searchElement = document.getElementById('search');
 
-exactMatchElement.addEventListener('change', () => search(searcher, searchElement, options.options));
-searchElement.addEventListener('keyup', () => search(searcher, searchElement, options.options));
+const searchCallback = () => search(searcher, searchElement, options);
+options.onChange(searchCallback);
+searchElement.addEventListener('keyup', searchCallback);
 
-// Keyboard shortcuts
-new Shortcuts(searchElement, exactMatchElement);
+// Shortcuts.
+new Shortcuts(searchElement, ...options.elements);
 
 function search(searcher, searchElement, options) {
-  const query = searchElement.value.trim().toLowerCase();
-  searcher.search(removeDots(query), options);
+  debounce(() => searcher.search(
+    removeShortcutKeys(searchElement.value.trim().toLowerCase()),
+    options
+  ))();
+}
+
+function debounce(func, timeout = 300) {
+  let timer;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => { func.apply(this, args); }, timeout);
+  };
 }

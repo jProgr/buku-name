@@ -1,3 +1,5 @@
+import {ShortcutKey} from './shortcuts';
+
 export function stringToBool(value) {
   if (typeof value !== 'string') throw new Error('Value must be a string');
 
@@ -14,8 +16,24 @@ export function triggerEvent(element, eventName) {
   element.dispatchEvent(event);
 }
 
-export function removeDots(string) {
-  return string.replace(/\.+/, '');
+export function removeExactMatchKey(string) {
+  return string.replaceAll(ShortcutKey.EXACT_MATCH, '');
+}
+
+export function removeBaseToggleKey(string) {
+  return string.replaceAll(ShortcutKey.BASE_TOGGLE, '');
+}
+
+export function removeCompoundToggleKey(string) {
+  return string.replaceAll(ShortcutKey.COMPOUND_TOGGLE, '');
+}
+
+export function removeShortcutKeys(string) {
+  let clearString = removeExactMatchKey(string);
+  clearString = removeBaseToggleKey(string);
+  clearString = removeCompoundToggleKey(string);
+
+  return clearString;
 }
 
 export function isElementFocused(element) {
