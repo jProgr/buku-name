@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.4.0
+### Added
+- Base words filter and keyboard shortcut: ?.
+- Compound words filter and keyboard shortcut: ,.
+
+### Changed
+- Reduced main HTML file size by 23%.
+- Updated dictionary.
+
 ## 1.3.9
 ### Changed
 - Updated dictionary.
