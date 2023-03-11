@@ -25,10 +25,26 @@ head
       .option
         input(
           type='checkbox'
-          id='exact-match'
-          name='exact-match'
+          id='exact-match-element'
+          name='exact-match-element'
         )
-        label(for='exact-match') exact match
+        label(for='exact-match-element') exact match
+
+        input(
+          type='checkbox'
+          id='base-element'
+          name='base-element'
+          checked
+        )
+        label(for='base-element') base words
+
+        input(
+          type='checkbox'
+          id='compound-element'
+          name='compound-element'
+          checked
+        )
+        label(for='compound-element') compound words
     .dictionary-words
       each term in dictionary
         p(
@@ -47,12 +63,18 @@ head
       div
         dt .
         dd Toggle exact match
+      div
+        dt ,
+        dd Toggle compound words
+      div
+        dt ?
+        dd Toggle base words
     .credits
       ul
         li
           a(target='_blank' rel="noopener" href='https://jprogr.github.io/') By jProgr
         li
-          a(target='_blank' rel="noopener" href='https://github.com/jProgr/buku-name/') v 1.3.9
+          a(target='_blank' rel="noopener" href='https://github.com/jProgr/buku-name/') v 1.4.0
         li
           a(target='_blank' rel="noopener" href='https://minilanguage.com/') Mini language by S.C. Gruget
   // JavaScript will be loaded by webpack
