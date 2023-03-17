@@ -31,6 +31,10 @@ export class Options {
     return this._elements.compound.checked;
   }
 
+  isOtherActive() {
+    return this._elements.other.checked;
+  }
+
   get elements() {
     return Object
       .entries(this._elements)
@@ -54,6 +58,9 @@ export class Options {
 
     const compound = window.localStorage.getItem('compound');
     if (compound !== null) this._elements.compound.checked = stringToBool(compound);
+
+    const other = window.localStorage.getItem('other');
+    if (other !== null) this._elements.other.checked = stringToBool(other);
   }
 
   /**
@@ -105,6 +112,7 @@ export class Options {
 
     if (this.isBaseActive()) types.push(WordType.BASE);
     if (this.isCompoundActive()) types.push(WordType.COMPOUND);
+    if (this.isOtherActive()) types.push(WordType.OTHER);
 
     return types;
   }

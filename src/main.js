@@ -10,6 +10,7 @@ const options = new Options({
   exactMatch: document.getElementById('exact-match-element'),
   base: document.getElementById('base-element'),
   compound: document.getElementById('compound-element'),
+  other: document.getElementById('other-element'),
 });
 
 // Search.

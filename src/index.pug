@@ -45,6 +45,13 @@ head
           checked
         )
         label(for='compound-element') compound words
+
+        input(
+          type='checkbox'
+          id='other-element'
+          name='other-element'
+        )
+        label(for='other-element') other words
     .dictionary-words
       each term in dictionary
         p(
@@ -66,6 +73,9 @@ head
       div
         dt ,
         dd Toggle compound words
+      div
+        dt _
+        dd Toggle other words
       div
         dt ?
         dd Toggle base words

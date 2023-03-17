@@ -28,14 +28,23 @@ export function removeCompoundToggleKey(string) {
   return string.replaceAll(ShortcutKey.COMPOUND_TOGGLE, '');
 }
 
+export function removeOtherToggleKey(string) {
+  return string.replaceAll(ShortcutKey.OTHER_TOGGLE, '');
+}
+
 export function removeShortcutKeys(string) {
   let clearString = removeExactMatchKey(string);
-  clearString = removeBaseToggleKey(string);
-  clearString = removeCompoundToggleKey(string);
+  clearString = removeBaseToggleKey(clearString);
+  clearString = removeCompoundToggleKey(clearString);
+  clearString = removeOtherToggleKey(clearString);
 
   return clearString;
 }
 
 export function isElementFocused(element) {
   return element.matches(':focus');
+}
+
+export function isUpperCase(string) {
+  return string === string.toUpperCase();
 }

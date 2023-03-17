@@ -1,3 +1,5 @@
+import {isUpperCase} from './util';
+
 /**
  * Enum for word types.
  *
@@ -7,6 +9,7 @@
 export const WordType = Object.freeze({
   BASE: Symbol('base'),
   COMPOUND: Symbol('compound'),
+  OTHER: Symbol('other'),
 });
 
 export class Word {
@@ -30,6 +33,7 @@ export class Word {
    * @return {WordType}
    */
   _getType(word) {
+    if (isUpperCase(word.substring(0, 1))) return WordType.OTHER;
     if (word.includes('-')) return WordType.COMPOUND;
 
     return WordType.BASE;
@@ -46,7 +50,7 @@ export class Word {
 
     string
       .split(/[^\w-]/)
-      .forEach(word => contents.add(word));
+      .forEach(word => contents.add(word.toLowerCase()));
     if (contents.has('')) contents.delete('');
 
     return contents;
