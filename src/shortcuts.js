@@ -4,6 +4,7 @@ import {
   removeExactMatchKey,
   removeBaseToggleKey,
   removeCompoundToggleKey,
+  removeOtherToggleKey,
 } from './util';
 
 export const ShortcutKey = Object.freeze({
@@ -12,6 +13,7 @@ export const ShortcutKey = Object.freeze({
   CLEAR_SEARCH: '<',
   BASE_TOGGLE: '?',
   COMPOUND_TOGGLE: ',',
+  OTHER_TOGGLE: '_',
 });
 
 /**
@@ -30,17 +32,20 @@ export class Shortcuts {
     exactMatchElement,
     baseElement,
     compoundElement,
+    otherElement,
   ) {
     this._searchElement = searchElement;
     this._exactMatchElement = exactMatchElement;
     this._baseElement = baseElement;
     this._compoundElement = compoundElement;
+    this._otherElement = otherElement;
 
     this._bootExactMatchToggle();
     this._bootFocusSearch();
     this._bootClearSearch();
     this._bootBaseToggle();
     this._bootCompoundToggle();
+    this._bootOtherToggle();
   }
 
   /**
@@ -114,6 +119,19 @@ export class Shortcuts {
 
       this._compoundElement.checked = !this._compoundElement.checked;
       triggerEvent(this._compoundElement, 'change');
+    });
+  }
+
+  _bootOtherToggle() {
+    this._searchElement.addEventListener('keyup', (event) => {
+      if (event.key === ShortcutKey.OTHER_TOGGLE) this._searchElement.value = removeOtherToggleKey(this._searchElement.value);
+    });
+
+    window.addEventListener('keyup', (event) => {
+      if (event.key !== ShortcutKey.OTHER_TOGGLE) return;
+
+      this._otherElement.checked = !this._otherElement.checked;
+      triggerEvent(this._otherElement, 'change');
     });
   }
 }

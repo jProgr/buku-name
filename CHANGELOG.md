@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.5.0
+### Added
+- New word type: other.
+- Filter and keyboard shortcut: Underscore.
+
+### Changed
+- Updated dictionary.
+
 ## 1.4.0
 ### Added
 - Base words filter and keyboard shortcut: ?.
