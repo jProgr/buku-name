@@ -5,7 +5,7 @@ ade-kolun;spar (ship), mast
 ade;aid, care, concern, help, care for
 adere;adhere, stick, cling, sticky, glue
 adio;bye, farewell, valediction
-Aegiptos;Egypt (see "Mosr")
+Aegiptos;Egypt (see 'Mosr')
 aeji;shield, armor
 aero-loka;airlock
 aero-pota;airport
@@ -35,13 +35,14 @@ amidala;almond, tonsil, amygdala
 amigo;friend, acquaintance, befriend, friendly
 amo-enkonte;to have a date, to go out on a date
 amo-man;darling
+amo-senti;pat, caress, pet, stroke (lovingly)
 amo;love, dear
 amuse;amuse, entertain, fun, entertainment
 an;and, also
-Anak;Anak (place, hebrew bible, person) (not to be confused with "Enak")
+Anak;Anak (place, hebrew bible, person) (not to be confused with 'Enak')
 Andalusia;Andalucía
 Angola;Angola
-Angugo;Korean (language) (see "Josunmau")
+Angugo;Korean (language) (see 'Josunmau')
 ani;any (determiner), whichever, anyone
 anima;soul, spirit
 animale-sela;pen (for animals), corral, enclosure (for animals)
@@ -168,6 +169,7 @@ Boston;Boston
 botega;shop, store, boutique
 botelo;bottle
 boton;button, pressbutton, knob, stud
+bovi-siren;cowbell
 bovi;cow, bovine, steer, ox, bison, buffalo
 Brasil;Brazil
 Britan;Britain, UK, United Kingdom
@@ -267,7 +269,7 @@ eki-pota;export
 eki;out, ex-, away, external
 eko;echo, reflection
 ekonomi;economy, economic, thrifty
-Elas;Greece, Hellenic Republic (see "Gris")
+Elas;Greece, Hellenic Republic (see 'Gris')
 elasi;spring, coil, elastic, springy
 elefante;elephant
 Elefen;Elefen, Lingua Franca Nova
@@ -282,7 +284,7 @@ en-pota;import
 en-salu;welcome
 en-savi;convince, persuade, make someone else understand
 en;in, at, on
-Enak;ʿAnāq (not to be confused with "Anak")
+Enak;ʿAnāq (not to be confused with 'Anak')
 enejia;energy, energize, energetic
 enemi;enemy, nemesis
 Eng-lan;England
@@ -303,12 +305,13 @@ esi;exist, existence, existent
 esita;excite, excited
 Espania;España, Spain
 Espaniol;Spanish (language), Español
+Etana;Etana
 etudi;learn, study, research
 Europa;Europe
 Euskara;Basque (language), Euskara (language), Basque Country, Euskadi, País Vasco, Basque Autonomous Community
 eve;evening, night
 evento;event, case (instance), occurence
-Everest;Everest, Mount Everest (see "Jomoglanma", "Santi-feme-paren-monte")
+Everest;Everest, Mount Everest (see 'Jomoglanma', 'Santi-feme-paren-monte')
 evita;avoid, dodge, shun, avoidance
 fama;fame, famous, glory
 fami;family, relative
@@ -360,6 +363,7 @@ fisu;crack, fissure, cracked
 fo;four, 4
 fobo;fear, horror, fearful, scary
 fogo;fire, hot, burn
+foli-lan;plain (geographic), flatland
 foli-nase;flat nose
 foli-veji;lettuce
 foli;sheet, leaf, flat, flatten, page
@@ -382,14 +386,15 @@ gaden;garden, a park, recreation area
 gadi;grass, herb, lawn
 Galisia;Galicia, Galiza
 gama;gram (SI)
-Gana-imperi;Ghana Empire, Wagadou, Awkar (not to be confused with "Gana")
-Gana;Ghana (not to be confused with "Gana-imperi")
+Gana-imperi;Ghana Empire, Wagadou, Awkar (not to be confused with 'Gana')
+Gana;Ghana (not to be confused with 'Gana-imperi')
 gana;win, gain, victory, earn, earnings, profit, prize
 gape;yawn, gape
 garaje;garage
 gare;station, depot
 gato;cat, feline, catty
 geko;lizard
+gen-gen-sono;clatter, clack, rattle
 gen-viva;revive
 gen;again, repeat, repetition, re-
 gene;inherit, inheritance, genetic, gene
@@ -404,7 +409,7 @@ goma;rubber, rubbery
 gomba;mushroom
 gota;drop, bead, blob, spot, drip
 gove;government, govern
-Gris;Greece, Hellenic Republic  (see "Elas")
+Gris;Greece, Hellenic Republic  (see 'Elas')
 Guanga;Mandarin Chinese
 gule;throat, gullet
 gun-boton;trigger (firearm)
@@ -458,7 +463,7 @@ jage;search, hunt, pursuit, seek, quest
 jaketa;jacket, coat
 jalan;path, way, road
 janji;promise, vow, pledge, swear
-Japan;Japan (prefer "Nipon")
+Japan;Japan (prefer 'Nipon')
 jara;jar, pitcher, jug, carafe, mug, beaker
 jari;shrub, bush
 jeli;gel, goop, jelly, blob, paste, mush
@@ -477,10 +482,11 @@ jira;turn, gyrate, spin, whirl
 joke;joke, jest
 joli-arapan;satisfy, pleased (with some result)
 joli-man;cheerleader
+joli-neso;hapiness, pleasure
 joli;happy, joy, frolic, enjoy
-Jomoglanma;Qomolangma, Chomolungma (Mount Everest) (see "Santi-feme-paren-monte", "Everest")
+Jomoglanma;Qomolangma, Chomolungma (Mount Everest) (see 'Santi-feme-paren-monte', 'Everest')
 Josun;North Korea, Democratic People's Republic of Korea, DPRK
-Josunmau;Korean (language) (see "Angugo")
+Josunmau;Korean (language) (see 'Angugo')
 Jouo;Javanese (language), basa Jawa
 Juda-relijon;Judaism
 jue;cheek, jowl
@@ -540,8 +546,8 @@ kasa;house, building
 Kasastan;Kazakhstan, Qazaqstan
 kasele;castle, fortress
 kasi;almost
-Kastila an Leon;Castile and Leon, Castilla y León, Castiella y Llión, Castela e León (see "Kastila-Leon")
-Kastila-Leon;Castile and Leon, Castilla y León, Castiella y Llión, Castela e León (see "Kastila an Leon")
+Kastila an Leon;Castile and Leon, Castilla y León, Castiella y Llión, Castela e León (see 'Kastila-Leon')
+Kastila-Leon;Castile and Leon, Castilla y León, Castiella y Llión, Castela e León (see 'Kastila an Leon')
 Kastila-Mansa;Castile La Mancha, Castilla–La Mancha
 kata-igi-man;woodman, woodsman
 kata;cut, incision, slice, chop
@@ -594,7 +600,7 @@ kona;corner, angle
 konditi;condition, state
 konfi;comfortable, comfort, cozy
 konfuse;confusion, confuse, confusing, perplex
-Kongo;Congo (people, place, kingdom, language), Kikongo, Republic of the Congo, Congo-Brazzaville (not to be confused with "Popula-regula-gove republika de kongo", "Popula republika de kongo")
+Kongo;Congo (people, place, kingdom, language), Kikongo, Republic of the Congo, Congo-Brazzaville (not to be confused with 'Popula-regula-gove republika de kongo', 'Popula republika de kongo')
 konka;shell
 kono;cone
 konsiense;conscience, awareness, conscious, consciousness
@@ -713,8 +719,8 @@ mala-pasa;misfortune, hardship, adversity, hard times
 mala-tira;misfire
 mala;bad
 maladi;malady, sickness, ill
-Maleisia;Malaysia (country) (not to be confused with "Malesia")
-Malesia;Malesia (place, moth) (not to be confused with "Maleisia")
+Maleisia;Malaysia (country) (not to be confused with 'Malesia')
+Malesia;Malesia (place, moth) (not to be confused with 'Maleisia')
 maleta;hammer, mallet
 Malta;Malta
 man-ale;everybody, everyone
@@ -750,8 +756,8 @@ Mega Britan;Great Britain
 mega-basara;supermarket
 mega-sono;loud
 mega;big, great, large, million, 1000000
-Mehiko;México (prefer "Meksiko")
-Meksiko;México (see "Mehiko")
+Mehiko;México (prefer 'Meksiko')
+Meksiko;México (see 'Mehiko')
 melanje;mixture, mix
 melankoli-arapan;disappointed, unsatisfied (with some result), fail to fulfill
 melankoli;sad, melancholy, mourn
@@ -806,7 +812,7 @@ more;custom, habit, customary, tradition, traditional
 Mori-ruja-fiore;Lycoris radiata, red spider lily, corpse flower, higanbana
 mori;death, die, dead, kill
 Moritan;Mauritania
-Mosr;Egypt (see "Aegiptos")
+Mosr;Egypt (see 'Aegiptos')
 moto-bike;motorcycle, motorbike
 moto;motor, engine
 move-imaje-ludi;video game
@@ -865,7 +871,7 @@ niku-sando;hamburger, burger
 niku;meat, flesh
 nin;nine, 9
 ninja;spy (noun), snoop, scout, surveil
-Nipon;Japan (see "Japan")
+Nipon;Japan (see 'Japan')
 Nipongo;Japanese (language)
 nise;sneeze
 no-mori;undead
@@ -875,8 +881,8 @@ nonga;farm, cultivate, agricultural
 nore;north
 note-pape;notepad, memo book, notebook (for writing)
 note;write, a writing
-Nu York;New York (prefer "Nu-york")
-Nu-york;New York (see "Nu York")
+Nu York;New York (prefer 'Nu-york')
+Nu-york;New York (see 'Nu York')
 nu;new
 nube;cloud, cloudy
 nudelo;noodle
@@ -1013,8 +1019,8 @@ Polski;Polish (language), polski
 poma;apple
 pone;put, lay, place
 ponte;bridge
-Popula republika de kongo;People's Republic of the Congo, République populaire du Congo (not to be confused with "Popula-regula-gove republika de kongo", "Kongo"
-Popula-regula-gove republika de kongo;Democratic Republic of the Congo, DRC, République démocratique du Congo, RDC (not to be confused with "Kongo", "Popula republika de kongo")
+Popula republika de kongo;People's Republic of the Congo, République populaire du Congo (not to be confused with 'Popula-regula-gove republika de kongo', 'Kongo'
+Popula-regula-gove republika de kongo;Democratic Republic of the Congo, DRC, République démocratique du Congo, RDC (not to be confused with 'Kongo', 'Popula republika de kongo')
 popula-regula-gove;democracy
 popula;people, population, populate, populous, popular
 Portugal;Portugal
@@ -1084,6 +1090,7 @@ ringo;ring, loop, hoop, circuit, halo
 rio;river, stream
 Rioha;La Rioja
 risa;laugh
+risiti-labora;hire, employ (as worker)
 risiti;receive, get, receipt, acknowledge, reception
 riso;rice
 rite-neso;formality
@@ -1119,6 +1126,7 @@ ruto;burp, belch
 saara;desert
 Saara;Sahara
 sadi;mean, cruel, sadistic
+safari-man;traveler, adventurer
 safari;journey, voyage, trip, travel, adventure, adventurous
 saga;story, narrate, fictional
 saje;wise, wisdom
@@ -1136,7 +1144,7 @@ sando;sandwich
 sange;blood, bleed
 sano-karo;ambulance
 sano;health, healthy, heal
-Santi-feme-paren-monte;Holy Mother (Mount Everest) (see "Jomoglanma", "Everest")
+Santi-feme-paren-monte;Holy Mother (Mount Everest) (see 'Jomoglanma', 'Everest')
 santi-man;saint
 santi;holy, spiritual
 sapato;shoe
@@ -1340,6 +1348,7 @@ tufan;storm, stormy, typhoon, hurricane
 tuju;always, forever, ever
 tumba;grave, tomb
 tumo;tumor, swell, swelling, bulge
+tupe-kavalo-sono;bray
 tupe-kavalo;donkey, ass (animal)
 tupe;dull, blunt, obtuse, dumb
 Turki;Turkey
