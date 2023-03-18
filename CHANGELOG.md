@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.1
+### Changed
+- Updated dictionary.
+
 ## 1.5.0
 ### Added
 - New word type: other.
