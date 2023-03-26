@@ -52,6 +52,7 @@ ankora;yet, even, still
 ano;year, annual
 ansio;anxious, anxiety, nervous
 Antartika;Antarctica
+ante-nun-aje;premodern, pre-modern
 ante;before
 anti-ora-uti-direto;counterclockwise, anticlockwise
 anti-sinifi;antonymous
@@ -61,6 +62,7 @@ antika-gadi;celery
 antika;old, to age, antique, ancient
 anunsi;announce, announcement, declare, declaration
 apara;seem, appear, apparent, obvious, appearance
+apojo-kan;sustainable
 apojo;support, backing, advocacy, backup, bolster
 ara;bee, hornet, wasp
 Aragon;Aragón
@@ -180,6 +182,8 @@ buo;float, buoy, buoyant, a float
 butero;butter, buttery
 da-ma-impotan-manja;dinner, supper
 da-ma-impotan;main
+da-ma;majority (amount)
+da-meno;minority (amount)
 da;that, there, would
 dalili;evidence, proof, demonstration, testimony
 danja;danger, dangerous
@@ -262,8 +266,10 @@ efeto;effect, result, to effect, effective
 egala;equal, equality, equation, equally
 ego-ereki;independence
 ego-man;owner
+ego-sama-manja;autosarcophagy, self-cannibalism, autocannibalism
 ego;self, own (adj)
-Eire;Ireland, Éire, Airlann
+Eire-linga;Irish (language)
+Eire;Ireland, Éire, Airlann (see 'Ire-lan')
 eki-mun;exit
 eki-pota;export
 eki;out, ex-, away, external
@@ -370,6 +376,7 @@ foli;sheet, leaf, flat, flatten, page
 foma;foam, froth, suds, mousse, lather
 fon;phone
 fonte;fountain, spring, well
+fore-pedi;forefeet, forefoot, frontal feet of a quadruped
 fore;front, forehead, forward
 foreta;forest, woods
 fosi;dig, bury
@@ -408,6 +415,7 @@ go;to, go, towards, for
 goma;rubber, rubbery
 gomba;mushroom
 gota;drop, bead, blob, spot, drip
+gove-ajenda;policy
 gove-padon;amnesty
 gove;government, govern
 Gris;Greece, Hellenic Republic  (see 'Elas')
@@ -452,7 +460,7 @@ inveti;invest, investment
 invite;invite, invitation
 Irak;Iraq,
 Iran;Iran, Persia
-Ire-lan;Ireland
+Ire-lan;Ireland, Éire, Airlann (see 'Eire')
 ironi;irony, ironic, sarcasm
 Ise-lan;Iceland
 ise-nata;ice cream
@@ -523,6 +531,8 @@ kalori;heat, hot, calorie
 kama;bed
 kambio;exchange, trade, barter
 kamera;chamber, room, partition, hall, camera
+kamina-man;pedestrian
+kamina-neso;walkability
 kamina;walk, ambulate, stroll, hike
 kamisa;shirt
 kampo;field, camp, to camp, countryside, meadow, rural
@@ -633,6 +643,7 @@ kusin;cousin
 kuve;tub, barrel, vat, tank
 labi;lip, rim, brim
 labora-man;employee, worker
+labora-safari;commute, travel from or to work
 labora;work, labor, hard-working, job
 lada;ladder, escalator, stairs, steps
 lado;side, adjacent, next to
@@ -694,6 +705,7 @@ Losban;Lojban, la .lojban., lo jbobau
 lose;lose, loss, failure, fail
 lubi;slip, slide, slippery, glide
 ludi-man;player (game)
+ludi-neso;leisure
 ludi;game, play
 lujo;luxury, luxurious, opulence, fancy
 luki;fortune, luck, lucky
@@ -735,6 +747,7 @@ mano-jeti;applaud
 mano;hand
 mapa;map, chart
 Marati;Marathi, मराठी
+mare-maladi;seasick (see 'vomi-maladi')
 mare-man;seaman, seafaring person, sailor
 mare;ocean, sea, marine
 mari-feme;wife
@@ -853,7 +866,7 @@ nase;nose
 nata;cream, creamy
 nati-dia;birthday
 nati;birth, give birth
-natura-eleti;instinct, intuition
+natura-eleti;instinct, intuition, hunch, gut feeling
 natura;nature, natural
 Navara;Navarre, Navarra, Nafarroa
 navi;boat, ship
@@ -864,6 +877,8 @@ neka;neck
 Nepal;Nepal
 nese;need, necessity, requirement, necessary
 neso;abstract, abstraction, -ness, -ity
+neto-baton-ludi;tennis (game)
+neto-baton;racquet, racket
 neto;net, network, mesh, web, enmesh
 neve;snow
 ni;never, ever
@@ -894,8 +909,10 @@ nuga;rub, friction, massage, caress, tickle, chafe
 nuki;nut
 nulo-arapan;despair, hopeless
 nulo-benda;inflexible, stubborn, obstinate
+nulo-ego-ereki;dependence
 nulo-enejia;listless, sluggish, lethargic
 nulo-fide;unfaithful, adulterous
+nulo-jenti;impolite, rude,  ill-mannered
 nulo-jura-neso;injustice
 nulo-kipa-tenden-neso;instability, unstability
 nulo-mira;blind
@@ -907,6 +924,7 @@ nulo-uti;useless, in vain
 nulo-vina;innocence, lack of guilt
 nulo;nothing, zero, 0
 numa;number
+nun-aje;modern
 nun-dia;today
 nun;now
 nuta-eleki-peso;neutron (atom)
@@ -1025,7 +1043,7 @@ Polski;Polish (language), polski
 poma;apple
 pone;put, lay, place
 ponte;bridge
-Popula republika de kongo;People's Republic of the Congo, République populaire du Congo (not to be confused with 'Popula-regula-gove republika de kongo', 'Kongo'
+Popula republika de kongo;People's Republic of the Congo, République populaire du Congo (not to be confused with 'Popula-regula-gove republika de kongo', 'Kongo')
 Popula-regula-gove republika de kongo;Democratic Republic of the Congo, DRC, République démocratique du Congo, RDC (not to be confused with 'Kongo', 'Popula republika de kongo')
 popula-regula-gove;democracy
 popula;people, population, populate, populous, popular
@@ -1033,6 +1051,7 @@ Portugal;Portugal
 Portukale;Portuguese (language), português
 Posol;Pozol (drink)
 Posole;Pozole (food)
+pota-neso;transportation
 pota;carry, transport, transfer, port, cargo
 pote;pot, pan, cauldron, crucible, saucepan
 poten;power, force, strong
@@ -1044,6 +1063,7 @@ pulasi;plastic, plastics, malleable
 pumpa;pump (motion + tool)
 puni;punish, punishment
 punjo;fist, punch, knob, hilt, handgrip
+punto-impotan;focus, emphasis
 punto;point, dot, spot, indicate, pointy, sharp
 pupe;doll, puppet
 pura;pure, clean, cleanse
@@ -1142,6 +1162,7 @@ saliva;saliva, spit, expectorate
 salo;salt, salty, seasoning
 salon;salon, parlor
 salu;hello, greet, greeting, salute
+sama-manja;cannibalism
 sama-sama;you are welcome
 sama-sinifi;synonymous
 sama;like, as, than, same
@@ -1149,6 +1170,7 @@ san;three, 3
 sando;sandwich
 sange;blood, bleed
 sano-karo;ambulance
+sano-neso;healthcare
 sano;health, healthy, heal
 Santi-feme-paren-monte;Holy Mother (Mount Everest) (see 'Jomoglanma', 'Everest')
 santi-man;saint
@@ -1211,6 +1233,7 @@ sibi;sibling, brother, sister
 sibila;whistle, hiss, fizzle, whiz, zip
 Sidni;Sydney, Sidney (surname)
 siensa-man;scientist
+siensa-mui;multidiscipline
 siensa;science, scientific, -ology
 sigaro;cigar, cigarette
 sige-dia;tomorrow
@@ -1320,6 +1343,7 @@ terapi;therapy, treatment, treat, cure, therapeutic
 tese;weave, woven, knit
 teta;breast, tit, boob
 tie;uncle, aunt
+tila-kan;reachable
 tila;until, till, up to, approach, reach
 timi;timid, shy, coy, reserved
 tin;tin, can
@@ -1385,6 +1409,7 @@ uno;one, 1
 Urdu;Urdu
 Usbekistan;Uzbekistan
 utero;womb, uterus
+uti-make;service
 uti;use, tool
 Uu-linga;Wu Chinese (languages)
 Uu;Wu (region)
@@ -1415,12 +1440,14 @@ vende;sell, sale
 vendeta;revenge, vengeful, to seek revenge
 venemo;venom, poison, to poison
 venera;respect, veneration, respectful
+veni-ma-bon;improve, enhance, become better
 veni;come, become
 ventana;window, mirror, screen
 vento;wind, windy
 vepon;weapon, arms, to arm, weaponize
 vere-fule-neso;honesty
 vere-fule;honest, truthful
+vere-make;implement, carry out
 vere;true, truth, really
 vese;west
 veta;weather, climate
@@ -1449,12 +1476,14 @@ viro;man, male
 viru;virus, viral
 visita;visit
 viva-kamera;living room
+viva-moda;lifestyle
 viva-siensa;biology
 viva;life, live
 voka;voice, call, call out, summon
 vola-muso;bat (animal)
 vola;fly, flight
 vole;want, desire
+vomi-maladi;nauseous (see 'mare-maladi')
 vomi;vomit
 vori;worry, concern
 vote;vote
