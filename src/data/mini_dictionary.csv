@@ -45,6 +45,7 @@ Angola;Angola
 Angugo;Korean (language) (see 'Josunmau')
 ani;any (determiner), whichever, anyone
 anima;soul, spirit
+animale-fobo;zoophobia
 animale-sela;pen (for animals), corral, enclosure (for animals)
 animale;animal
 anjo;angel, angelic
@@ -64,8 +65,10 @@ anunsi;announce, announcement, declare, declaration
 apara;seem, appear, apparent, obvious, appearance
 apojo-kan;sustainable
 apojo;support, backing, advocacy, backup, bolster
+ara-fobo;spheksophobia, apiphobia, melissophobia
 ara;bee, hornet, wasp
 Aragon;Aragón
+arana-fobo;arachnophobia
 arana;spider, arachnid
 arapan-kipa;await
 arapan;hope, wait for, expectation, wish
@@ -84,7 +87,124 @@ Atlas-luna-pisi;Selene setapinnis, Atlantic moonfish
 Atlas-mare;Atlantic Ocean
 ato-name;verb
 ato;act, performance, behavior, behaviour, active
+atomo-1;hydrogen
+atomo-2;helium
+atomo-3;lithium
+atomo-4;beryllium
+atomo-5;boron
+atomo-6;carbon (see 'kabon')
+atomo-7;nitrogen
+atomo-8;oxygen
+atomo-9;fluorine
+atomo-10;neon
+atomo-11;sodium
+atomo-12;magnesium
+atomo-13;aluminum
+atomo-14;silicon
+atomo-15;phosphorus
+atomo-16;sulfur
+atomo-17;chlorine
+atomo-18;argon
+atomo-19;potassium
+atomo-20;calcium
+atomo-21;scandium
+atomo-22;titanium
+atomo-23;vanadium
+atomo-24;chromium
+atomo-25;manganese
+atomo-26;iron (see 'fero')
+atomo-27;cobalt
+atomo-28;nickel
+atomo-29;copper (see 'kopere')
+atomo-30;zinc
+atomo-31;gallium
+atomo-32;germanium
+atomo-33;arsenic
+atomo-34;selenium
+atomo-35;bromine
+atomo-36;krypton
+atomo-37;rubidium
+atomo-38;strontium
+atomo-39;yttrium
+atomo-40;zirconium
+atomo-41;niobium
+atomo-42;molybdenum
+atomo-43;technetium
+atomo-44;ruthenium
+atomo-45;rhodium
+atomo-46;palladium
+atomo-47;silver (see 'silara')
+atomo-48;cadmium
+atomo-49;indium
+atomo-50;tin (see 'tin')
+atomo-51;antimony
+atomo-52;tellurium
+atomo-53;iodine
+atomo-54;xenon
+atomo-55;cesium
+atomo-56;barium
+atomo-57;lanthanum
+atomo-58;cerium
+atomo-59;praseodymium
+atomo-60;neodymium
+atomo-61;promethium
+atomo-62;samarium
+atomo-63;europium
+atomo-64;gadolinium
+atomo-65;terbium
+atomo-66;dysprosium
+atomo-67;holmium
+atomo-68;erbium
+atomo-69;thulium
+atomo-70;ytterbium
+atomo-71;lutetium
+atomo-72;hafnium
+atomo-73;tantalum
+atomo-74;tungsten
+atomo-75;rhenium
+atomo-76;osmium
+atomo-77;iridium
+atomo-78;platinum
+atomo-79;gold (see 'jin')
+atomo-80;mercury (see 'liki-metali')
+atomo-81;thallium
+atomo-82;lead
+atomo-83;bismuth
+atomo-84;polonium
+atomo-85;astatine
+atomo-86;radon
+atomo-87;francium
+atomo-88;radium
+atomo-89;actinium
+atomo-90;thorium
+atomo-91;protactinium
 atomo-92;uranium
+atomo-93;neptunium
+atomo-94;plutonium
+atomo-95;americium
+atomo-96;curium
+atomo-97;berkelium
+atomo-98;californium
+atomo-99;einsteinium
+atomo-100;fermium
+atomo-101;mendelevium
+atomo-102;nobelium
+atomo-103;lawrencium
+atomo-104;rutherfordium
+atomo-105;dubnium
+atomo-106;seaborgium
+atomo-107;bohrium
+atomo-108;hassium
+atomo-109;meitnerium
+atomo-110;darmstadtium
+atomo-111;roentgenium
+atomo-112;copernicium
+atomo-113;nihonium
+atomo-114;flerovium
+atomo-115;moscovium
+atomo-116;livermorium
+atomo-117;tennessine
+atomo-118;oganesson
 atomo-radi;radioactive
 atomo;atom, atomic
 Ausa;Hausa (people, language)
@@ -121,6 +241,7 @@ bari;weight, weigh, heavy
 Barselona;Barcelona
 basara;market, bazaar, fair, to shop
 base;base, foundation, ground, floor, basis, fundamental
+basilo-fobo;mysophobia, verminophobia, germophobia, germaphobia, bacillophobia, bacteriophobia
 basilo;bacteria, bacillus, germ, microbe
 Bask-lan;Basque Country, Euskadi, País Vasco, Basque Autonomous Community
 bata;beat, fight, battle
@@ -201,12 +322,15 @@ degu;disgust, disgusting, revulsion, sicken
 deja;already, by now/then
 dekora;decorate, ornamentation, adorn, fancy
 Delauer;Delaware
+deluje-fobo;antlophobia
 deluje;flood, torrent, inundate, overwhelm, overwhelming
 demo;demonstration, indicate, show
 demon;devil, demon, diabolical
 den;then, in that case
 denta-materi;ivory
-denta;tooth, bite
+denta-medika-fobo;dentophobia
+denta-medika-man;dentist
+denta;tooth, teeth, bite
 deo;god, divine
 dereka;right (direction + moral + legal), straight, orthodox
 deside;decide, decision, adjudicate, resolve, settle
@@ -245,6 +369,7 @@ disipa;waste (use without good purpose), squander
 dive;dive, plunge, submerge
 divi-man;separatist
 divi;divide, split, division, separate
+dogi-fobo;cynophobia
 dogi;dog
 Dolar;dollar, dollars
 domo;home, domestic, reside, domesticate
@@ -339,6 +464,7 @@ favo;favor, like, favorite, please
 fekun;fertile, fecund, fertilizer, productive
 feme-amigo;girlfriend
 Feme-dia;Woman's day, International Women's Day
+feme-fobo;gynophobia
 feme-kinde;girl
 feme-paren;mother
 feme;woman, female
@@ -346,7 +472,7 @@ fen;fen, swamp, bog, marsh
 fense;fence, barrier, partition, hedge, fence off
 feo;ugly
 feri;fairy, sprite, pixie
-fero;iron, steel
+fero;iron, steel (see 'atomo-26')
 feruta;fruit, bear fruit
 fete;party, celebrate
 fevere;fever, feverish
@@ -364,6 +490,7 @@ fini-make;achieve, accomplish, complete doing (something)
 fini-piato;dessert, afters
 fini-semana;weekend
 fini;finish, final, end
+fiore-fobo;anthophobia
 fiore;flower
 fisika;physics, physical, physique
 fisu;crack, fissure, cracked
@@ -375,6 +502,7 @@ foli-nase;flat nose
 foli-veji;lettuce
 foli;sheet, leaf, flat, flatten, page
 foma;foam, froth, suds, mousse, lather
+fon-fobo;nomophobia
 fon;phone
 fonte;fountain, spring, well
 fore-pedi;forefeet, forefoot, frontal feet of a quadruped
@@ -385,8 +513,10 @@ Frans;France, Francia
 fuji;flee, escape, run away
 fule;full, to fill, whole
 fume;smoke
+fungi-fobo;mycophobia
 fungi-veni;decompose, rot, spoil, putresce
 fungi;fungus, mold, mildew
+fura-fobo;trypophobia
 fura;hole, gap, aperture, to drill, bore
 furi;anger, angry
 fusi;pour, fuse, melt, fusion
@@ -400,6 +530,7 @@ gana;win, gain, victory, earn, earnings, profit, prize
 gape;yawn, gape
 garaje;garage
 gare;station, depot
+gato-fobo;ailurophobia
 gato;cat, feline, catty
 geko;lizard
 gen-eleti;reelection
@@ -409,6 +540,7 @@ gen;again, repeat, repetition, re-
 gene;inherit, inheritance, genetic, gene
 Gera-an-pase;War and Peace (book)
 gera;war
+germania-fobo;anti-Germanism, germanophobia, teutophobia
 Germania-linga;German (language), Deutsch
 Germania;Germany, Deutschland
 giga;billion
@@ -450,6 +582,7 @@ infiniti-vole;greed
 infiniti;infinity, infinite
 info;information, inform, informative
 inja;wound, injure, injury
+inseto-fobo;entomophobia
 inseto;insect, bug, pest, bother
 inta-neto;internet
 inta;between, inter-
@@ -487,7 +620,7 @@ Jesu-nati;Christmas
 Jesu-veni;Easter
 Jesu;Jesus (christianity)
 jeti;throw, shot, shoot, hit
-jin;gold, golden
+jin;gold, golden (see 'atomo-79')
 jira-unda-go;fall rolling, tumble down, fall suddenly and without grace
 jira;turn, gyrate, spin, whirl
 joke;joke, jest
@@ -512,7 +645,7 @@ jusi;juice, juicy
 ka;because
 Kabeile;Kabylia, Kabyle (language, people, place)
 kabinete;cabinet, hutch, wardrobe
-kabon;carbon, coal
+kabon;carbon, coal (see 'atomo-6')
 kabuma-oko;pop eye, pop-eyed
 kabuma;explode, explosion, blast, detonate, pop
 kada;each, respectively
@@ -525,9 +658,11 @@ kaka-fura;anus
 kaka;feces, shit, poop
 kakao;chocolate
 kalenda;calendar, schedule, timetable
+kali-fobo;nyctophobia
 kali;dark, black
 Kalifornia;California
 kalite;quality, property, to attribute, feature, trait, -ness
+kalori-fobo;thermophobia
 kalori-mui-ke;temperature
 kalori;heat, hot, calorie
 kama;bed
@@ -567,6 +702,7 @@ kata-igi-man;woodman, woodsman
 kata;cut, incision, slice, chop
 Katalan;Catalonia, Catalunya, Catalonha, Cataluña, Catalan (language), Català, Valencià, Valencian
 katana;sword
+kavalo-fobo;equinophobia
 kavalo-rondo-radika-veji;horseradish, horse radish
 kavalo;horse, donkey, mule
 kave;cave, cavern
@@ -607,6 +743,7 @@ koma;clause, comma
 komedi;comedy, humor, funny
 kompare;compare, comparison
 komputa;computer, compute
+komun-dire-fobo;glossophobia
 komun;community, communal, public
 kon-pasa;coincide, concur, simultaneous
 kon;with, include
@@ -621,7 +758,7 @@ konsiense;conscience, awareness, conscious, consciousness
 kopa;cup, drinking vessel, chalice
 kopen-man;shopper, purchaser, customer, buyer, client
 kopen;buy, a purchase
-kopere;copper
+kopere;copper (see 'atomo-29')
 kore;heart
 koredora;hall, corridor
 koreo;mail, letter, post
@@ -678,7 +815,7 @@ libera;freedom, free, liberate
 lida-make;manage, take care of (an issue), deal with
 lida;lead, leader, direct, guide
 liga;tie, bind, knot, league, link, connection
-liki-metali;mercury
+liki-metali;mercury (see 'atomo-80')
 liki-salo;sauce, gravy
 liki;liquid, liquify, fluid
 lila;purple, lilac
@@ -703,6 +840,7 @@ loke;location, locate, place
 loko;crazy, mad, insane, madden
 London;London
 longo-midori-melon;cucumber
+longo-name-fobo;hippopotomonstrosesquipedaliophobia, hippopotomonstrosesquippedaliophobia
 longo-pisi;eel (animal)
 longo;long, length, longitude
 Losban;Lojban, la .lojban., lo jbobau
@@ -741,6 +879,8 @@ Malesia;Malesia (place, moth) (not to be confused with 'Maleisia')
 maleta;hammer, mallet
 Malta;Malta
 man-ale;everybody, everyone
+man-mui-fobo;enochlophobia
+man-mui;crowd, horde, mob
 man;person, human
 mandiba;jaw, mandible
 manja;food, eat
@@ -751,10 +891,12 @@ mano-jeti;applaud
 mano;hand
 mapa;map, chart
 Marati;Marathi, मराठी
+mare-fobo;thalassophobia
 mare-maladi;seasick (see 'vomi-maladi')
 mare-man;seaman, seafaring person, sailor
 mare;ocean, sea, marine
 mari-feme;wife
+mari-fobo;gamophobia
 mari-viro;husband
 mari;marry, marriage
 Marok;Morocco
@@ -768,11 +910,13 @@ matura;mature, ripe, adult
 mebi;maybe, possibility
 medi;average, medium, normal, usual, standard, norm
 media;media, communication, press
+medika-man-fobo;iatrophobia
 medika-man;doctor
 medika-metodo;operation (medical), surgery
 medika;medicine, medicinal
 Mega Britan;Great Britain
 mega-basara;supermarket
+mega-fobo;megalophobia
 mega-sono;loud
 mega;big, great, large, million, 1000000
 Mehiko;México, Mexico (prefer 'Meksiko')
@@ -813,6 +957,7 @@ mini-keki;cookie, biscuit
 mini-peso;bit, small piece
 mini;small, little
 minute;minute
+mira-fobo;scopophobia
 mira;see, look, watch, sight
 misi;miss, absent, lack, fail to reach/hit/notice
 mita;meter, metric
@@ -822,6 +967,7 @@ mogi;fly, gnat, mosquito
 moloko;milk, milky
 momen;moment, instant, instantaneous, immediate
 monato;month, monthly
+mone-fobo;plutophobia
 mone-regula;capitalism
 mone;money
 monki;monkey, gorilla, chimpanzee
@@ -852,10 +998,12 @@ muro;wall
 Mursia;Murcia
 musele;muscle, muscular
 musika;music, musical
+muso-fobo;musophobia
 muso;mouse, rat
 muta-numa;version (number)
 muta;change, modify, modification, mutation
 nafasa;breathe, breath
+naga-fobo;ophidiophobia
 naga;snake, slither
 Naijiria;Nigeria
 Naja;Nigerian Pidgin, Naijá, Naija
@@ -869,6 +1017,7 @@ naro;narrow, thin, strait
 nase;nose
 nata;cream, creamy
 nati-dia;birthday
+nati-fobo;lockiophobia
 nati;birth, give birth
 natura-eleti;instinct, intuition, hunch, gut feeling
 natura;nature, natural
@@ -884,6 +1033,7 @@ neso;abstract, abstraction, -ness, -ity
 neto-baton-ludi;tennis (game)
 neto-baton;racquet, racket
 neto;net, network, mesh, web, enmesh
+neve-fobo;chionophobia
 neve;snow
 ni;never, ever
 nida;nest, hive, den
@@ -954,6 +1104,7 @@ open-karo;convertible (car), cabriolet
 open-make;chance, opportuniy
 open-neso;accessibility, openness
 open;open
+opitala-fobo;nosocomephobia
 opitala;hospital
 ora-uti-direto;clockwise (direction)
 ora-uti;clock
@@ -1000,6 +1151,7 @@ pase;peace, peaceful
 paso;step, stride, pace
 patata;potato
 patio;patio, courtyard, yard
+pato-mira-fobo;anatidaephobia
 pato;duck, goose, swan, waterfowl
 pausa;pause, break, interruption
 pedi-balo;football, soccer
@@ -1028,6 +1180,7 @@ pika;prick, pierce, sting
 pila;yellow
 pile;pill, pellet, bullet
 pilo;pillow, cushion
+pin-fobo;trypanophobia
 pin;pin, needle
 pinta;paint, painting, painted
 pipi;pee, urinate
@@ -1035,6 +1188,7 @@ pirami;pyramid
 pirata;pirate
 piron;fork
 Pisa;pizza, Pisa (Italy)
+pisi-fobo;ichthyophobia
 pisi;fish
 pisina;pool of water, pond, swimming pool
 piti;pity, mercy, compassion, sympathy, sympathize
@@ -1043,6 +1197,7 @@ poesi;poem, poetry, poetic
 poke;pocket
 polisa;police
 politi;politics, political, politicize
+polo-fobo;alektorophobia
 polo;chicken, fowl
 Polska;Poland, Polska
 Polski;Polish (language), polski
@@ -1099,6 +1254,7 @@ reaki;answer, response, reaction
 rebele;rebel, rebellion, revolution, treason, rebellious
 redi;ready, available, prepare, preparation
 refere;refer to, reference, mention, allusion
+regen-fobo;oluviophobia
 regen-uti;umbrella
 regen;rain
 regula;regulate, regulation, control, ruler (tool), a rule
@@ -1114,6 +1270,7 @@ repare;fix, correction, improvement, repair, mend
 repubika;republic, republican
 resi-figura;lie down, lay down
 resi;rest, sleep
+retili-fobo;herpetophobia
 retili;reptile, crawl, creep
 retorante;restaurant
 revela;reveal, divulge, disclose, revelation, disclosure
@@ -1175,6 +1332,7 @@ sama-sinifi;synonymous
 sama;like, as, than, same
 san;three, 3
 sando;sandwich
+sange-fobo;hemophobia
 sange;blood, bleed
 sano-karo;ambulance
 sano-neso;healthcare
@@ -1213,9 +1371,11 @@ seni;art, artistic
 senjore;mr., ms., sir, madam, lord, master
 senta;center, centre
 sentense;sentence, phrase, proposition, verdict, conviction (legal)
+senti-fobo;haphephobia
 senti;sense, feel, touch, feeling
 sento-ano;century
 sento;hundred, 100
+sera-fobo;claustrophobia
 sera;close, shut, seal
 sereale;grain, cereal, wheat
 serebe;brain
@@ -1248,8 +1408,10 @@ sige;next, follow, subsequent, succeeding
 Sikilia-lupo;Sicilian wolf, Canis lupus cristaldii
 Sikilia;Sicily, Sicilia
 silaba;syllable
-silara;silver, silvery
+silara;silver, silvery (see 'atomo-47')
 silen;silence, silent
+sili-man-fobo;coulrophobia
+sili-man;clown
 sili;silly, foolish, trivial, triviality
 sina;chest, torso
 Sina;China, Zhōngguó
@@ -1269,6 +1431,7 @@ so;so, such
 sofa;sofa
 sofio;blow, inflate, puff
 soke;sock, stocking
+sole-fobo;heliophobia
 sole-fogo;sunburn
 sole-lense;sunglasses, shades
 sole-luse;sunshine, sunlight
@@ -1283,6 +1446,7 @@ some-si-uno;someone, somebody, anyone
 some;some, few, an indefinite amount, somewhat
 sonjo;dream
 sono-bata;noisy dispute, argy-bargy
+sono-fobo;misophonia
 sono;sound
 sonri;smile
 sori;sorry, to be sorry, contrition, remorse
@@ -1311,6 +1475,7 @@ supe;soup
 superise;surprise, astonish, shock, unexpected
 suponji;sponge
 supose;suppose, guess, conjecture, hypothesis
+sure-pedi-neso;sure-footedness
 sure;certain, sure, certainty
 susura;whisper, rustle, murmur
 taba;board, plank, beam, slat
@@ -1354,7 +1519,8 @@ tie;uncle, aunt
 tila-kan;reachable
 tila;until, till, up to, approach, reach
 timi;timid, shy, coy, reserved
-tin;tin, can
+tin;tin (see 'atomo-50'), can
+tingi-fobo;acrophobia
 tingi-sekola;high school
 tingi-tingi-sekola;university
 tingi;high, tall, height
@@ -1373,6 +1539,7 @@ tonere;thunder
 topi-noga;lap (front of thighs)
 topi;cap, hat, top, summit
 tore;tower, skyscraper, turret, steeple, minaret
+tori-fobo;ornithophobia
 tori;bird
 tose;cough, bark
 toti;turtle, tortoise
@@ -1382,6 +1549,7 @@ tu-ego;yourself
 tu;second person, you
 tubo-laji;sewer, drain
 tubo;tube, pipe
+tufan-fobo;astraphobia, lilapsophobia
 tufan;storm, stormy, typhoon, hurricane
 tuju;always, forever, ever
 tumba;grave, tomb
@@ -1436,6 +1604,7 @@ vanita;vanity, pride, proud
 vapo;steam, vapor
 vare;resource, wares, supply, merchandise, commodity
 vari;vary, variety, various, variation, variance
+vasa-fobo;aquaphobia
 vasa;water
 vasanta;spring (season)
 Vatikan;The Vatican, Vatican City
@@ -1451,6 +1620,7 @@ venera;respect, veneration, respectful
 veni-ma-bon;improve, enhance, become better
 veni;come, become
 ventana;window, mirror, screen
+vento-fobo;ancraophobia
 vento;wind, windy
 vepon;weapon, arms, to arm, weaponize
 vere-fule-neso;honesty
@@ -1489,9 +1659,11 @@ viva-moda;lifestyle
 viva-siensa;biology
 viva;life, live
 voka;voice, call, call out, summon
+vola-fobo;aerophobia
 vola-muso;bat (animal)
 vola;fly, flight
 vole;want, desire
+vomi-fobo;emetophobia
 vomi-maladi;nauseous (see 'mare-maladi')
 vomi;vomit
 vori;worry, concern
