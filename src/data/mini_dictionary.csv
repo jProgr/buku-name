@@ -8,6 +8,7 @@ adio;bye, farewell, valediction
 Aegiptos;Egypt (see 'Mosr')
 aeji;shield, armor
 aero-loka;airlock
+aero-mini-peso;particulate (atmospheric)
 aero-pota;airport
 aero;air, atmosphere, gas
 Aetiopia;Ethiopia
@@ -26,6 +27,7 @@ akuse;accuse, accusation, charge (legal)
 akuta;sharp, acute, keen
 Alarbia;Arabic (language)
 ale-en-i-savi;omniscient
+ale-sesi;pansexual
 ale;all, everything
 alien;foreign, alien
 alio;garlic
@@ -86,6 +88,7 @@ Asturias;Asturias
 atira;attract, attraction
 Atlas-luna-pisi;Selene setapinnis, Atlantic moonfish
 Atlas-mare;Atlantic Ocean
+ato-begin;trigger, activate, start up, set off, initiate
 ato-name;verb
 ato;act, performance, behavior, behaviour, active
 atomo-1;hydrogen
@@ -384,6 +387,7 @@ duka;suffer, pain, suffering, hurt, painful
 dulo;slave, servant, serf, enslave
 Duo-rama-atlas-luna-pisi;Selene vomer
 duo-ranko-go-fini;second to last, the one before the last one
+duo-sesi;bisexual
 duo;two, 2
 duro-mone;coin, to mint coins
 duro-safari;trek, arduous journey
@@ -471,6 +475,7 @@ Feme-dia;Woman's day, International Women's Day
 feme-fobo;gynophobia
 feme-kinde;girl
 feme-paren;mother
+feme-viro;femboy
 feme;woman, female
 fen;fen, swamp, bog, marsh
 fense;fence, barrier, partition, hedge, fence off
@@ -590,6 +595,8 @@ infiniti;infinity, infinite
 info;information, inform, informative
 inja;wound, injure, injury
 inseto-fobo;entomophobia
+inseto-siensa-man;entomologist
+inseto-siensa;entomology
 inseto;insect, bug, pest, bother
 inta-neto;internet
 inta;between, inter-
@@ -814,6 +821,7 @@ lase;let, allow, license, permission, licit
 lasi;lazy, indolence, inactivity
 lati-maladi;plague, epidemic
 lati;wide, broad, width, latitude
+Latin;Latin, lingua Latīna
 lava;wash
 leje-man;reader
 leje;read, a reading, well-read
@@ -888,6 +896,7 @@ mala-pasa;misfortune, hardship, adversity, hard times
 mala-tira;misfire
 mala;bad, wrong
 maladi-man;sick person, patient
+maladi-sino;symptom
 maladi;malady, sickness, ill
 Maleisia;Malaysia (country) (not to be confused with 'Malesia')
 Malesia;Malesia (place, moth) (not to be confused with 'Maleisia')
@@ -936,6 +945,7 @@ mega-sono;loud
 mega;big, great, large, million, 1000000
 Mehiko;México, Mexico (prefer 'Meksiko')
 Meksiko;México, Mexico (see 'Mehiko')
+melanje-bibe;potion, elixir, tonic
 melanje;mixture, mix
 melankoli-arapan;disappointed, unsatisfied (with some result), fail to fulfill
 melankoli;sad, melancholy, mourn
@@ -945,8 +955,10 @@ memba;member, adherent
 Memo-dia;Memorial Day, Remembrance Day, Poppy Day
 memo;memory, remember
 menase;threat, menace, menacing, threaten
+meno-vori;reassure, reassurance
 meno;less (comparison), fewer, minus
 menta;mind, mental
+mentira-keredo;delusion, delusional
 mentira-make;pretend, deceive
 mentira-siensa;pseudoscience
 mentira;lie, false, deceive, deception, fake
@@ -969,7 +981,7 @@ milita;military, army
 mime;mimic, copy, imitation
 mina;mine (place + action)
 mini-keki;cookie, biscuit
-mini-peso;bit, small piece
+mini-peso;bit, small piece, particle
 mini;small, little
 minute;minute
 mira-fobo;scopophobia
@@ -980,6 +992,7 @@ mobili;furniture
 moda;mode, way, fashion, mood
 mogi;fly, gnat, mosquito
 moloko;milk, milky
+momen-reaki;reflex (body)
 momen;moment, instant, instantaneous, immediate
 monato;month, monthly
 mone-fobo;plutophobia
@@ -1002,12 +1015,15 @@ Mozambik;Mozambique
 mudi-make;prey
 mudi;purpose, goal, objective, aim, end, intend, target
 mui-rite-ropa;suit, tuxedo
+mui-vole-neso;itchiness
+mui-vole;itch, compulsive desire, yearn, crave
 mui;very, many, much, a lot
 muko;mucus, snot, phlegm
 mumi;wax, waxy
 mun-siren;doorbell
 mun;door, gate
 mundo;world, globe, global
+muravi-senti;formication
 muravi;ant
 muro;wall
 Mursia;Murcia
@@ -1069,6 +1085,7 @@ noga;leg
 nonga;farm, cultivate, agricultural
 nore;north
 Norvega;Norway, Norge
+note-dalili;documented, document (verb), proof with physical evidence
 note-pape;notepad, memo book, notebook (for writing)
 note;write, a writing
 Nu siti-neso;New Urbanism
@@ -1082,6 +1099,8 @@ nuga;rub, friction, massage, caress, tickle, chafe
 nuki;nut
 nulo-arapan;despair, hopeless
 nulo-benda;inflexible, stubborn, obstinate
+nulo-ego-ereki-esi-maladi;parasitosis, parasitic disease
+nulo-ego-ereki-esi;parasite
 nulo-ego-ereki;dependence
 nulo-enejia;listless, sluggish, lethargic
 nulo-fide;unfaithful, adulterous
@@ -1092,13 +1111,14 @@ nulo-mira;blind
 nulo-pelo;hairless
 nulo-sekura;insecure, insecurity
 nulo-senti;insensitive, numb
+nulo-sesi;asexual
 nulo-sori;unapologetic
 nulo-uti;useless, in vain
 nulo-vina;innocence, lack of guilt
 nulo;nothing, zero, 0
 numa;number
 nun-aje;modern
-nun-dia;present day, currently<
+nun-dia;present day, currently
 nun-dia;today
 nun;now
 nuta-eleki-peso;neutron (atom)
@@ -1137,6 +1157,7 @@ Oseania;Oceania
 osila;oscillate, swing, a swing
 oso;bone
 osura;shadow, shade, obscure, hide, hidden
+ota-sesi;heterosexual
 ota;other, different
 otelo;hotel
 otono;autumn
@@ -1199,11 +1220,13 @@ piato;plate, dish, disc, tray, to plate
 piega;fold, crease
 pigi;pig, boar
 pigu;butt, ass
+pika-senti;tingle, tingling, shiver or prickle sensation
 pika;prick, pierce, sting
 pila;yellow
 pile;pill, pellet, bullet
 pilo;pillow, cushion
 pin-fobo;trypanophobia
+pin-senti;paresthesia, tingling on the skin
 pin;pin, needle
 pinta;paint, painting, painted
 pipi;pee, urinate
@@ -1271,7 +1294,7 @@ rapi;fast, speed, quickly
 raro;rare, weird, strange
 rasa-divi;racial segregation
 rasa;race, ethnicity, racial
-raso;shave, scrape, graze
+raso;shave, scrape, graze, scratch
 rason;reason, cause, explanation
 ratio;ratio, rate, proportion, fraction
 reaki-makina;telephone answering machine, answerphone
@@ -1357,6 +1380,7 @@ salon;salon, parlor
 salu;hello, greet, greeting, salute
 sama-manja;cannibalism
 sama-sama;you are welcome
+sama-sesi;homosexuality, homosexual, gay, lesbian
 sama-sinifi;synonymous
 sama;like, as, than, same
 san;three, 3
@@ -1661,6 +1685,7 @@ vere;true, truth, really
 vese;west
 veta;weather, climate
 via-linga;translate, translation
+via-sesi;transexual
 via-viva;survive
 via;through, across, trans-
 vibe;vibe, shake, vibrate, agitate, vibration, turbulence
@@ -1679,6 +1704,7 @@ viola;viola, violin, a string instrument
 violensa;violence, violent
 vipi;whip, lash
 viro-amigo;boyfriend
+viro-feme;tomboy
 viro-kinde;boy
 viro-paren;father
 viro;man, male
@@ -1687,6 +1713,7 @@ visita;visit
 viva-kamera;living room
 viva-kan;livable
 viva-moda;lifestyle
+viva-savi;experience
 viva-siensa;biology
 viva;life, live
 voka;voice, call, call out, summon
