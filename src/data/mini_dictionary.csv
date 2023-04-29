@@ -53,6 +53,7 @@ animale;animal
 anjo;angel, angelic
 ankora;yet, even, still
 ano;year, annual
+ansio-fiba;nerve
 ansio;anxious, anxiety, nervous
 Antartika;Antarctica
 ante-nese;prerequisite
@@ -85,7 +86,7 @@ Asia;Asia
 asido;acid, sour, acidic, vinegar
 asilu;asylum, refuge, shelter
 Asturias;Asturias
-atira;attract, attraction
+atira;attract, attraction, temptation
 Atlas-luna-pisi;Selene setapinnis, Atlantic moonfish
 Atlas-mare;Atlantic Ocean
 ato-begin;trigger, activate, start up, set off, initiate
@@ -753,6 +754,7 @@ koleki;collect, collection, gather
 kolenka;knee
 kolidi;crash, collision, collide
 kolina;hill
+kolo-rondo;rainbow
 kolo;color, colour, colorful
 Kolombia;Colombia
 koloni;colony, colonial, colonize
@@ -884,6 +886,9 @@ madu;honey
 mageneti;magnet, magnetic
 maisa;corn
 Maja;Maya (civilizations, language, religion, place)
+maji-feme;witch
+maji-man;wizard, witch, sorcerer, mage, magician, conjurer, enchanter
+maji-viro;wizard
 maji;magic, magical, conjure
 Majorka;Mallorca, Majorca
 make-linga;constructed language, conlang
@@ -982,6 +987,7 @@ mime;mimic, copy, imitation
 mina;mine (place + action)
 mini-keki;cookie, biscuit
 mini-peso;bit, small piece, particle
+mini-viva-fiba;fibril (biology)
 mini;small, little
 minute;minute
 mira-fobo;scopophobia
@@ -1043,6 +1049,7 @@ naje;swim
 najima;star, to highlight, celebrity
 name-buku;dictionary
 name-jura;grammar
+name-tari-siensa;etymology
 name;name, word
 nami;wave, undulation
 naro;narrow, thin, strait
@@ -1199,6 +1206,7 @@ pausa;pause, break, interruption
 pedi-balo;football, soccer
 pedi;foot, by foot, kick, stomp
 Pekin;Beijing (China)
+pele-sofio-maladi;dermatitis, eczema
 pele;skin, surface, peel, hide (animal)
 pelo-bovi;bos grunniens, yak, domestic yak, tartary ox, grunting ox, hairy cattle
 pelo;hair, fur, feather, hairy
@@ -1248,7 +1256,7 @@ polo;chicken, fowl
 Polska;Poland, Polska
 Polski;Polish (language), polski
 poma;apple
-pone-name;describe
+pone-name;describe, description
 pone-sinifi;define, definition
 pone;put, lay, place
 ponte;bridge
@@ -1314,6 +1322,7 @@ remo;oar, rudder, to row
 rena;kidney
 renta;rent, borrow
 reo;flow, current, rhythm, influence
+repare-vari;edition, edit, version (not to be confused with 'muta-numa')
 repare;fix, correction, improvement, repair, mend
 repubika;republic, republican
 resi-figura;lie down, lay down
@@ -1353,8 +1362,11 @@ Rontgen-radi;X-ray
 ropa;clothing, wear
 rosa;pink, rose
 ruina;destroy, ruin, destruction, downfall
+ruja-bulu;magenta
 ruja-lati-maladi;smallpox, red plague
+ruja-rondo-radika-veji-maladi;raphania (sickness)
 ruja-rondo-radika-veji;radish
+ruja-veni;irritation, irritate, irritant, sore
 ruja;red
 rumora;gossip, rumor, rumored
 runguma;hug, embrace
@@ -1397,6 +1409,7 @@ sapato;shoe
 Saudi-arabia;Saudi Arabia, Kingdom of Saudi Arabia, KSA
 sava;save, rescue, salvation, salvage, retrieve
 savaje;wild, savage, feral, uncivilized, wilderness
+savi-suma-buku;encyclopedia, encyclopædia
 savi;know, understand, knowledge
 savon-gadi;cilantro, coriander
 savon;soap
@@ -1417,6 +1430,7 @@ semen;seed
 semi-aje;middle age (era, human age), medieval
 semi-dia;noon, midday
 semi-pota;semiconductor
+semi-rondo;arc
 semi;half, partial, incompletely
 sena;scene, stage
 sende;send, transmit, dispatch, broadcast, a post
@@ -1572,6 +1586,7 @@ tese;weave, woven, knit
 teta;breast, tit, boob
 tie;uncle, aunt
 tila-kan;reachable
+tila-savi;to start to understand, reach knowledge
 tila;until, till, up to, approach, reach
 timi;timid, shy, coy, reserved
 tin;tin (see 'atomo-50'), can
@@ -1673,6 +1688,7 @@ vendeta;revenge, vengeful, to seek revenge
 venemo;venom, poison, to poison
 venera;respect, veneration, respectful
 veni-ma-bon;improve, enhance, become better
+veni-meno-bon;worsen, decline, get worse
 veni;come, become
 ventana;window, mirror, screen
 vento-fobo;ancraophobia
