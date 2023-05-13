@@ -94,7 +94,8 @@ Asturias;Asturias
 atira;attract, attraction, temptation
 Atlas-luna-pisi;Selene setapinnis, Atlantic moonfish
 Atlas-mare;Atlantic Ocean
-ato-begin;trigger, activate, start up, set off, initiate
+ato-begin;trigger, activate, start up, set off, initiate, turn on
+ato-fini;deactivate, turn off
 ato-name;verb
 ato;act, performance, behavior, behaviour, active
 atomo-1;hydrogen
@@ -329,7 +330,7 @@ debate;argue, debate, dispute, argument
 debe;should, obligation
 debile;weak, weakness, feeble
 defende;defend, guard, protect, protection, defense
-degu;disgust, disgusting, revulsion, sicken
+degu;disgust, disgusting, revulsion, sicken, gore
 deja;already, by now/then
 dekora;decorate, ornamentation, adorn, fancy
 Delauer;Delaware
@@ -390,6 +391,7 @@ dona;give, gift
 doragon;dragon
 dua;request, ask, prayer, invocation, plea, petition
 dubi;doubt
+duka-sige;persecution, witch hunt, harry
 duka;suffer, pain, suffering, hurt, painful
 dulo;slave, servant, serf, enslave
 Duo-rama-atlas-luna-pisi;Selene vomer
@@ -420,6 +422,7 @@ Elas;Greece, Hellenic Republic (see 'Gris')
 elasi;spring, coil, elastic, springy
 elefante;elephant
 Elefen;Elefen, Lingua Franca Nova
+eleki-ventana;screen (electronic)
 eleki;electric, electricity
 eleti;elect, election, select, choose, selection
 elika;helix, curl, twist, curly, spiral, coil, propeller
@@ -899,6 +902,7 @@ maisa;corn
 Maja;Maya (civilizations, language, religion, place)
 maji-feme;witch
 maji-man;wizard, witch, sorcerer, mage, magician, conjurer, enchanter
+maji-name;incantation, conjuration
 maji-viro;wizard
 maji;magic, magical, conjure
 Majorka;Mallorca, Majorca
@@ -950,6 +954,7 @@ maten;morning
 materi;matter, material, substance
 matura;mature, ripe, adult
 mebi;maybe, possibility
+medi-savi;common sense
 medi;average, medium, normal, usual, standard, norm
 media;media, communication, press
 medika-man-fobo;iatrophobia
@@ -959,6 +964,7 @@ medika;medicine, medicinal
 Mega Britan;Great Britain
 mega-basara;supermarket
 mega-fobo;megalophobia
+mega-komputa;server (computer)
 mega-sono;loud
 mega;big, great, large, million, 1000000
 Mehiko;México, Mexico (prefer 'Meksiko')
@@ -995,11 +1001,13 @@ mi-mui;we (excludes addressee)
 mi;first person, I
 Mianma;Myanmar, Burma, Republic of the Union of Myanmar
 midori;green
+milita-move;invasion, invade, raid, incursion
 milita;military, army
 mime;mimic, copy, imitation
 mina;mine (place + action)
 mini-bela;cute
 mini-keki;cookie, biscuit
+mini-moda;minimalism, minimalistic
 mini-peso;bit, small piece, particle
 mini-viva-fiba;fibril (biology)
 mini;small, little
@@ -1099,11 +1107,14 @@ Nipon-linga;Japanese (language)
 Nipon;Japan (see 'Japan')
 nise;sneeze
 no-kon-vole;by accident, accidentally, by chance, unintended, unintentional
-no-kon;without
+no-kon;without, exclude
 no-mori-man;zombie, undead
 no-mori;undead
 no-mori;zombification, to make an undead, to become undead
+no-nese-efeto;side effect, side-effect, aftereffect
+no-nese-name;pleonasm
 no-obe-jura;ilegal
+no-vole-anunsi;spam
 no;no, not
 noga;leg
 nonga;farm, cultivate, agricultural
@@ -1126,7 +1137,7 @@ nulo-arapan;despair, hopeless
 nulo-benda;inflexible, stubborn, obstinate
 nulo-ego-ereki-esi-maladi;parasitosis, parasitic disease
 nulo-ego-ereki-esi;parasite
-nulo-ego-ereki;dependence
+nulo-ego-ereki;dependence, depend on, rely on
 nulo-enejia;listless, sluggish, lethargic
 nulo-fide;unfaithful, adulterous
 nulo-jenti;impolite, rude,  ill-mannered
@@ -1197,7 +1208,7 @@ paisa;nation, country, national
 paketa-12;dozen
 paketa;package, parcel, packet, bundle
 Pakistan;Pakistan
-pale;talk, speech, discussion
+pale;talk, speech, discussion, speak
 pan;bread
 panta;pants, trousers
 papaver-kemi;opium
@@ -1236,6 +1247,7 @@ pensa;think, thought
 Pensilvania;Pennsylvania
 penta;five, 5
 pepa;pepper, spicy
+peribadi-pubili;dox, doxx, doxing, doxxing
 peribadi;private, privacy
 pero;but, except
 Peru;Perú
@@ -1485,6 +1497,7 @@ si;third person, he, she, it
 sibi;sibling, brother, sister
 sibila;whistle, hiss, fizzle, whiz, zip
 Sidni;Sydney, Sidney (surname)
+siensa-kamera;laboratory
 siensa-man;scientist, researcher
 siensa-mui;multidiscipline
 siensa;science, scientific, -ology
@@ -1529,6 +1542,7 @@ solu;solve, solution, loose, untie, dissolve
 soma;summer
 some-kosa;something
 some-si-uno;someone, somebody, anyone
+some-tempo;sometimes
 some;some, few, an indefinite amount, somewhat
 sonjo;dream
 sono-bata;noisy dispute, argy-bargy
