@@ -8,6 +8,7 @@ adere;adhere, stick, cling, sticky, glue
 adio;bye, farewell, valediction
 Aegiptos;Egypt (see 'Mosr')
 aeji;shield, armor
+aero-kula;air-con, air con, air conditioner machine
 aero-loka;airlock
 aero-mini-peso;particulate (atmospheric)
 aero-pota;airport
@@ -295,7 +296,7 @@ boli;glass, crystal, a transparent material
 bomba;bomb
 bon-eleki-peso;proton (atom)
 bon-neso;goodness
-bon-veni;welcome
+bon-veni;welcome (see 'en-salu')
 bon;good
 bore;boring, bore, tedium
 boroda;beard, facial hair
@@ -352,7 +353,7 @@ detali;detail, detailed, meticulous
 deteki;detect, find, notice, discovery, discovery
 develo-ruja-feruta;tomato
 develo;develop, grow, growth, development
-di-dia;today
+di-dia;today (see 'nun-dia')
 di;this, here
 dia-1;monday
 dia-2;tuesday
@@ -431,7 +432,7 @@ en-fini;marginal
 en-move;immigration
 en-mun;entrance
 en-pota;import
-en-salu;welcome
+en-salu;welcome (see 'bon-veni')
 en-savi;convince, persuade, make someone else understand
 en;in, at, on
 Enak;ʿAnāq (not to be confused with 'Anak')
@@ -1068,6 +1069,9 @@ naga;snake, slither
 Naijiria;Nigeria
 Naja;Nigerian Pidgin, Naijá, Naija
 naje;swim
+najima-etudi;astrology (see 'najima-keredo')
+najima-keredo;astrology (see 'najima-etudi')
+najima-siensa;astronomy (see 'universa-siensa')
 najima;star, to highlight, celebrity
 name-buku;dictionary
 name-jura;grammar
@@ -1155,7 +1159,7 @@ nulo;nothing, zero, 0
 numa;number
 nun-aje;modern
 nun-dia;present day, currently
-nun-dia;today
+nun-dia;today (see 'di-dia')
 nun;now
 nuta-eleki-peso;neutron (atom)
 nuta;neutral, bland, neuter, boring, impartial
@@ -1605,6 +1609,7 @@ teki;technology, technological, technical
 tela;cloth, fabric
 Telugu;Telugu
 tema;theme, subject, topic, to be about, to concern
+tempo-area;time zone
 tempo-tolera;patience
 tempo;time
 ten-ano;decade
@@ -1681,6 +1686,7 @@ unda-sole;sunset, twilight, sundown
 unda;under, below, down, fall
 undon;sport, athletic, physical exercise
 ungu;nail, hoof, claw
+universa-siensa;astronomy (see 'najima-siensa')
 universa-viva-siensa;astrobiology
 univesa;universe, universal
 uno-deo;monotheistic, monotheism
