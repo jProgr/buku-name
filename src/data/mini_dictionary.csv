@@ -43,6 +43,7 @@ amo-man;darling
 amo-senti;pat, caress, pet, stroke (lovingly)
 amo;love, dear
 amuse;amuse, entertain, fun, entertainment
+an-ma;etcetera
 an;and, also
 Anak;Anak (place, hebrew bible, person) (not to be confused with 'Enak')
 Andalusia;Andalucía
@@ -303,6 +304,7 @@ boroda;beard, facial hair
 Boston;Boston
 botega;shop, store, boutique
 botelo;bottle
+boton-taba;keyboard
 boton;button, pressbutton, knob, stud
 bovi-siren;cowbell
 bovi;cow, bovine, steer, ox, bison, buffalo
@@ -411,6 +413,8 @@ egala;equal, equality, equation, equally
 ego-ereki;independence
 ego-man;owner
 ego-sama-manja;autosarcophagy, self-cannibalism, autocannibalism
+ego-seketa-pubili;dox, doxx, doxing, doxxing
+ego-seketa;private, privacy
 ego;self, own (adj)
 Eire-linga;Irish (language)
 Eire;Ireland, Éire, Airlann (see 'Ire-lan')
@@ -427,6 +431,7 @@ eleki-ventana;screen (electronic)
 eleki;electric, electricity
 eleti;elect, election, select, choose, selection
 elika;helix, curl, twist, curly, spiral, coil, propeller
+emo-name;interjection
 emo;emotion, emotional, passionate, emote
 en-fini;marginal
 en-move;immigration
@@ -909,6 +914,7 @@ maji;magic, magical, conjure
 Majorka;Mallorca, Majorca
 make-linga;constructed language, conlang
 make-man;author
+make-memo;remind
 make;make, do, create
 makina;machine, apparatus
 mala-eleki-peso;electron (atom)
@@ -1031,6 +1037,7 @@ monki;monkey, gorilla, chimpanzee
 monte;mountain, hill, bump, protrusion, protrude, bumpy
 morale;moral, morality, moralize, morale, virtue
 more;custom, habit, customary, tradition, traditional
+mori-rite;funeral
 Mori-ruja-fiore;Lycoris radiata, red spider lily, corpse flower, higanbana
 mori;death, die, dead, kill
 Moritan;Mauritania
@@ -1071,7 +1078,7 @@ Naja;Nigerian Pidgin, Naijá, Naija
 naje;swim
 najima-etudi;astrology (see 'najima-keredo')
 najima-keredo;astrology (see 'najima-etudi')
-najima-siensa;astronomy (see 'universa-siensa')
+najima-siensa;astronomy (see 'univesa-siensa')
 najima;star, to highlight, celebrity
 name-buku;dictionary
 name-jura;grammar
@@ -1113,8 +1120,7 @@ nise;sneeze
 no-kon-vole;by accident, accidentally, by chance, unintended, unintentional
 no-kon;without, exclude
 no-mori-man;zombie, undead
-no-mori;undead
-no-mori;zombification, to make an undead, to become undead
+no-mori;undead, zombification, to make an undead, to become undead
 no-nese-efeto;side effect, side-effect, aftereffect
 no-nese-name;pleonasm
 no-obe-jura;ilegal
@@ -1164,7 +1170,7 @@ nun;now
 nuta-eleki-peso;neutron (atom)
 nuta;neutral, bland, neuter, boring, impartial
 o;modifier separator
-oasi;oasis
+oasi;oasis (prefer 'saara-lago')
 obe-jura-kapa;arrest, imprisonment, incarceration, legal restraint, detention
 obe-jura;legal
 obe;obey, compliance, obedient
@@ -1251,8 +1257,8 @@ pensa;think, thought
 Pensilvania;Pennsylvania
 penta;five, 5
 pepa;pepper, spicy
-peribadi-pubili;dox, doxx, doxing, doxxing
-peribadi;private, privacy
+peribadi-pubili;dox, doxx, doxing, doxxing (prefer 'ego-seketa-pubili')
+peribadi;private, privacy (prefer 'ego-seketa')
 pero;but, except
 Peru;Perú
 peso;piece, part, component
@@ -1369,7 +1375,7 @@ revela;reveal, divulge, disclose, revelation, disclosure
 rika;rich, wealth
 rima;rhyme, rhyming
 ringo;ring, loop, hoop, circuit, halo
-rio;river, stream
+rio;river, stream (prefer 'riva')
 Rioha;La Rioja
 risa;laugh
 risiti-labora;hire, employ (as worker)
@@ -1378,6 +1384,7 @@ risiti;receive, get, receipt, acknowledge, reception
 riso;rice
 rite-neso;formality
 rite;rite, ceremony, ceremonial
+riva;river, stream
 roba;dress, robe
 robare;steal, theft
 roboto;robot
@@ -1410,6 +1417,7 @@ ruse;trick, hoax, ruse, fraud, scam, tricky
 Rusia-linga;Russian (language)
 Rusia;Russia
 ruto;burp, belch
+saara-lago;oasis
 saara;desert
 Saara;Sahara
 sadi;mean, cruel, sadistic
@@ -1686,9 +1694,9 @@ unda-sole;sunset, twilight, sundown
 unda;under, below, down, fall
 undon;sport, athletic, physical exercise
 ungu;nail, hoof, claw
-universa-siensa;astronomy (see 'najima-siensa')
-universa-viva-siensa;astrobiology
-univesa;universe, universal
+univesa-siensa;astronomy (see 'najima-siensa'), cosmology
+univesa-viva-siensa;astrobiology
+univesa;universe, univesal
 uno-deo;monotheistic, monotheism
 uno-kamera-domo;single room occupancy, studio flat, bedsit
 uno-punto-sita-kilo-mita;mile (length)
@@ -1742,6 +1750,7 @@ vere-make;implement, carry out
 vere;true, truth, really
 vese;west
 veta;weather, climate
+via-linga-man;translator
 via-linga;translate, translation
 via-sesi;transexual
 via-viva;survive
