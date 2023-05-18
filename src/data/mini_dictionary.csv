@@ -44,7 +44,7 @@ amo-senti;pat, caress, pet, stroke (lovingly)
 amo;love, dear
 amuse;amuse, entertain, fun, entertainment
 an-ma;etcetera
-an;and, also
+an;and, also, add
 Anak;Anak (place, hebrew bible, person) (not to be confused with 'Enak')
 Andalusia;Andalucía
 Angola;Angola
@@ -427,6 +427,7 @@ Elas;Greece, Hellenic Republic (see 'Gris')
 elasi;spring, coil, elastic, springy
 elefante;elephant
 Elefen;Elefen, Lingua Franca Nova
+eleki-loke;website (see 'neto-foli', 'neto-loke')
 eleki-ventana;screen (electronic)
 eleki;electric, electricity
 eleti;elect, election, select, choose, selection
@@ -690,6 +691,7 @@ kafe;coffee, cafe
 kaja;box
 kaje;cage, ribcage
 kaka-fura;anus
+kaka-ropa;diaper
 kaka;feces, shit, poop
 kakao;chocolate
 kalenda;calendar, schedule, timetable
@@ -828,6 +830,7 @@ labora-man;employee, worker
 labora-safari;commute, travel from or to work
 labora;work, labor, hard-working, job
 lada;ladder, escalator, stairs, steps
+lado-mira;side-eye, side eye, side-look
 lado;side, adjacent, next to
 lagima;tears, to cry
 lago;lake, loch, pond
@@ -869,6 +872,7 @@ limpe;limp, flaccid, floppy, to limp, lax
 lin;flash, lightning, bolt
 line;line
 linga-name;vocabulary
+linga-regula;grammar (see 'name-jura')
 linga;tongue, lick, language
 lipo-patata;fries, chips, french fries, finger chips
 lipo;fat, fatty, grease, fatten, to fry
@@ -1012,7 +1016,7 @@ milita-move;invasion, invade, raid, incursion
 milita;military, army
 mime;mimic, copy, imitation
 mina;mine (place + action)
-mini-bela;cute
+mini-bela;cute (see 'suga-bela')
 mini-keki;cookie, biscuit
 mini-moda;minimalism, minimalistic
 mini-peso;bit, small piece, particle
@@ -1081,7 +1085,7 @@ najima-keredo;astrology (see 'najima-etudi')
 najima-siensa;astronomy (see 'univesa-siensa')
 najima;star, to highlight, celebrity
 name-buku;dictionary
-name-jura;grammar
+name-jura;grammar (see 'linga-regula')
 name-tari-siensa;etymology
 name;name, word
 nami;wave, undulation
@@ -1104,6 +1108,9 @@ nese;need, necessity, requirement, necessary
 neso;abstract, abstraction, -ness, -ity
 neto-baton-ludi;tennis (game)
 neto-baton;racquet, racket
+neto-foli;webpage (see 'eleki-loke', 'neto-loke')
+neto-komun;server, online community, forum
+neto-loke;website (see 'eleki-loke', 'neto-foli')
 neto;net, network, mesh, web, enmesh
 neve-fobo;chionophobia
 neve;snow
@@ -1572,6 +1579,7 @@ Sude afrika;South Africa (country), Republic of South Africa
 sude;south
 sue;sew, stich, seam
 sufi;enough, sufficient, suffice
+suga-bela;cute (see 'mini-bela')
 suga;sugar, sweet
 sujesi;suggest, suggestion, hint, insinuation, propose (an idea)
 sujo-ropa;laundry
