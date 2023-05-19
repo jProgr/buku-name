@@ -11,6 +11,7 @@ const options = new Options({
   base: document.getElementById('base-element'),
   compound: document.getElementById('compound-element'),
   other: document.getElementById('other-element'),
+  justMini: document.getElementById('just-mini-element'),
 });
 
 // Search.

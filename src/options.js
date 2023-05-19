@@ -35,6 +35,10 @@ export class Options {
     return this._elements.other.checked;
   }
 
+  isJustMiniActive() {
+    return this._elements.justMini.checked;
+  }
+
   get elements() {
     return Object
       .entries(this._elements)
@@ -61,6 +65,9 @@ export class Options {
 
     const other = window.localStorage.getItem('other');
     if (other !== null) this._elements.other.checked = stringToBool(other);
+
+    const justMini = window.localStorage.getItem('justMini');
+    if (justMini !== null) this._elements.justMini.checked = stringToBool(justMini);
   }
 
   /**
