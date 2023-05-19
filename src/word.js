@@ -12,6 +12,8 @@ export const WordType = Object.freeze({
   OTHER: Symbol('other'),
 });
 
+const parenthesesRegex = /\([\w\d\s\'\-,]+\)/gi;
+
 export class Word {
 
   /**
@@ -49,7 +51,9 @@ export class Word {
     let contents = new Set();
 
     string
+      .replaceAll(parenthesesRegex, '')
       .split(/[^\w-]/)
+      .map(word => word.trim())
       .forEach(word => contents.add(word.toLowerCase()));
     if (contents.has('')) contents.delete('');
 
