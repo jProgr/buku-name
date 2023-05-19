@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.1
+### Fixed
+- Misclassification of words of type other.
+
 ## 1.6.0
 ### Added
 - Filter to search only on the mini words, ignoring english meanings.

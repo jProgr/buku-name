@@ -25,16 +25,18 @@ export class Word {
     this._element = element;
     this.contents = this._getContent(element.innerText);
     [this.word] = this.contents;
-    this.type = this._getType(this.word);
+    this.type = this._getType(element.innerText);
   }
 
   /**
    * Returns the type of word by looking at the string.
    *
-   * @param {string} word
+   * @param {string} string
    * @return {WordType}
    */
-  _getType(word) {
+  _getType(string) {
+    const word = string.split(':')[0];
+
     if (isUpperCase(word.substring(0, 1))) return WordType.OTHER;
     if (word.includes('-')) return WordType.COMPOUND;
 
