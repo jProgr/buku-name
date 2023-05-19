@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.6.0
+### Added
+- Filter to search only on the mini words, ignoring english meanings.
+
+### Changed
+- Reduced main HTML file size.
+
+### Fixed
+- Explanatory text in meanings (stuff between parentheses) are no longer taken into account when matching a query.
+
 ## 1.5.14
 ### Changed
 - Updated dictionary.
