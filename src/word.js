@@ -21,8 +21,8 @@ export class Word {
    */
   constructor(element) {
     this._element = element;
-    this.word = element.id;
     this.contents = this._getContent(element.innerText);
+    [this.word] = this.contents;
     this.type = this._getType(this.word);
   }
 
