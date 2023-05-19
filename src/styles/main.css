@@ -119,6 +119,7 @@ input:-moz-placeholder {
   display: inline;
   position: relative;
   top: -5px;
+  font-size: 14px;
 }
 input[type=checkbox] {
   /* Erase defaults */
@@ -154,8 +155,13 @@ input[type=checkbox]:checked::before {
   opacity: 1;
 }
 
-.option label {
-  font-size: 14px;
+.option {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.option-container {
+  flex-grow: 1;
 }
 
 .dictionary-words {

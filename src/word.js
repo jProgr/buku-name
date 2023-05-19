@@ -12,7 +12,7 @@ export const WordType = Object.freeze({
   OTHER: Symbol('other'),
 });
 
-const parenthesesRegex = /\([\w\d\s\'\-,]+\)/gi;
+const parenthesesRegex = /\([\w\d\s'\-,]+\)/gi;
 
 export class Word {
 

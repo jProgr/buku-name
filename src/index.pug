@@ -23,42 +23,47 @@ head
       )
     #options
       .option
-        input(
-          type='checkbox'
-          id='exact-match-element'
-          name='exact-match-element'
-        )
-        label(for='exact-match-element') exact match
+        .option-container
+          input(
+            type='checkbox'
+            id='exact-match-element'
+            name='exact-match-element'
+          )
+          label(for='exact-match-element') exact match
 
-        input(
-          type='checkbox'
-          id='base-element'
-          name='base-element'
-          checked
-        )
-        label(for='base-element') base words
+        .option-container
+          input(
+            type='checkbox'
+            id='base-element'
+            name='base-element'
+            checked
+          )
+          label(for='base-element') base words
 
-        input(
-          type='checkbox'
-          id='compound-element'
-          name='compound-element'
-          checked
-        )
-        label(for='compound-element') compound words
+        .option-container
+          input(
+            type='checkbox'
+            id='compound-element'
+            name='compound-element'
+            checked
+          )
+          label(for='compound-element') compound words
 
-        input(
-          type='checkbox'
-          id='other-element'
-          name='other-element'
-        )
-        label(for='other-element') other words
+        .option-container
+          input(
+            type='checkbox'
+            id='other-element'
+            name='other-element'
+          )
+          label(for='other-element') other words
 
-        input(
-          type='checkbox'
-          id='just-mini-element'
-          name='just-mini-element'
-        )
-        label(for='just-mini-element') just mini
+        .option-container
+          input(
+            type='checkbox'
+            id='just-mini-element'
+            name='just-mini-element'
+          )
+          label(for='just-mini-element') just mini
     .dictionary-words
       each term in dictionary
         p(
