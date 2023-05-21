@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.2
+### Changed
+- Updated dictionary.
+
 ## 1.6.1
 ### Fixed
 - Misclassification of words of type other.
