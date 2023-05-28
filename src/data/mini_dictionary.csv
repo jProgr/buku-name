@@ -296,6 +296,7 @@ boka;mouth
 bola;bowl
 boli;glass, crystal, a transparent material
 bomba;bomb
+bon-aroma;tasty, pleasant smell
 bon-eleki-peso;proton (atom)
 bon-neso;goodness
 bon-veni;welcome (see 'en-salu')
@@ -587,7 +588,6 @@ gove-pale;diplomacy, diplomat
 gove;government, govern
 Gris;Greece, Hellenic Republic  (see 'Elas')
 Guanga;Mandarin Chinese
-gule-sono;grunt
 gule;throat, gullet
 gun-boton;trigger (firearm)
 gun;gun, rifle, shoot
@@ -731,7 +731,7 @@ kanti;sing, song, tune, melody
 kapa;capture, catch, seize, grasp, captive, grab, get hold of
 kapo-sentense;title (text), heading, header (text)
 kapo-siti;capital (geography)
-kapo;head
+kapo;head, main
 kare;square, plaza
 karera-man;contestant, player, participant, challenger
 karera;race, competition, compete
@@ -1494,6 +1494,7 @@ sena;scene, stage
 sende;send, transmit, dispatch, broadcast, a post
 seni;art, artistic
 senjore;mr., ms., sir, madam, lord, master
+senta-eve;midnight, middle of the night
 senta;center, centre
 sentense;sentence, phrase, proposition, verdict, conviction (legal)
 senti-fobo;haphephobia
@@ -1594,6 +1595,7 @@ sujesi;suggest, suggestion, hint, insinuation, propose (an idea)
 sujo-ropa;laundry
 sujo;dirty, grime, filth, to taint, corruption
 suko;suck, suction
+suma-foli;spreadsheet
 suma;sum, total, calculate, score
 Sumatra;Sumatra
 sumete;surrender, submit, yield, give in, submission
@@ -1635,6 +1637,7 @@ tela;cloth, fabric
 Telugu;Telugu
 tema;theme, subject, topic, to be about, to concern
 tempo-area;time zone
+tempo-mesura;timekeeper
 tempo-tolera;patience
 tempo;time
 ten-ano;decade
