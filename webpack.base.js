@@ -39,6 +39,7 @@ module.exports = {
             columns: true,
           }
         ),
+        'audios': getAvailableAudios(),
       },
       minify: {
         collapseBooleanAttributes: true,
@@ -92,3 +93,9 @@ module.exports = {
     ],
   },
 };
+
+function getAvailableAudios() {
+  return [...new Set(
+    fs.readdirSync('src/assets/audio').map(path => path.split('.')[0])
+  )];
+}

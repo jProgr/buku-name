@@ -180,6 +180,7 @@ input[type=checkbox]:checked::before {
 
 .buttons {
   display: flex;
+  gap: .6em;
 }
 .buttons > button {
   border: none;
@@ -190,6 +191,10 @@ input[type=checkbox]:checked::before {
   color: #e3e3e3;
   font-size: 14px;
   text-decoration-line: underline;
+}
+
+audio {
+  display: none;
 }
 
 .example {

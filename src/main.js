@@ -45,6 +45,44 @@ searchElement.addEventListener('keyup', event => {
 // Word links.
 new WordLinks(words).showIfAny();
 
+// Audio.
+words
+  .forEach(word => {
+    const button = word.element.querySelector('button[class=listen]');
+    if (button === null) return;
+
+    let audioElement = null;
+    let mp4Source;
+    let oggSource;
+    let mp3Source;
+
+    button.addEventListener('click', () => {
+      if (audioElement !== null) {
+        audioElement.play();
+        return;
+      }
+
+      audioElement = document.createElement('audio');
+
+      mp4Source = document.createElement('source');
+      mp4Source.type = 'audio/mp4';
+      mp4Source.src = 'assets/audio/' + word.rawWord + '.m4a';
+      audioElement.appendChild(mp4Source);
+
+      oggSource = document.createElement('source');
+      oggSource.type = 'audio/ogg';
+      oggSource.src = 'assets/audio/' + word.rawWord + '.oga';
+      audioElement.appendChild(oggSource);
+
+      mp4Source = document.createElement('source');
+      mp4Source.type = 'audio/mpeg';
+      mp4Source.src = 'assets/audio/' + word.rawWord + '.mp3';
+      audioElement.appendChild(mp4Source);
+
+      audioElement.play();
+    });
+  });
+
 // Shortcuts.
 new Shortcuts(searchElement, ...options.elements);
 

@@ -75,6 +75,12 @@ head
                 type='button'
               ) link
 
+              if audios.includes(term.word)
+                button(
+                  class='listen'
+                  type='button'
+                ) listen
+
             .examples
               each sentence in sentences
                 if sentence.word === term.word
