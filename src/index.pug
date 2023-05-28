@@ -66,9 +66,16 @@ head
           label(for='just-mini-element') just mini
     .dictionary-words
       each term in dictionary
-        p(
-          class='word-container'
-        ) #{term.word}: #{term.meaning}
+        .word-container
+          p #{term.word}: #{term.meaning}
+          .word-info
+            button(
+              class='link'
+              type='button'
+            ) link
+            // audio
+            // examples
+
   footer
     p.keyboard-shortcuts Keyboard shortcuts
     dl#shortcuts

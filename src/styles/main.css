@@ -170,6 +170,22 @@ input[type=checkbox]:checked::before {
 .word-container {
   margin: .1em 0;
 }
+.word-container > p {
+  margin: .1em 0;
+}
+
+.word-info {
+  margin: .3em 1em;
+}
+.word-info > button {
+  border: none;
+  padding: 0;
+  background: none;
+
+  font-family: serif;
+  color: snow;
+  font-size: 14px;
+}
 
 /*
   Footer

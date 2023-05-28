@@ -4,6 +4,7 @@ import {Options} from './options';
 import {removeShortcutKeys} from './util';
 import {Shortcuts} from './shortcuts';
 import {Word} from './word';
+import {WordLinks} from './links';
 
 // Options.
 const options = new Options({
@@ -16,14 +17,33 @@ const options = new Options({
 
 // Search.
 const words = Array
-  .from(document.querySelectorAll('p[class=word-container]'))
+  .from(document.querySelectorAll('div[class=word-container]'))
   .map(element => new Word(element));
 const searcher = new WordSearcher(words);
 const searchElement = document.getElementById('search');
+searchElement.value = '';
 
 const searchCallback = () => search(searcher, searchElement, options);
 options.onChange(searchCallback);
-searchElement.addEventListener('keyup', searchCallback);
+
+const ignoredKeys = [
+  'ArrowUp',
+  'ArrowRight',
+  'ArrowDown',
+  'ArrowLeft',
+  'Shift',
+  'Control',
+  'Alt',
+  'CapsLock',
+  'Meta',
+];
+searchElement.addEventListener('keyup', event => {
+  if (ignoredKeys.includes(event.key)) return;
+  searchCallback();
+});
+
+// Word links.
+new WordLinks(words).showIfAny();
 
 // Shortcuts.
 new Shortcuts(searchElement, ...options.elements);

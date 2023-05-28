@@ -22,21 +22,20 @@ export class Word {
    * @param {HTMLElement} element
    */
   constructor(element) {
-    this._element = element;
-    this.contents = this._getContent(element.innerText);
+    this.element = element;
+    this.contents = this._getContent(element);
     [this.word] = this.contents;
-    this.type = this._getType(element.innerText);
+    this.rawWord = element.innerText.split(':')[0];
+    this.type = this._getType(this.rawWord);
   }
 
   /**
    * Returns the type of word by looking at the string.
    *
-   * @param {string} string
+   * @param {string} word
    * @return {WordType}
    */
-  _getType(string) {
-    const word = string.split(':')[0];
-
+  _getType(word) {
     if (isUpperCase(word.substring(0, 1))) return WordType.OTHER;
     if (word.includes('-')) return WordType.COMPOUND;
 
@@ -46,10 +45,11 @@ export class Word {
   /**
    * Returns a set with the word and its meanings.
    *
-   * @param {string} string
+   * @param {HTMLElement} element
    * @return {Set} Of strings.
    */
-  _getContent(string) {
+  _getContent(element) {
+    const string = element.querySelector('p').innerText;
     let contents = new Set();
 
     string
@@ -68,7 +68,7 @@ export class Word {
    * @return {undefined}
    */
   show() {
-    this._element.style.display = 'block';
+    this.element.style.display = 'block';
   }
 
   /**
@@ -77,7 +77,7 @@ export class Word {
    * @return {undefined}
    */
   hide() {
-    this._element.style.display = 'none';
+    this.element.style.display = 'none';
   }
 
   /**
