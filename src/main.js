@@ -74,10 +74,10 @@ words
       oggSource.src = 'assets/audio/' + word.rawWord + '.oga';
       audioElement.appendChild(oggSource);
 
-      mp4Source = document.createElement('source');
-      mp4Source.type = 'audio/mpeg';
-      mp4Source.src = 'assets/audio/' + word.rawWord + '.mp3';
-      audioElement.appendChild(mp4Source);
+      mp3Source = document.createElement('source');
+      mp3Source.type = 'audio/mpeg';
+      mp3Source.src = 'assets/audio/' + word.rawWord + '.mp3';
+      audioElement.appendChild(mp3Source);
 
       audioElement.play();
     });
