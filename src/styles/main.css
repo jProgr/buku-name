@@ -4,7 +4,7 @@
 
 body {
   font-family: serif;
-  color: snow;
+  color: white;
   font-size: 20px;
   margin: 0;
   background-color: #15202b;
@@ -26,7 +26,7 @@ li {
 }
 
 a {
-  color: snow;
+  color: white;
   text-decoration: none;
 }
 
@@ -79,9 +79,9 @@ input {
   height: 100%;
   background-color: transparent;
   border-style: none;
-  border-bottom: thin solid snow;
+  border-bottom: thin solid white;
   padding: 0 1px;
-  color: snow;
+  color: white;
   text-align: center;
   font-size: 20px;
 }
@@ -89,23 +89,23 @@ input:focus {
   outline: none;
 }
 input::placeholder {
-  color: snow;
+  color: white;
   opacity: 0.5;
 }
 input::-webkit-input-placeholder {
-  color: snow;
+  color: white;
   opacity: 0.5;
 }
 input::-moz-placeholder {
-  color: snow;
+  color: white;
   opacity: 0.5;
 }
 input:-ms-input-placeholder {
-  color: snow;
+  color: white;
   opacity: 0.5;
 }
 input:-moz-placeholder {
-  color: snow;
+  color: white;
   opacity: 0.5;
 }
 
@@ -130,8 +130,8 @@ input[type=checkbox] {
   position: relative;
   width: 14px;
   height: 14px;
-  color: snow;
-  border: 2px solid snow;
+  color: white;
+  border: 2px solid white;
 }
 input[type=checkbox]::before {
   position: absolute;
@@ -142,13 +142,13 @@ input[type=checkbox]::before {
   width: 4px;
   height: 4px;
   border-style: solid;
-  border-color: snow;
+  border-color: white;
   border-width: 0 2px 2px 0;
   opacity: 0;
 }
 input[type=checkbox]:checked {
-  color: snow;
-  border-color: snow;
+  color: white;
+  border-color: white;
   background: #15202b;
 }
 input[type=checkbox]:checked::before {
@@ -177,14 +177,25 @@ input[type=checkbox]:checked::before {
 .word-info {
   margin: .3em 1em;
 }
-.word-info > button {
+
+.buttons {
+  display: flex;
+}
+.buttons > button {
   border: none;
   padding: 0;
   background: none;
 
   font-family: serif;
-  color: snow;
+  color: #e3e3e3;
   font-size: 14px;
+  text-decoration-line: underline;
+}
+
+.example {
+  color: #e3e3e3;
+  font-size: 16px;
+  margin: .1em;
 }
 
 /*
@@ -205,7 +216,7 @@ p.keyboard-shortcuts {
 }
 #shortcuts dt {
   display: inline;
-  border: 2px solid snow;
+  border: 2px solid white;
   padding: 4px 4px 1px;
   margin: 1px;
 }

@@ -32,6 +32,13 @@ module.exports = {
             columns: true,
           }
         ),
+        'sentences': parse(
+          fs.readFileSync('src/data/example_sentences.csv'),
+          {
+            delimiter: ',',
+            columns: true,
+          }
+        ),
       },
       minify: {
         collapseBooleanAttributes: true,

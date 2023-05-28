@@ -69,12 +69,16 @@ head
         .word-container
           p #{term.word}: #{term.meaning}
           .word-info
-            button(
-              class='link'
-              type='button'
-            ) link
-            // audio
-            // examples
+            .buttons
+              button(
+                class='link'
+                type='button'
+              ) link
+
+            .examples
+              each sentence in sentences
+                if sentence.word === term.word
+                  p.example - #{sentence.mini} - #{sentence.en}
 
   footer
     p.keyboard-shortcuts Keyboard shortcuts
