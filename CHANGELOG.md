@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.0.0
+### Added
+- Audio support.
+- Links to individual words.
+- Examples.
+
+### Changed
+- Updated dictionary.
+
 ## 1.6.2
 ### Changed
 - Updated dictionary.
