@@ -6,7 +6,7 @@ ade-man;helper, assistant, auxiliary (person)
 ade;aid, care, concern, help, care for
 adere-imaje;sticker
 adere;adhere, stick, cling, sticky, glue
-adio;bye, farewell, valediction
+adio;bye, farewell (prefer 'salu')
 Aegiptos;Egypt (see 'Mosr')
 aeji;shield, armor
 aero-kula;air-con, air con, air conditioner machine
@@ -349,7 +349,8 @@ denta-medika-fobo;dentophobia
 denta-medika-man;dentist
 denta;tooth, teeth, bite
 deo;god, divine
-dereka;right (direction + moral + legal), straight, orthodox
+dereka;right (direction + moral + legal), straight, orthodox (see 'dereko', 'reka')
+dereko;correct, just, right (moral), human right
 deside;decide, decision, adjudicate, resolve, settle
 desini-evento;example
 desini;design, sketch, blueprint, pattern
@@ -409,14 +410,15 @@ duro-sujesi;insist
 duro;hard, difficult, problem
 dusa;shower, to shower, downpour
 e;introduces adjectival & adverbial complement
+edu-man;teacher
 edu;teach, educate, education, educated
 efeto;effect, result, to effect, effective
 egala;equal, equality, equation, equally
 ego-ereki;independence
 ego-man;owner
 ego-sama-manja;autosarcophagy, self-cannibalism, autocannibalism
-ego-seketa-pubili;dox, doxx, doxing, doxxing
-ego-seketa;private, privacy
+ego-seketa-pubili;dox, doxx, doxing, doxxing (prefer 'peribadi-pubili')
+ego-seketa;private, privacy (prefer 'peribadi')
 ego;self, own (adj)
 Eire-linga;Irish (language)
 Eire;Ireland, Éire, Airlann (see 'Ire-lan')
@@ -591,9 +593,9 @@ Guanga;Mandarin Chinese
 gule;throat, gullet
 gun-boton;trigger (firearm)
 gun;gun, rifle, shoot
-guru;teacher, expert, priest, guru
+guru;teacher, expert (prefer 'edu-man'), priest, guru
 i;introduces verb
-ia;hear, listen, ear
+ia;hear, listen (see 'mimi')
 idea-sinti;inspire
 idea;idea, concept, conceptual, ideate
 Ifel-tore;Eiffel Tower
@@ -602,6 +604,7 @@ igi;tree, wood
 Ila Balea;Balearic Islands, Baleares
 Ila Kanario;Canary Islands, Canarias
 ila;island
+imaje-kapa;camera
 imaje;image, picture
 Imalea;Himalaya, Himalayas
 imperi;command, imperative, rule, empire, imperial
@@ -621,7 +624,7 @@ inja;wound, injure, injury
 inseto-fobo;entomophobia
 inseto-siensa-man;entomologist
 inseto-siensa;entomology
-inseto;insect, bug, pest, bother, annoy
+inseto;insect, bug, pest (see 'iritate')
 inta-neto;internet
 inta;between, inter-
 inteli;smart, intelligence
@@ -634,6 +637,7 @@ invite;invite, invitation
 Irak;Iraq
 Iran;Iran, Persia
 Ire-lan;Ireland, Éire, Airlann (see 'Eire')
+iritate;irritate, bother, pester, annoyance
 ironi;irony, ironic, sarcasm
 Ise-lan;Iceland
 ise-nata;ice cream
@@ -709,7 +713,7 @@ kalori-mui-ke;temperature
 kalori;heat, hot, calorie
 kama;bed
 kambio;exchange, trade, barter
-kamera;chamber, room, partition, hall, camera
+kamera;chamber, room, partition, hall
 kamina-man;pedestrian
 kamina-neso;walkability
 kamina;walk, ambulate, stroll, hike
@@ -724,7 +728,7 @@ kandela;candle
 kanela;cinnamon
 kanon;cannon, artillery, gun barrel
 Kanon;Canon (music, place, surname, religion)
-kansera;crab, cancer, cancerous
+kansera;crab
 Kantabria;Cantabria
 kanti-man;singer
 kanti;sing, song, tune, melody
@@ -1021,6 +1025,7 @@ midori;green
 milita-move;invasion, invade, raid, incursion
 milita;military, army
 mime;mimic, copy, imitation
+mimi;ear (see 'ia')
 mina;mine (place + action)
 mini-bela;cute (see 'suga-bela')
 mini-keki;cookie, biscuit
@@ -1054,8 +1059,8 @@ Moritan;Mauritania
 Mosr;Egypt (see 'Aegiptos')
 moto-bike;motorcycle, motorbike
 moto;motor, engine
-move-imaje-ludi;video game
-move-imaje;video
+move-imaje-ludi;video game, videogame (prefer 'video-ludi')
+move-imaje;video (prefer 'video')
 move;move, movement, motion, movie
 Mozambik;Mozambique
 mudi-make;prey
@@ -1270,8 +1275,8 @@ pensa;think, thought
 Pensilvania;Pennsylvania
 penta;five, 5
 pepa;pepper, spicy
-peribadi-pubili;dox, doxx, doxing, doxxing (prefer 'ego-seketa-pubili')
-peribadi;private, privacy (prefer 'ego-seketa')
+peribadi-pubili;dox, doxx, doxing, doxxing
+peribadi;private, privacy
 pero;but, except
 Peru;Perú
 peso;piece, part, component
@@ -1369,6 +1374,7 @@ regen-fobo;oluviophobia
 regen-uti;umbrella
 regen;rain
 regula;regulate, regulation, control, ruler (tool), a rule
+reka;right (direction)
 rela;rail, train, bar
 relate;relate, relation, relationship, connection, connect with
 relijon-mesa;altar, shrine
@@ -1446,7 +1452,7 @@ sako;bag, sack
 saliva;saliva, spit, expectorate
 salo;salt, salty, seasoning
 salon;salon, parlor
-salu;hello, greet, greeting, salute
+salu;hello, greet, greeting, salute, goodbye, bye
 sama-manja;cannibalism
 sama-sama;you are welcome
 sama-sesi;homosexuality, homosexual, gay, lesbian
@@ -1466,6 +1472,7 @@ sapato;shoe
 Saudi-arabia;Saudi Arabia, Kingdom of Saudi Arabia, KSA
 sava;save, rescue, salvation, salvage, retrieve
 savaje;wild, savage, feral, uncivilized, wilderness
+savi-man;expert
 savi-suma-buku;encyclopedia, encyclopædia
 savi;know, understand, knowledge
 savon-gadi;cilantro, coriander
@@ -1480,6 +1487,7 @@ seko;dry, dryness
 sekola;school
 sekon;second (time)
 sekura;secure, safe, safety, security
+sela-develo-maladi;cancer, cancerous
 sela;cell (biology + room)
 selo;sky
 semana;week, weekly
@@ -1775,6 +1783,8 @@ via-sesi;transexual
 via-viva;survive
 via;through, across, trans-
 vibe;vibe, shake, vibrate, agitate, vibration, turbulence
+video-ludi;video game, videogame
+video;video
 Viet-linga;Vietnamese (language)
 Vietnam;Vietnam, Viet Nam
 vila;village, town

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.1
+### Changed
+- Updated dictionary.
+
 ## 2.0.0
 ### Added
 - Audio support.

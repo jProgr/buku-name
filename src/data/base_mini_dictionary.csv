@@ -3,7 +3,6 @@ a;introduces direct object & nominal complement
 abuso;abuse, violate, rape, assault, abusive
 ade;aid, care, concern, help, care for
 adere;adhere, stick, cling, sticky, glue
-adio;bye, farewell, valediction
 aeji;shield, armor
 aero;air, atmosphere, gas
 afa;after
@@ -134,7 +133,7 @@ demon;devil, demon, diabolical
 den;then, in that case
 denta;tooth, bite
 deo;god, divine
-dereka;right (direction + moral + legal), straight, orthodox
+dereko;correct, just, right (moral), human right
 deside;decide, decision, adjudicate, resolve, settle
 desini;design, sketch, blueprint, pattern
 detali;detail, detailed, meticulous
@@ -273,9 +272,8 @@ gota;drop, bead, blob, spot, drip
 gove;government, govern
 gule;throat, gullet
 gun;gun, rifle, shoot
-guru;teacher, expert, priest, guru
 i;introduces verb
-ia;hear, listen, ear
+ia;hear, listen
 idea;idea, concept, conceptual, ideate
 igi;tree, wood
 ila;island
@@ -287,13 +285,14 @@ infero;hell, to damn, hellish
 infiniti;infinity, infinite
 info;information, inform, informative
 inja;wound, injure, injury
-inseto;insect, bug, pest, bother
+inseto;insect, bug, pest
 inta;between, inter-
 inteli;smart, intelligence
 interesa;interest, interesting
 inventi;invent, invention, inventive
 inveti;invest, investment
 invite;invite, invitation
+iritate;irritate, bother, pester, annoyance
 ironi;irony, ironic, sarcasm
 ise;ice, freeze
 ja;yes, definitely, certainly
@@ -337,7 +336,7 @@ kalite;quality, property, to attribute, feature, trait, -ness
 kalori;heat, hot, calorie
 kama;bed
 kambio;exchange, trade, barter
-kamera;chamber, room, partition, hall, camera
+kamera;chamber, room, partition, hall
 kamina;walk, ambulate, stroll, hike
 kamisa;shirt
 kampo;field, camp, to camp, countryside, meadow, rural
@@ -347,7 +346,7 @@ kanda;shoulder, shrug
 kandela;candle
 kanela;cinnamon
 kanon;cannon, artillery, gun barrel
-kansera;crab, cancer, cancerous
+kansera;crab
 kanti;sing, song, tune, melody
 kapa;capture, catch, seize, grasp, captive, grab
 kapo;head
@@ -524,6 +523,7 @@ mi;first person, I
 midori;green
 milita;military, army
 mime;mimic, copy, imitation
+mimi;ear
 mina;mine (place + action)
 mini;small, little
 minute;minute
@@ -651,6 +651,7 @@ penelo;brush, comb, sweep
 pensa;think, thought
 penta;five, 5
 pepa;pepper, spicy
+peribadi;private, privacy
 pero;but, except
 peso;piece, part, component
 pianeta;planet, planetary
@@ -719,6 +720,7 @@ redi;ready, available, prepare, preparation
 refere;refer to, reference, mention, allusion
 regen;rain
 regula;regulate, regulation, control, ruler (tool), a rule
+reka;right (direction)
 rela;rail, train, bar
 relate;relate, relation, relationship, connection, connect with
 relijon;religion, religious
@@ -769,7 +771,7 @@ sako;bag, sack
 saliva;saliva, spit, expectorate
 salo;salt, salty, seasoning
 salon;salon, parlor
-salu;hello, greet, greeting, salute
+salu;hello, greet, greeting, salute, goodbye, bye
 sama;like, as, than, same
 san;three, 3
 sando;sandwich
@@ -972,6 +974,7 @@ vese;west
 veta;weather, climate
 via;through, across, trans-
 vibe;vibe, shake, vibrate, agitate, vibration, turbulence
+video;video
 vila;village, town
 vile;while, during
 vina;blame, fault, guilt
