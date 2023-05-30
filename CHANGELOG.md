@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.3
+### Changed
+- Updated dictionary.
+
+## 2.0.2
+### Changed
+- Updated dictionary.
+
 ## 2.0.1
 ### Changed
 - Updated dictionary.
