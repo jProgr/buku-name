@@ -29,6 +29,7 @@ func do() error {
     for i, filename := range files {
         filenames[i] = strings.Split(filename, ".")[0]
     }
+    filenames = removeEmptyStrings(filenames)
 
     for _, filename := range filenames {
         err := run("ffmpeg -i %[1]v.m4a -c:a libvorbis %[1]v.oga", filename)
@@ -54,4 +55,14 @@ func run(command, filename string) error {
     cmd.Dir = os.Args[1]
 
     return cmd.Run()
+}
+
+func removeEmptyStrings(strings []string) (nonEmptyStrings []string) {
+    for _, str := range strings {
+        if str != "" {
+            nonEmptyStrings = append(nonEmptyStrings, str)
+        }
+    }
+
+    return
 }
