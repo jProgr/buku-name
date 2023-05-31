@@ -1,7 +1,7 @@
 import './styles/main.css';
 import {WordSearcher} from './search';
 import {Options} from './options';
-import {removeShortcutKeys} from './util';
+import {removeShortcutKeys, triggerEvent} from './util';
 import {Shortcuts} from './shortcuts';
 import {Word} from './word';
 import {WordLinks} from './links';
@@ -12,6 +12,7 @@ const options = new Options({
   base: document.getElementById('base-element'),
   compound: document.getElementById('compound-element'),
   other: document.getElementById('other-element'),
+  showInfo: document.getElementById('show-info-element'),
   justMini: document.getElementById('just-mini-element'),
 });
 
@@ -23,7 +24,11 @@ const searcher = new WordSearcher(words);
 const searchElement = document.getElementById('search');
 searchElement.value = '';
 
-const searchCallback = () => search(searcher, searchElement, options);
+const searchCallback = event => {
+  if (event !== undefined && event.srcElement.id === 'show-info-element') return;
+
+  search(searcher, searchElement, options);
+};
 options.onChange(searchCallback);
 
 const ignoredKeys = [
@@ -85,6 +90,15 @@ words
 
 // Shortcuts.
 new Shortcuts(searchElement, ...options.elements);
+
+// Toggle info.
+const wordInfoElements = document.querySelectorAll('div[class=word-info]');
+const showInfoElement = document.getElementById('show-info-element');
+showInfoElement.addEventListener('change', event => {
+  const shouldShow = event.srcElement.checked;
+  wordInfoElements.forEach(element => element.style.display = shouldShow ? 'block' : 'none')
+});
+triggerEvent(showInfoElement, 'change');
 
 function search(searcher, searchElement, options) {
   debounce(() => searcher.search(

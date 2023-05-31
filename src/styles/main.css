@@ -159,6 +159,7 @@ input[type=checkbox]:checked::before {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 0 .4em;
 }
 .option-container {
   flex-grow: 1;

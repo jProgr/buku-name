@@ -68,6 +68,9 @@ export class Options {
 
     const justMini = window.localStorage.getItem('justMini');
     if (justMini !== null) this._elements.justMini.checked = stringToBool(justMini);
+
+    const showInfo = window.localStorage.getItem('showInfo');
+    if (showInfo !== null) this._elements.showInfo.checked = stringToBool(showInfo);
   }
 
   /**
@@ -125,8 +128,8 @@ export class Options {
   }
 
   onChange(callback) {
-    Object
+     Object
       .values(this._elements)
-      .forEach(element => element.addEventListener('change', callback));
+      .forEach(element => element.addEventListener('change', event => callback(event)));
   }
 }

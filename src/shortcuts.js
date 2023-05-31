@@ -5,6 +5,7 @@ import {
   removeBaseToggleKey,
   removeCompoundToggleKey,
   removeOtherToggleKey,
+  removeInfoToggleKey,
 } from './util';
 
 export const ShortcutKey = Object.freeze({
@@ -14,6 +15,7 @@ export const ShortcutKey = Object.freeze({
   BASE_TOGGLE: '?',
   COMPOUND_TOGGLE: ',',
   OTHER_TOGGLE: '_',
+  INFO_TOGGLE: '$',
 });
 
 /**
@@ -33,12 +35,14 @@ export class Shortcuts {
     baseElement,
     compoundElement,
     otherElement,
+    infoElement,
   ) {
     this._searchElement = searchElement;
     this._exactMatchElement = exactMatchElement;
     this._baseElement = baseElement;
     this._compoundElement = compoundElement;
     this._otherElement = otherElement;
+    this._infoElement = infoElement;
 
     this._bootExactMatchToggle();
     this._bootFocusSearch();
@@ -46,6 +50,7 @@ export class Shortcuts {
     this._bootBaseToggle();
     this._bootCompoundToggle();
     this._bootOtherToggle();
+    this._bootInfoToggle();
   }
 
   /**
@@ -132,6 +137,19 @@ export class Shortcuts {
 
       this._otherElement.checked = !this._otherElement.checked;
       triggerEvent(this._otherElement, 'change');
+    });
+  }
+
+  _bootInfoToggle() {
+    this._searchElement.addEventListener('keyup', (event) => {
+      if (event.key === ShortcutKey.INFO_TOGGLE) this._searchElement.value = removeInfoToggleKey(this._searchElement.value);
+    });
+
+    window.addEventListener('keyup', (event) => {
+      if (event.key !== ShortcutKey.INFO_TOGGLE) return;
+
+      this._infoElement.checked = !this._infoElement.checked;
+      triggerEvent(this._infoElement, 'change');
     });
   }
 }

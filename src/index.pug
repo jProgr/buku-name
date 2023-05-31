@@ -64,6 +64,15 @@ head
             name='just-mini-element'
           )
           label(for='just-mini-element') just mini
+
+        .option-container
+          input(
+            type='checkbox'
+            id='show-info-element'
+            name='show-info-element'
+            checked
+          )
+          label(for='show-info-element') show info
     .dictionary-words
       each term in dictionary
         .word-container
@@ -107,6 +116,9 @@ head
       div
         dt ?
         dd Toggle base words
+      div
+        dt $
+        dd Toggle show info
     .credits
       ul
         li

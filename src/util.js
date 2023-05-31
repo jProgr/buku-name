@@ -32,11 +32,16 @@ export function removeOtherToggleKey(string) {
   return string.replaceAll(ShortcutKey.OTHER_TOGGLE, '');
 }
 
+export function removeInfoToggleKey(string) {
+  return string.replaceAll(ShortcutKey.INFO_TOGGLE, '');
+}
+
 export function removeShortcutKeys(string) {
   let clearString = removeExactMatchKey(string);
   clearString = removeBaseToggleKey(clearString);
   clearString = removeCompoundToggleKey(clearString);
   clearString = removeOtherToggleKey(clearString);
+  clearString = removeInfoToggleKey(clearString);
 
   return clearString;
 }
