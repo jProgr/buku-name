@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.1.0
+### Added
+- Add toggle for extra info on words.
+
+### Changed
+- Updated dictionary.
+
 ## 2.0.3
 ### Changed
 - Updated dictionary.
