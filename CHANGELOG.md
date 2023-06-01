@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.2.0
+### Added
+- Words in examples sentences are now highlighted.
+
+### Changed
+- Updated dictionary.
+
 ## 2.1.0
 ### Added
 - Add toggle for extra info on words.
