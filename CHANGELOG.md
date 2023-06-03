@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.1
+### Changed
+- Updated dictionary.
+
 ## 2.2.0
 ### Added
 - Words in examples sentences are now highlighted.
