@@ -198,10 +198,26 @@ audio {
   display: none;
 }
 
+.examples {
+  margin: 0;
+  padding: 0;
+}
 .example {
   color: #e3e3e3;
   font-size: 16px;
   margin: .1em;
+}
+li.example.mini {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+li.example.mini:before {
+  content: "-";
+  padding-right: .7em;
+}
+.example.en {
+  padding-left: 1em;
+  font-style: italic;
 }
 
 /*

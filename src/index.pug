@@ -90,10 +90,11 @@ head
                   type='button'
                 ) listen
 
-            .examples
+            ul.examples
               each sentence in sentences
                 if sentence.word === term.word
-                  p.example - !{sentence.mini} - #{sentence.en}
+                  li.example.mini !{sentence.mini}
+                  li.example.en #{sentence.en}
 
   footer
     p.keyboard-shortcuts Keyboard shortcuts
