@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.3
+### Changed
+- Updated UI of example sentences.
+- Updated dictionary.
+
 ## 2.2.2
 ### Changed
 - Updated dictionary.
