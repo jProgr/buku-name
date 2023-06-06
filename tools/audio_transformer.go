@@ -3,8 +3,10 @@ package main
 import (
     "fmt"
     "log"
+    "math/rand"
     "os"
     "os/exec"
+    "strconv"
     "strings"
 )
 
@@ -31,23 +33,39 @@ func do() error {
     }
     filenames = removeEmptyStrings(filenames)
 
+    outputDir := fmt.Sprintf(
+        "%v/%v",
+        os.Args[1],
+        strconv.Itoa(rand.Int()),
+    )
+    if err := os.Mkdir(outputDir, 0755); err != nil {
+        return err
+    }
+
     for _, filename := range filenames {
-        err := run("ffmpeg -i %[1]v.m4a -c:a libvorbis %[1]v.oga", filename)
+        err := run("ffmpeg -i %[1]v.m4a -filter:a loudnorm %[2]v/%[1]v.m4a", filename, outputDir)
         if err != nil {
             return err
         }
 
-        err = run("ffmpeg -i %[1]v.m4a %[1]v.mp3", filename)
+        err = run("ffmpeg -i %[2]v/%[1]v.m4a -c:a libvorbis %[2]v/%[1]v.oga", filename, outputDir)
+        if err != nil {
+            return err
+        }
+
+        err = run("ffmpeg -i %[2]v/%[1]v.m4a %[2]v/%[1]v.mp3", filename, outputDir)
         if err != nil {
             return err
         }
     }
 
+    fmt.Println(outputDir)
+
     return nil
 }
 
-func run(command, filename string) error {
-    cmdToRun := strings.Split(fmt.Sprintf(command, filename), " ")
+func run(command, filename, outputDir string) error {
+    cmdToRun := strings.Split(fmt.Sprintf(command, filename, outputDir), " ")
     cmdName := cmdToRun[0]
     cmdArgs := cmdToRun[1:]
 
