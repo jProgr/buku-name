@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.5
+### Changed
+- Updated dictionary.
+
 ## 2.2.4
 ### Changed
 - Normalize audio volume.
