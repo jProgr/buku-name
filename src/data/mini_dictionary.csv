@@ -52,6 +52,7 @@ Anak;Anak (place, hebrew bible, person) (not to be confused with 'Enak')
 Andalusia;Andalucía
 Angola;Angola
 Angugo;Korean (language) (see 'Josunmau')
+ani-loke;anywhere
 ani;any (determiner), whichever, anyone
 anima;soul, spirit
 animale-fobo;zoophobia
@@ -70,7 +71,7 @@ ante-nese;prerequisite
 ante-nun-aje;premodern, pre-modern
 ante;before
 anti-ora-uti-direto;counterclockwise, anticlockwise
-anti-sinifi;antonymous
+anti-sinifi;antonymous, antonym
 anti-tempo-tolera;impatience
 anti;against, anti-, opposite, opposing, oppose
 antika-gadi;celery
@@ -292,6 +293,7 @@ bisinesa-man;businessman, business person
 bisinesa;business, company, negotiate, conduct business
 bitume;tar, pitch, bitumen
 boba;bubble, boil
+bodi-peso;organ (body)
 bodi;body
 bogen;arch, vault, bow (weapon)
 boka;mouth
@@ -351,7 +353,7 @@ denta-medika-fobo;dentophobia
 denta-medika-man;dentist
 denta;tooth, teeth, bite
 deo;god, divine
-dereka;right (direction + moral + legal), straight, orthodox (see 'dereko', 'reka')
+dereka;right (direction + moral + legal), straight, orthodox (prefer 'dereko', 'reka')
 dereko;correct, just, right (moral), human right
 deside;decide, decision, adjudicate, resolve, settle
 desini-evento;example
@@ -440,6 +442,7 @@ eleki-loke;website (see 'neto-foli', 'neto-loke')
 eleki-ventana;screen (electronic)
 eleki;electric, electricity
 eleti;elect, election, select, choose, selection
+elika-poten-pin;screw, bolt
 elika;helix, curl, twist, curly, spiral, coil, propeller
 emo-name;interjection
 emo;emotion, emotional, passionate, emote
@@ -461,7 +464,8 @@ entero;intestines, bowel, entrails, gut
 envi;envy, jealous
 environ;environment, habitat, ambient, milieu
 epigo;emergency, urgent, to urge, press for
-erase-sesi;desex, desexualize
+erase-sesi-viro;eunuch
+erase-sesi;desex, desexualize, castrate
 erase;erase, erasure, remove, wipe away
 ereki;to stand, upright, erect
 ero;error, mistake, err
@@ -494,6 +498,7 @@ fasile;easy, ease, simple, straightforward
 fata;fate, destiny
 fatiga;tire, tired
 fatoria;factory, mill, plant
+fava-nuki;Arachis hypogaea, peanut
 fava;bean, legume, pea, lentil
 favo;favor, like, favorite, please
 fekun;fertile, fecund, fertilizer, productive
@@ -647,6 +652,7 @@ iritate;irritate, bother, pester, annoyance
 ironi;irony, ironic, sarcasm
 Ise-lan;Iceland
 ise-nata;ice cream
+ise-tori;penguin
 ise;ice, freeze
 Italia-linga;Italian (language)
 Italia;Italy, Italia
@@ -745,6 +751,7 @@ kapo;head, main
 kare;square, plaza
 karera-man;contestant, player, participant, challenger
 karera;race, competition, compete
+karo-para;parking, park (a vehicle)
 karo;car, vehicle, drive
 kasa;house, building
 Kasastan;Kazakhstan, Qazaqstan
@@ -1147,6 +1154,7 @@ nise;sneeze
 no-duo-numa;odd (number)
 no-kon-vole;by accident, accidentally, by chance, unintended, unintentional
 no-kon;without, exclude
+no-man;no-one, no one, nobody
 no-mori-man;zombie, undead
 no-mori;undead, zombification, to make an undead, to become undead
 no-nese-efeto;side effect, side-effect, aftereffect
@@ -1339,6 +1347,7 @@ Posole;Pozole (food)
 pota-neso;transportation
 pota;carry, transport, transfer, port, cargo
 pote;pot, pan, cauldron, crucible, saucepan
+poten-pin;nail (fastener)
 poten;power, force, strong
 pove;poor, poverty
 pubili-dua;campaign (movement), solicit votes, push for
@@ -1354,6 +1363,7 @@ punto;point, dot, spot, indicate, pointy, sharp
 pupe;doll, puppet
 pura;pure, clean, cleanse
 puse;press, push, shove
+radi-uti;radio (machine)
 radi;ray, beam, radiate, bolt, radius
 radika;root, rooted, rhizome, tuber
 raja-senjore;majesty, highness
@@ -1572,6 +1582,7 @@ sitema;system, systematic, systematize
 siti-neso;urbanism
 siti-senta;downtown, city centre, city center
 siti;city
+sivi-neso;citizenship
 sivi;citizen, civilian, civil, civilize
 so;so, such
 sofa;sofa
@@ -1663,9 +1674,10 @@ ten-ano;decade
 ten;ten, 10
 tenden;tendency, bias, inclination, inclined to
 teni;hold, grasp, cling to
-tensa;tense (action + state + grammar), stretch, strained
+tensa;tense (action + state + grammar), stretch, strained, tighten, fasten
 tenta;try, attempt, experiment, trial, tentative, provisional
 teoria;theory, theorize
+tera-vibe;earthquake, temblor
 tera;earth
 terapi;therapy, treatment, treat, cure, therapeutic
 tese;weave, woven, knit
