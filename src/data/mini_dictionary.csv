@@ -13,6 +13,7 @@ aero-kula;air-con, air con, air conditioner machine
 aero-loka;airlock
 aero-mini-peso;particulate (atmospheric)
 aero-pota;airport
+aero-veni;rust
 aero;air, atmosphere, gas
 Aetiopia;Ethiopia
 afa-semi-dia;afternoon
@@ -47,6 +48,7 @@ amo-senti;pat, caress, pet, stroke (lovingly)
 amo;love, dear
 amuse;amuse, entertain, fun, entertainment
 an-ma;etcetera
+an-sino;ampersand, and sign, &
 an;and, also, add
 Anak;Anak (place, hebrew bible, person) (not to be confused with 'Enak')
 Andalusia;Andalucía
@@ -116,7 +118,7 @@ atomo-9;fluorine
 atomo-10;neon
 atomo-11;sodium
 atomo-12;magnesium
-atomo-13;aluminum
+atomo-13;aluminum, aluminium
 atomo-14;silicon
 atomo-15;phosphorus
 atomo-16;sulfur
@@ -239,6 +241,7 @@ baka-dona;return (something), give back
 baka-go;return (movement), go back
 baka-pale-tori;mockingbird
 baka-pale;mock
+baka-rampa-sino;backslash, escape sign, reverse slash, backslant, reverse slant, \
 baka;back (body + adv), rear side, backward, behind
 balansa;balance, equilibrium, a scale, balanced, fair
 balena;whale, dolphin, porpoise, cetacean
@@ -439,11 +442,12 @@ elasi;spring, coil, elastic, springy
 elefante;elephant
 Elefen;Elefen, Lingua Franca Nova
 eleki-loke;website (see 'neto-foli', 'neto-loke')
+eleki-metodo-uti;processor, processing unit, CPU
 eleki-ventana;screen (electronic)
 eleki;electric, electricity
 eleti;elect, election, select, choose, selection
 elika-poten-pin;screw, bolt
-elika;helix, curl, twist, curly, spiral, coil, propeller
+elika;helix, curl, twist, curly, spiral, coil, propeller, at sign, @
 emo-name;interjection
 emo;emotion, emotional, passionate, emote
 en-fini;marginal
@@ -467,7 +471,7 @@ epigo;emergency, urgent, to urge, press for
 erase-sesi-viro;eunuch
 erase-sesi;desex, desexualize, castrate
 erase;erase, erasure, remove, wipe away
-ereki;to stand, upright, erect
+ereki;to stand, upright, erect, straight
 ero;error, mistake, err
 esamin;exam, test, interview, examination, investigation
 esato;exact, precise, precision, exactly, methodical
@@ -580,6 +584,7 @@ geko;lizard
 gen-begin;restart
 gen-eleti;reelection
 gen-gen-sono;clatter, clack, rattle
+gen-rondo;recycle, recycling
 gen-viva;revive
 gen;again, repeat, repetition, re-
 gene;inherit, inheritance, genetic, gene
@@ -773,6 +778,7 @@ ke;what, that
 keju;cheese
 keki;cake
 kelabu;gray, grey
+kemi-man;chemist
 kemi;chemical, drug
 Kenia;Kenya
 kera;horn (animal + instrument), spike
@@ -885,7 +891,7 @@ libera;freedom, free, liberate
 lida-make;manage, take care of (an issue), deal with
 lida-ofisi;headquarters, main offices
 lida;lead, leader, direct, guide
-liga;tie, bind, knot, league, link, connection
+liga;tie, bind, knot, league, link, connection, bond
 liki-metali;mercury (see 'atomo-80')
 liki-salo;sauce, gravy
 liki;liquid, liquify, fluid
@@ -929,6 +935,7 @@ luna;moon
 lunge;lungs
 lupo;wolf
 luse;light
+ma-sama-sino;more-than sign, more than sign, >
 ma;more
 Madrid;Madrid
 madu;honey
@@ -963,6 +970,7 @@ man-mui-fobo;enochlophobia
 man-mui;crowd, horde, mob
 man;person, human
 mandiba;jaw, mandible
+manja-moda;diet
 manja;food, eat
 manka;mark, stain, blemish, spot
 mano-balo;basketball
@@ -1015,6 +1023,7 @@ memba;member, adherent
 Memo-dia;Memorial Day, Remembrance Day, Poppy Day
 memo;memory, remember
 menase;threat, menace, menacing, threaten
+meno-sama-sino;less-than sign, less than sign, <
 meno-vori;reassure, reassurance
 meno;less (comparison), fewer, minus, hyphen, dash (-)
 menta;mind, mental
@@ -1036,16 +1045,19 @@ mi-ego;myself
 mi-mui;we (excludes addressee)
 mi;first person, I
 Mianma;Myanmar, Burma, Republic of the Union of Myanmar
+midori-roka;emerald
 midori;green
 milita-move;invasion, invade, raid, incursion
 milita;military, army
 mime;mimic, copy, imitation
 mimi;ear (see 'ia')
+mina-roka;mineral, ore
 mina;mine (place + action)
 mini-bela;cute (see 'suga-bela')
 mini-keki;cookie, biscuit
 mini-moda;minimalism, minimalistic
 mini-peso;bit, small piece, particle
+mini-sujo;dopant
 mini-viva-fiba;fibril (biology)
 mini;small, little
 minute;minute
@@ -1099,6 +1111,7 @@ musika;music, musical
 muso-fobo;musophobia
 muso;mouse, rat
 muta-numa;version (number)
+muta-uti;converter, transformer
 muta;change, modify, modification, mutation
 nafasa;breathe, breath
 naga-fobo;ophidiophobia
@@ -1112,8 +1125,10 @@ najima-siensa;astronomy (see 'univesa-siensa')
 najima;star, to highlight, celebrity
 name-buku;dictionary
 name-jura;grammar (see 'linga-regula')
+name-muta;conjugate (a word), inflection
 name-tari-siensa;etymology
 name;name, word
+nami-sino;tilde, ~
 nami;wave, undulation
 naro;narrow, thin, strait
 nase;nose
@@ -1155,6 +1170,7 @@ no-duo-numa;odd (number)
 no-kon-vole;by accident, accidentally, by chance, unintended, unintentional
 no-kon;without, exclude
 no-man;no-one, no one, nobody
+no-metali;nonmetal
 no-mori-man;zombie, undead
 no-mori;undead, zombification, to make an undead, to become undead
 no-nese-efeto;side effect, side-effect, aftereffect
@@ -1175,7 +1191,7 @@ Nu York;New York (prefer 'Nu-york')
 Nu-york;New York (see 'Nu York')
 nu;new
 nube;cloud, cloudy
-nudelo;noodle
+nudelo;noodle, pasta
 nudi;nude, naked, nudity
 nuga;rub, friction, massage, caress, tickle, chafe
 nuki;nut
@@ -1184,7 +1200,7 @@ nulo-benda;inflexible, stubborn, obstinate
 nulo-ego-ereki-esi-maladi;parasitosis, parasitic disease
 nulo-ego-ereki-esi;parasite
 nulo-ego-ereki;dependence, depend on, rely on
-nulo-enejia;listless, sluggish, lethargic
+nulo-enejia;listless, sluggish, lethargic, inert
 nulo-fide;unfaithful, adulterous
 nulo-jenti;impolite, rude,  ill-mannered
 nulo-jura-neso;injustice
@@ -1198,6 +1214,7 @@ nulo-sori;unapologetic
 nulo-uti;useless, in vain
 nulo-vina;innocence, lack of guilt
 nulo;nothing, zero, 0
+numa-sino;hash, number sign, pound sign, #
 numa;number
 nun-aje;modern
 nun-dia;today, present day, currently (see 'di-dia')
@@ -1253,6 +1270,7 @@ paisa;nation, country, national
 paketa-12;dozen
 paketa;package, parcel, packet, bundle
 Pakistan;Pakistan
+pale-man;spokesperson, spokesman, spokeswoman
 pale;talk, speech, discussion, speak
 pan;bread
 panta;pants, trousers
@@ -1371,12 +1389,15 @@ raja-topi-viru;coronavirus
 raja;ruler, royal, king, queen
 raka;rack, shelf, ledge
 rama;arm, limb, branch
+rampa-sino;slash, stroke, solidus, forward slash, diagonal, /
 rampa;ramp, lean, incline, slope, bow, slant, tilt, tilted
 rana;frog, toad
 randon;random, arbitrary, caprice
 ranko;rank, status, ordering, -th (ordinal)
 rano;early, too soon
+rapi-kemi-reaki;catalysis
 rapi;fast, speed, quickly
+raro-tera-atomo;rare-earth element, REE, rare-earth metal, rare-earth oxides, rare earth
 raro;rare, weird, strange
 rasa-divi;racial segregation
 rasa;race, ethnicity, racial
@@ -1446,6 +1467,7 @@ rosa;pink, rose
 ruina;destroy, ruin, destruction, downfall
 ruja-bulu;magenta
 ruja-lati-maladi;smallpox, red plague
+ruja-roka;ruby
 ruja-rondo-radika-veji-maladi;raphania (sickness)
 ruja-rondo-radika-veji;radish
 ruja-veni;irritation, irritate, irritant, sore
@@ -1806,6 +1828,7 @@ veta;weather, climate
 via-linga-man;translator
 via-linga;translate, translation
 via-sesi;transexual
+via-vari-eleki-uti;transistor
 via-viva;survive
 via;through, across, trans-
 vibe;vibe, shake, vibrate, agitate, vibration, turbulence
