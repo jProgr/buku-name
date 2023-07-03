@@ -229,8 +229,8 @@ atomo-radi;radioactive
 atomo;atom, atomic
 Ausa;Hausa (people, language)
 Australia;Australia
+ave;have, possession, marks perfect tense
 ave-a;transitive (grammar) (not to be confused with 'via-relate')
-ave;have, possession
 avion;airplane
 aviso;attention, warn, caution, warning, alert, notification
 Azeri;Azerbaijan
@@ -338,7 +338,7 @@ danke;thanks, to thank, thankful
 Danmak;Denmark, Danmark
 dansa;dance
 dare;dare, daring, bold, brave, to challenge
-de;from, of, about, by
+de;from, of, about, by, out of, made of, marks past tense
 Deanmingu;South Korea, Republic of Korea, ROK, south koreans
 debate;argue, debate, dispute, argument
 debe;should, obligation
@@ -462,7 +462,7 @@ en-pota;import
 en-relate;adopt, adoption, adopted
 en-salu;welcome (see 'bon-veni')
 en-savi;convince, persuade, make someone else understand
-en;in, at, on
+en;in, at, on, marks progressive tense
 Enak;ʿAnāq (not to be confused with 'Anak')
 enejia;energy, energize, energetic
 enemi;enemy, nemesis
@@ -601,8 +601,7 @@ Germania-linga;German (language), Deutsch
 Germania;Germany, Deutschland
 giga;billion
 gitara;guitar, lute, a strummed instrument
-go;to, go, towards, for
-goma;rubber, rubbery
+go;to, go, towards, for, marks future tense
 gomba;mushroom
 gota;drop, bead, blob, spot, drip
 gove-ajenda;policy
@@ -783,7 +782,7 @@ kavalo-kavalo;mule
 kavalo-rondo-radika-veji;horseradish, horse radish
 kavalo;horse, donkey, mule
 kave;cave, cavern
-ke;what, that
+ke;what, that, introduce dependant clause
 keju;cheese
 keki;cake
 kelabu;gray, grey
@@ -883,7 +882,7 @@ lan-runguma;landlock, landlocked
 lan;land, territory, domain, state
 lana;wool
 Lanka;Sri Lanka
-lase;let, allow, license, permission, licit
+lase;let, allow, license, permission, licit, marks hortative mood
 lasi;lazy, indolence, inactivity
 lati-maladi;plague, epidemic
 lati;wide, broad, width, latitude
@@ -1304,7 +1303,7 @@ parija;grill, grid, grate, broiler, gridiron
 Parisi;Paris (France)
 pasa-dia;yesterday
 pasa-pota;passport
-pasa;pass, happen, past
+pasa;pass, happen, past, marks habitual tense
 pase-tori;dove, pigeon
 pase-veni;calm, chill out, calm down, quiet down, appease
 pase;peace, peaceful
