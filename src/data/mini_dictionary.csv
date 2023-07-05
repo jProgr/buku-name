@@ -229,8 +229,8 @@ atomo-radi;radioactive
 atomo;atom, atomic
 Ausa;Hausa (people, language)
 Australia;Australia
-ave;have, possession, marks perfect tense
 ave-a;transitive (grammar) (not to be confused with 'via-relate')
+ave;have, possession, marks perfect tense
 avion;airplane
 aviso;attention, warn, caution, warning, alert, notification
 Azeri;Azerbaijan
@@ -269,6 +269,7 @@ Bask-lan;Basque Country, Euskadi, País Vasco, Basque Autonomous Community
 bata;beat, fight, battle
 batisa;dip, dunk, immerse, baptise, baptism
 baton;stick, rod
+bebe-pota;pregnant, pregnancy
 bebe;baby
 begin;start, initial, beginning
 bela;beautiful, beauty, beautify
@@ -704,6 +705,7 @@ junta-labora;teamwork, coordination
 junta;join, group, together
 Jupiter;Jupiter, Iuppiter
 jura-deside-kasa;court of law, court, tribunal
+jura-junta;constitution (law)
 jura-man;lawyer
 jura-neso;justice
 jura-tovari;chaperone, chaperon
@@ -1440,7 +1442,7 @@ relijon-mesa;altar, shrine
 relijon;religion, religious
 remo;oar, rudder, to row
 rena;kidney
-renta;rent, borrow
+renta;rent, borrow, loan, lend
 reo;flow, current, rhythm, influence
 repare-vari;edition, edit, version (not to be confused with 'muta-numa')
 repare;fix, correction, improvement, repair, mend
@@ -1835,6 +1837,7 @@ veji;plant, vegetable
 veka;awake, wake, aware
 vela;sail
 ven;when
+vende-man;seller, vendor, retailer, merchant
 vende;sell, sale
 vendeta;revenge, vengeful, to seek revenge
 venemo;venom, poison, to poison
