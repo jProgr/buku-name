@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2.2.13
+### Added
+- Added descriptions of search options.
+
 ### Changed
 - Updated dictionary.
 
