@@ -120,12 +120,20 @@ head
       div
         dt $
         dd Toggle show info
+    p.search-options Search options
+      ul.search-description
+        li Exact match: Matches full words exactly. The query "abc" matches "abc def" but not "abcdef".
+        li Base words: Includes the base words in the search results. Base words do not start with uppercase and are not compounds.
+        li Compound words: Includes the compound words in the search results. Compounds are base words joined by a "-".
+        li Other words: Includes words that do not fall in the other categories in the search results. Usually proper nouns.
+        li Just mini: Matches the query only to Mini words ignoring english meanings.
+        li Show info: Shows or hides extra info of each word: Example sentences, audio and links.
     .credits
       ul
         li
           a(target='_blank' rel="noopener" href='https://jprogr.github.io/') By jProgr
         li
-          a(target='_blank' rel="noopener" href='https://github.com/jProgr/buku-name/') v 2.2.12
+          a(target='_blank' rel="noopener" href='https://github.com/jProgr/buku-name/') v 2.2.13
         li
           a(target='_blank' rel="noopener" href='https://minilanguage.com/') Mini language by S.C. Gruget
   // JavaScript will be loaded by webpack

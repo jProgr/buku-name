@@ -247,6 +247,21 @@ p.keyboard-shortcuts {
   display: inline;
 }
 
+p.search-options {
+  font-size: 18px;
+  margin-top: 50px;
+}
+ul.search-description {
+  padding-left: 0;
+}
+ul.search-description > li {
+  margin-top: 8px;
+}
+ul.search-description > li:before {
+  content: "-";
+  padding-right: .7em;
+}
+
 .credits {
   font-size: 14px;
   width: 100%;
