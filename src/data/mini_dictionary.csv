@@ -225,6 +225,7 @@ atomo-115;moscovium
 atomo-116;livermorium
 atomo-117;tennessine
 atomo-118;oganesson
+atomo-enejia;nuclear (atomic) (see 'atomo'), nuclear power, nuclear energy, atomic energy
 atomo-radi;radioactive
 atomo;atom, atomic
 Ausa;Hausa (people, language)
@@ -359,7 +360,8 @@ denta-medika-fobo;dentophobia
 denta-medika-man;dentist
 denta;tooth, teeth, bite
 deo;god, divine
-dereka;right (direction + moral + legal), straight, orthodox (prefer 'dereko', 'reka')
+dereka;right (direction, moral, legal), straight, orthodox (prefer 'dereko', 'reka')
+dereko-filoso;ethics, moral philosophy
 dereko;correct, just, right (moral), human right
 deside;decide, decision, adjudicate, resolve, settle
 desini-evento;example
@@ -424,6 +426,7 @@ duro;hard, difficult, problem
 dusa;shower, to shower, downpour
 e;introduces adjectival & adverbial complement
 Ebru;Hebrew
+edu-evento;class (not the room), seminar, course
 edu-man;teacher
 edu;teach, educate, education, educated
 efeto;effect, result, to effect, effective
@@ -465,6 +468,7 @@ en-salu;welcome (see 'bon-veni')
 en-savi;convince, persuade, make someone else understand
 en;in, at, on, marks progressive tense
 Enak;ʿAnāq (not to be confused with 'Anak')
+enejia-kaja;battery (electric)
 enejia;energy, energize, energetic
 enemi;enemy, nemesis
 Eng-lan;England
@@ -867,7 +871,7 @@ kuri;run, sprint, jog
 kusin;cousin
 kuve;tub, barrel, vat, tank
 labi;lip, rim, brim
-labora-man;employee, worker
+labora-man;employee, worker, staff
 labora-safari;commute, travel from or to work
 labora;work, labor, hard-working, job
 lada;ladder, escalator, stairs, steps
@@ -1013,6 +1017,7 @@ matemati;math, mathematical
 maten;morning
 materi;matter, material, substance
 matura;mature, ripe, adult
+mebi-siensa;probability, probability theory
 mebi;maybe, possibility
 medi-savi;common sense
 medi;average, medium, normal, usual, standard, norm
@@ -1088,6 +1093,8 @@ moloko;milk, milky
 momen-reaki;reflex (body)
 momen;moment, instant, instantaneous, immediate
 monato;month, monthly
+mone-apojo-junta;fund (organization)
+mone-apojo;funding (economical), subsidy, financing, sponsorship, subsidize, fund (of money) (see 'mone')
 mone-fobo;plutophobia
 mone-regula;capitalism
 mone;money
@@ -1576,6 +1583,7 @@ sento-ano;century
 sento;hundred, 100
 sera-fobo;claustrophobia
 sera;close, shut, seal
+Serbia;Serbia, Srbija, Србија
 sereale;grain, cereal, wheat
 serebe;brain
 seri;series, list, order, row, enumerate
