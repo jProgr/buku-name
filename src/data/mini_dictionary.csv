@@ -237,7 +237,7 @@ aviso;attention, warn, caution, warning, alert, notification
 Azeri;Azerbaijan
 ba;eight, 8
 bagaje;luggage, baggage, gear, personal effects, to lug
-bai;bay, golf, cove
+bai;bay, gulf, cove
 bajo-fura;anus
 bajo;low, short (height)
 baka-dona;return (something), give back
@@ -506,6 +506,7 @@ Fanse;French (language)
 fantome;ghost, spirit, phantom
 fara-leke-makina;teleprompter, autocue
 fara;far, distance, remote, extreme
+farina-monte;dune
 farina;flour, dust, a granulated substance, sand, grind
 fase;face, to face someone
 Faser;Fajr (prayer, place)
@@ -522,6 +523,7 @@ Feme-dia;Woman's day, International Women's Day
 feme-fobo;gynophobia
 feme-kinde;girl
 feme-paren;mother
+feme-sibi;sister
 feme-viro;femboy
 feme;woman, female
 fen;fen, swamp, bog, marsh
@@ -557,6 +559,7 @@ fogo-monte;volcano
 fogo-tori;phoenix
 fogo;fire, hot, burn
 foli-lan;plain (geographic), flatland
+foli-manja;salad
 foli-nase;flat nose
 foli-veji;lettuce
 foli;sheet, leaf, flat, flatten, page
@@ -630,6 +633,7 @@ igi-man;carpenter
 igi;tree, wood
 Ila Balea;Balearic Islands, Baleares
 Ila Kanario;Canary Islands, Canarias
+ila-junta;archipelago
 ila;island
 imaje-kapa;camera
 imaje;image, picture
@@ -666,6 +670,7 @@ Iran;Iran, Persia
 Ire-lan;Ireland, Éire, Airlann (see 'Eire')
 iritate;irritate, bother, pester, annoyance
 ironi;irony, ironic, sarcasm
+ise-lan;iceberg
 Ise-lan;Iceland
 ise-nata;ice cream
 ise-tori;penguin
@@ -739,6 +744,7 @@ kali;dark, black
 Kalifornia;California
 kalite;quality, property, to attribute, feature, trait, -ness
 kalori-fobo;thermophobia
+kalori-fonte;geyser
 kalori-mui-ke;temperature
 kalori;heat, hot, calorie
 kama;bed
@@ -803,8 +809,10 @@ kerusa;cross, intersect, intersection, crucifix
 kia;key, unlock
 kilo-ano;millennium
 kilo-gama;Kg, kilogram
+kilo-mita;kilometer, kilometre, km
 kilo;thousand, 1000
 kinde-gaden;kindergarten
+kinde-ludi;toy
 kinde;child
 kino;film, movie, cinema, to film
 kipa-tenden-neso;stability
@@ -861,7 +869,9 @@ Kristo-relijon;Christianity (religion)
 kubita;elbow, nudge, cubit
 kubo;brick, cube, block
 kujara;spoon
+kula-foreta;tundra
 kula-lubi;ski
+kula-vali;fjord, fiord
 kula;cool, cold
 kulutura;culture, cultural
 kuneli;rabbit, hare, bunny
@@ -884,7 +894,9 @@ lakoni-note;article, nonfiction short text
 lakoni;short (length), curt, brief
 lampa;lamp
 Lan de-i uno de amerika;United States of America, USA
+lan-figura;landform
 lan-runguma;landlock, landlocked
+lan-tumo;cape (geography)
 lan;land, territory, domain, state
 lana;wool
 Lanka;Sri Lanka
@@ -897,6 +909,7 @@ lava;wash
 leje-man;reader
 leje;read, a reading, well-read
 lense;lens, eyeglasses, magnifying glass
+lenta-unda;parachute
 lenta;slow, slowly
 leon;lion, tiger, panther, a big cat
 leva-sole;sunrise, dawn, daybreak
@@ -951,6 +964,7 @@ lujo;luxury, luxurious, opulence, fancy
 luki;fortune, luck, lucky
 Luksemburg;Luxembourg, Luxemburg
 lulu;pearl
+luna-vakansa;honeymoon
 luna;moon
 lunge;lungs
 lupo;wolf
@@ -997,10 +1011,12 @@ mano-balo;basketball
 mano-buku;hand book, handbook, manual, guidebook, instruction book
 mano-jeti-mesura-uti;clap-o-meter, clapometer, applause meter, applaud-o-meter
 mano-jeti;applaud, applause
+mano-note;handwrite, handwriting
 mano;hand
 mapa;map, chart
 Marati;Marathi, मराठी
 mare-fobo;thalassophobia
+mare-lago;lagoon
 mare-maladi;seasick (see 'vomi-maladi')
 mare-man;seaman, seafaring person, sailor
 mare;ocean, sea, marine
@@ -1011,6 +1027,7 @@ mari-viro;husband
 mari;marry, marriage
 Marok;Morocco
 maron;brown
+Mars;Mars
 masa;mass, pile, heap, to amass, massive
 masala;spice, curry, spiced
 matemati;math, mathematical
@@ -1029,8 +1046,10 @@ medika;medicine, medicinal
 Mega Britan;Great Britain
 mega-basara;supermarket
 mega-fobo;megalophobia
+mega-ise-lan;glacier
 mega-komputa;server (computer)
 mega-sono;loud
+mega-tingi-foli-lan;plateau (geography)
 mega;big, great, large, million, 1000000
 Mehiko;México, Mexico (prefer 'Meksiko')
 Meksiko;México, Mexico (see 'Mehiko')
@@ -1102,8 +1121,11 @@ monki;monkey, gorilla, chimpanzee
 monte;mountain, hill, bump, protrusion, protrude, bumpy
 morale;moral, morality, moralize, morale, virtue
 more;custom, habit, customary, tradition, traditional
+mori-dona;inheritance, inherit (see 'gene')
+mori-note;will (death)
 mori-rite;funeral
 Mori-ruja-fiore;Lycoris radiata, red spider lily, corpse flower, higanbana
+mori-tori;vulture (Accipitridae, Cathartidae)
 mori;death, die, dead, kill
 Moritan;Mauritania
 Mosr;Egypt (see 'Aegiptos')
@@ -1154,6 +1176,8 @@ name;name, word
 nami-kaja-sino;curly brackets, braces, {}
 nami-sino;tilde, ~
 nami;wave, undulation
+naro-lan;isthmus (geography)
+naro-vasa;strait (geography)
 naro;narrow, thin, strait
 nase;nose
 nata;cream, creamy
@@ -1169,6 +1193,7 @@ nea;near, neighborhood, close by, approach, nearly
 nebu;mist, fog, foggy, nebulous
 neka;neck
 Nepal;Nepal
+Neptunus;Neptune
 nese;need, necessity, requirement, necessary
 neso;abstract, abstraction, -ness, -ity
 neto-baton-ludi;tennis (game)
@@ -1192,6 +1217,7 @@ Nipon;Japan (see 'Japan')
 nise;sneeze
 no-ave-a;intransitive (grammar)
 no-duo-numa;odd (number)
+no-fini;unfinished, not finished, unpolished
 no-kon-vole;by accident, accidentally, by chance, unintended, unintentional
 no-kon;without, exclude
 no-man;no-one, no one, nobody
@@ -1299,6 +1325,7 @@ Pakistan;Pakistan
 pale-man;spokesperson, spokesman, spokeswoman
 pale;talk, speech, discussion, speak
 pan;bread
+Panama;Panama, Panamá
 panta;pants, trousers
 papaver-kemi;opium
 Papaver;Poppy (flower)
@@ -1367,6 +1394,7 @@ pisi;fish
 pisina;pool of water, pond, swimming pool
 piti;pity, mercy, compassion, sympathy, sympathize
 piuma;feather
+Pluton;Pluto
 poesi;poem, poetry, poetic
 poke;pocket
 polisa;police
@@ -1380,6 +1408,7 @@ pone-name;describe, description
 pone-sinifi;define, definition
 pone;put, lay, place
 ponte;bridge
+Popula repubika de sina;People's Republic of China, PRC, Zhōngguó (not to be confused with 'Repubika de sina')
 Popula republika de kongo;People's Republic of the Congo, République populaire du Congo (not to be confused with 'Popula-regula-gove republika de kongo', 'Kongo')
 Popula-regula-gove republika de kongo;Democratic Republic of the Congo, DRC, République démocratique du Congo, RDC (not to be confused with 'Kongo', 'Popula republika de kongo')
 popula-regula-gove;democracy
@@ -1453,6 +1482,7 @@ renta;rent, borrow, loan, lend
 reo;flow, current, rhythm, influence
 repare-vari;edition, edit, version (not to be confused with 'muta-numa')
 repare;fix, correction, improvement, repair, mend
+Repubika de sina;Taiwan, Republic of China, ROC, Zhōnghuá Mínguó (not to be confused with 'Popula repubika de sina') (see 'Taiuan')
 repubika;republic, republican
 resi-figura;lie down, lay down
 resi;rest, sleep
@@ -1541,6 +1571,7 @@ Santi-feme-paren-monte;Holy Mother (Mount Everest) (see 'Jomoglanma', 'Everest')
 santi-man;saint
 santi;holy, spiritual
 sapato;shoe
+Saturnus;Saturn
 Saudi-arabia;Saudi Arabia, Kingdom of Saudi Arabia, KSA
 sava;save, rescue, salvation, salvage, retrieve
 savaje;wild, savage, feral, uncivilized, wilderness
@@ -1556,6 +1587,7 @@ sede;sit, seat, chair
 sekeleton;skeleton, framework, scaffolding
 seketa;secret, mystery
 seko;dry, dryness
+sekola-make;schoolwork, homework, assignment (school)
 sekola;school
 sekon;second (time)
 sekura;secure, safe, safety, security
@@ -1566,6 +1598,7 @@ semana;week, weekly
 semen;seed
 semi-aje;middle age (era, human age), medieval
 semi-dia;noon, midday
+semi-ila;peninsula
 semi-pota;semiconductor
 semi-rondo;arc
 semi;half, partial, incompletely
@@ -1624,7 +1657,7 @@ sili-man-fobo;coulrophobia
 sili-man;clown
 sili;silly, foolish, trivial, triviality
 sina;chest, torso
-Sina;China, Zhōngguó
+Sina;China, Zhōngguó (see 'Repubika de sina', 'Popula repubika de sina')
 sinda;cinder, ash, ashy
 sinifi;meaning, to mean, sense, significance, significant
 sino;sign, mark, symbol, signal, token, logo
@@ -1638,6 +1671,7 @@ siti-senta;downtown, city centre, city center
 siti;city
 sivi-neso;citizenship
 sivi;citizen, civilian, civil, civilize
+Skakus;chess
 so;so, such
 sofa;sofa
 sofio;blow, inflate, puff
@@ -1667,6 +1701,7 @@ sosia;society, social
 su-fero-maladi;hemochromatosis, haemochromatosis, iron overload (sickness)
 su;too, too much
 suave;smooth, soft, sleek, even
+subita-lan;cliff, precipice, barranca, barranco
 subita;sudden, suddenly, abrupt, to precipitate
 Sudan;Sudan
 Sude afrika;South Africa (country), Republic of South Africa
@@ -1689,6 +1724,7 @@ supa-ato;condescending, patronizing
 supa-go;go up, climb, rise (see 'leva')
 supa;above, over, up
 supe;soup
+superise-gape;gawk, gawp
 superise;surprise, astonish, shock, unexpected
 suponji;sponge
 supose;suppose, guess, conjecture, hypothesis, assume
@@ -1700,6 +1736,7 @@ tabu;taboo, forbid, forbidden
 tadi;late, tardy, delay
 Tagalog;Tagalog, Wikang Tagalog
 Tai;Thailand, Thai (language), Tai (language family)
+Taiuan;Taiwan (see 'Repubika de sina')
 talon;heel
 tambo;drum
 tamen;although, though, nevertheless, in spite of, however
@@ -1744,6 +1781,7 @@ tila;until, till, up to, approach, reach
 timi;timid, shy, coy, reserved
 tin;tin (see 'atomo-50'), can
 tingi-fobo;acrophobia
+tingi-foli-lan;mesa
 tingi-sekola;high school
 tingi-tingi-sekola;university
 tingi;high, tall, height
@@ -1796,6 +1834,7 @@ uka;hook, hanger, crook (shepherd), mitre
 Ukraina;Ukraine
 ulu;owl
 umile;humble, modest, humility, shame
+unda-go-vasa;fall (of liquid), waterfall, cascade, cataract (of water)
 unda-go;fall, descend
 unda-meno;underscore character, low line, low dash, _
 unda-sole;sunset, twilight, sundown
@@ -1809,6 +1848,7 @@ uno-deo;monotheistic, monotheism
 uno-kamera-domo;single room occupancy, studio flat, bedsit
 uno-punto-sita-kilo-mita;mile (length)
 uno;one, 1
+Uranus;Uranus
 Urdu;Urdu
 Usbekistan;Uzbekistan
 utero;womb, uterus
@@ -1856,6 +1896,7 @@ veni;come, become
 ventana;window, mirror, screen
 vento-fobo;ancraophobia
 vento;wind, windy
+Venus;Venus
 vepon;weapon, arms, to arm, weaponize
 vere-fule-neso;honesty
 vere-fule;honest, truthful
@@ -1895,6 +1936,7 @@ viro-mari-feme;boywife, boy-wife
 viro-paren;father
 viro-semen-sela;spermatozoon, sperm, spermatozoa
 viro-semen;semen, seminal fluid, cum
+viro-sibi;brother
 viro;man, male
 viru;virus, viral
 visita;visit
