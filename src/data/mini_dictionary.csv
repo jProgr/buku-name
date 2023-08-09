@@ -63,6 +63,7 @@ animale-medika-kasa;veterinary (place), animal hospital
 animale-medika-man;veterinarian
 animale-medika;veterinary medicine
 animale-sela;pen (for animals), corral, enclosure (for animals)
+animale-sono;roar, growl, howl, bellow, holler (see 'jeritan')
 animale;animal
 anjo;angel, angelic
 ankora;yet, even, still
@@ -443,6 +444,7 @@ Eire;Ireland, Éire, Airlann (see 'Ire-lan')
 eki-kapa;emancipation
 eki-mun;exit
 eki-pota;export
+eki-terapi;surgery (see 'medika-metodo')
 eki;out, ex-, away, external
 eko;echo, reflection
 ekonomi;economy, economic, thrifty
@@ -520,6 +522,7 @@ favo;favor, like, favorite, please
 fekun;fertile, fecund, fertilizer, productive
 feme-amigo;girlfriend
 Feme-dia;Woman's day, International Women's Day
+feme-fili;daughter (see 'fili')
 feme-fobo;gynophobia
 feme-kinde;girl
 feme-paren;mother
@@ -769,6 +772,7 @@ Kantabria;Cantabria
 kanti-man;singer
 kanti;sing, song, tune, melody
 kapa;capture, catch, seize, grasp, captive, grab, get hold of
+Kapo direto;cardinal direction, cardinal point
 kapo-sentense;title (text), heading, header (text)
 kapo-siti;capital (geography)
 kapo;head, main
@@ -889,6 +893,7 @@ lado-mira;side-eye, side eye, side-look
 lado;side, adjacent, next to
 lagima;tears, to cry
 lago;lake, loch, pond
+laji-inseto;cockroach
 laji;trash, garbage, waste, to throw away
 lakoni-note;article, nonfiction short text
 lakoni;short (length), curt, brief
@@ -923,6 +928,7 @@ lida-ofisi;headquarters, main offices
 lida-paren;godparent, godfather, godmother, guideparent
 lida-viro-paren;godfather
 lida;lead, leader, direct, guide
+liga-name;compound word
 liga;tie, bind, knot, league, link, connection, bond
 liki-metali;mercury (see 'atomo-80')
 liki-salo;sauce, gravy
@@ -968,6 +974,7 @@ luna-vakansa;honeymoon
 luna;moon
 lunge;lungs
 lupo;wolf
+luse-mogi;firefly
 luse;light
 ma-sama-sino;more-than sign, more than sign, >
 ma;more
@@ -982,12 +989,14 @@ maji-name;incantation, conjuration
 maji-viro;wizard
 maji;magic, magical, conjure
 Majorka;Mallorca, Majorca
+make-inteli;artificial intelligence, AI
 make-linga;constructed language, conlang
 make-man;author
 make-memo;remind
 make;make, do, create
 makina;machine, apparatus
 mala-eleki-peso;electron (atom)
+mala-feme;bitch
 mala-name;curse, swear
 mala-pasa;misfortune, hardship, adversity, hard times
 mala-tira;misfire
@@ -1041,7 +1050,7 @@ medi;average, medium, normal, usual, standard, norm
 media;media, communication, press
 medika-man-fobo;iatrophobia
 medika-man;doctor
-medika-metodo;operation (medical), surgery
+medika-metodo;operation (medical), surgery (see 'eki-terapi')
 medika;medicine, medicinal
 Mega Britan;Great Britain
 mega-basara;supermarket
@@ -1183,6 +1192,7 @@ nase;nose
 nata;cream, creamy
 nati-dia;birthday
 nati-fobo;lockiophobia
+nati-uti;reproductive organ, sex organ, genitalia, genitals
 nati;birth, give birth
 natura-eleti;instinct, intuition, hunch, gut feeling
 natura;nature, natural
@@ -1323,6 +1333,7 @@ paketa-12;dozen
 paketa;package, parcel, packet, bundle
 Pakistan;Pakistan
 pale-man;spokesperson, spokesman, spokeswoman
+pale-tori;parrot
 pale;talk, speech, discussion, speak
 pan;bread
 Panama;Panama, Panamá
@@ -1622,6 +1633,7 @@ serebe;brain
 seri;series, list, order, row, enumerate
 serio;serious, earnest, seriousness
 sesi-ego;masturbate, masturbation
+sesi-topi;orgasm
 sesi;sex, sexy, copulate, gender
 sete;thirst, thirsty
 Seuta;Ceuta
@@ -1931,6 +1943,7 @@ violensa;violence, violent
 vipi;whip, lash
 viro-amigo;boyfriend
 viro-feme;tomboy
+viro-fili;son (see 'fili')
 viro-kinde;boy
 viro-mari-feme;boywife, boy-wife
 viro-paren;father
