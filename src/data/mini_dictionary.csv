@@ -63,6 +63,7 @@ animale-medika-kasa;veterinary (place), animal hospital
 animale-medika-man;veterinarian
 animale-medika;veterinary medicine
 animale-sela;pen (for animals), corral, enclosure (for animals)
+animale-sesi;zoophilia, bestiality
 animale-sono;roar, growl, howl, bellow, holler (see 'jeritan')
 animale;animal
 anjo;angel, angelic
@@ -75,6 +76,7 @@ ante-nese;prerequisite
 ante-nun-aje;premodern, pre-modern
 ante;before
 anti-ora-uti-direto;counterclockwise, anticlockwise
+anti-poten;offset
 anti-sinifi;antonymous, antonym
 anti-tempo-tolera;impatience
 anti;against, anti-, opposite, opposing, oppose
@@ -239,6 +241,7 @@ Azeri;Azerbaijan
 ba;eight, 8
 bagaje;luggage, baggage, gear, personal effects, to lug
 bai;bay, gulf, cove
+Bait;byte (unit)
 bajo-fura;anus
 bajo;low, short (height)
 baka-dona;return (something), give back
@@ -284,6 +287,7 @@ bensin;fuel, gasoline, benzene
 beri;berry, grape, olive
 beso;kiss
 besonde;special, especially, particular, exceptional
+bete-neso;bestiality (for the sexual act see 'animale-sesi')
 bete;monster, beast, beastly
 beton;cement, concrete, pave
 Bianka-kasa;White House (place)
@@ -335,6 +339,8 @@ da-ma-impotan;main
 da-ma;majority (amount)
 da-meno;minority (amount)
 da;that, there, would
+dalili-name;thesis
+dalili-sentense;argument (logic)
 dalili;evidence, proof, demonstration, testimony
 danja;danger, dangerous
 danke;thanks, to thank, thankful
@@ -356,6 +362,7 @@ deluje;flood, torrent, inundate, overwhelm, overwhelming
 demo;demonstration, indicate, show
 demon;devil, demon, diabolical
 den;then, in that case
+Denim;Denim (fabric)
 denta-materi;ivory
 denta-medika-fobo;dentophobia
 denta-medika-man;dentist
@@ -382,6 +389,7 @@ dia-6;saturday
 dia-7;sunday
 dia;day, date
 diamante;diamond, adamant
+difuse-basilo;infection, infect
 difuse;spread, diffuse, diffusion
 dijesi;digest, digestion
 diji;finger, toe, digit
@@ -411,6 +419,7 @@ dona-mala-name-man;critic (person)
 dona-mala-name;criticize, criticise, condemn
 dona;give, gift
 doragon;dragon
+dua-make;commission
 dua;request, ask, prayer, invocation, plea, petition
 dubi;doubt
 duka-sige;persecution, witch hunt, harry
@@ -541,7 +550,7 @@ fevere;fever, feverish
 fiba;fiber, string, thread, wire, ply, roughage, strand
 fide;faith, to trust, loyal
 figado;liver
-figura;figure, form, shape, structure, statue, figurine
+figura;figure, form, shape, structure, statue, figurine, setup, layout
 filete;steak, fillet, to fillet
 fili;son, daughter
 Filipinas;Philippines, Pilipinas, Las Islas Filipinas
@@ -607,6 +616,7 @@ gen-rondo;recycle, recycling
 gen-viva;revive
 gen;again, repeat, repetition, re-
 gene;inherit, inheritance, genetic, gene
+gera-ludi;war game, wargame
 gera;war
 germania-fobo;anti-Germanism, germanophobia, teutophobia
 Germania-linga;German (language), Deutsch
@@ -714,6 +724,8 @@ Jouo;Javanese (language), basa Jawa
 Juda-relijon;Judaism
 jue;cheek, jowl
 jumpa;jump, bounce, leap, hop, skip, bounce
+junta-kopen-man;subscriber
+junta-kopen;subscribe (to a service)
 junta-labora;teamwork, coordination
 junta;join, group, together
 Jupiter;Jupiter, Iuppiter
@@ -733,6 +745,7 @@ kabuma-oko;pop eye, pop-eyed
 kabuma;explode, explosion, blast, detonate, pop
 kada;each, respectively
 kadena;chain, fetters
+kadi-ludi;card game
 kadi;card, placard, cardboard, charter
 kafe;coffee, cafe
 kaja-sino;brackets, parentheses, (), [], {}, ⟨⟩ (see 'rondo-kaja-sino', 'kare-kaja-sino', 'nami-kaja-sino', 'kona-kaja-sino')
@@ -996,6 +1009,7 @@ make-inteli;artificial intelligence, AI
 make-linga;constructed language, conlang
 make-man;author
 make-memo;remind
+make-uti;generator, function (mathematics, computer science)
 make;make, do, create
 makina;machine, apparatus
 mala-eleki-peso;electron (atom)
@@ -1073,6 +1087,7 @@ Melilia;Melilla
 melon;melon, gourd, pumpkin
 memba;member, adherent
 Memo-dia;Memorial Day, Remembrance Day, Poppy Day
+memo-name;slogan, tagline, catchphrase
 memo;memory, remember
 menase;threat, menace, menacing, threaten
 meno-sama-sino;less-than sign, less than sign, <
@@ -1086,6 +1101,7 @@ mentira;lie, false, deceive, deception, fake
 menu;menu
 merite;deserve, merit, -worthy
 Merkurius;Mercury, Mercurius
+mesa-ludi;boardgame, board game, tabletop game
 mesa-man;waiter, server (job), bartender
 mesa;table
 mesaje;message, notification, notify
@@ -1099,6 +1115,7 @@ mi;first person, I
 Mianma;Myanmar, Burma, Republic of the Union of Myanmar
 midori-roka;emerald
 midori;green
+milita-junta;draft, recruit, enlist (military, by force or choice), levy (as in join the military) (see 'obe-jura-kapa')
 milita-move;invasion, invade, raid, incursion
 milita;military, army
 mime;mimic, copy, imitation
@@ -1106,6 +1123,7 @@ mimi;ear (see 'ia')
 mina-roka;mineral, ore
 mina;mine (place + action)
 mini-bela;cute (see 'suga-bela')
+mini-gera-ludi;miniature wargame
 mini-keki;cookie, biscuit
 mini-moda;minimalism, minimalistic
 mini-peso;bit, small piece, particle
@@ -1131,6 +1149,7 @@ mone-regula;capitalism
 mone;money
 monki;monkey, gorilla, chimpanzee
 monte;mountain, hill, bump, protrusion, protrude, bumpy
+Montreal;Montréal, Montreal
 morale;moral, morality, moralize, morale, virtue
 more;custom, habit, customary, tradition, traditional
 mori-dona;inheritance, inherit (see 'gene')
@@ -1219,6 +1238,7 @@ neve-fobo;chionophobia
 neve;snow
 ni;never, ever
 nida;nest, hive, den
+Nikaraua;Nicaragua
 niku-aroma;umami
 niku-en-feruta;fig (fruit)
 niku-sando;hamburger, burger
@@ -1237,6 +1257,7 @@ no-man;no-one, no one, nobody
 no-metali;nonmetal
 no-mori-man;zombie, undead
 no-mori;undead, zombification, to make an undead, to become undead
+no-muta;constant
 no-nese-efeto;side effect, side-effect, aftereffect
 no-nese-name;pleonasm
 no-obe-jura;illegal
@@ -1289,6 +1310,7 @@ nuta;neutral, bland, neuter, boring, impartial
 o;modifier separator
 oasi;oasis (prefer 'saara-lago')
 obe-jura-kapa;arrest, imprisonment, incarceration, legal restraint, detention
+obe-jura-kapa;levy (legal, by an authority), requirement (by legal means)
 obe-jura;legal
 obe;obey, compliance, obedient
 odi;hate, hatred, enmity
@@ -1351,6 +1373,7 @@ paren;parent
 pari;bet, wager, gamble
 parija;grill, grid, grate, broiler, gridiron
 Parisi;Paris (France)
+pasa-begin;arise, begin to happen, emerge (not from a liquid), come up (not as in movement)
 pasa-dia;yesterday
 pasa-pota;passport
 pasa;pass, happen, past, marks habitual tense
@@ -1381,6 +1404,7 @@ peribadi-pubili;dox, doxx, doxing, doxxing
 peribadi;private, privacy
 pero;but, except
 Peru;Perú
+peso-ave-man;shareholder, stakeholder, stockholder
 peso;piece, part, component
 pianeta;planet, planetary
 piano-man;pianist
@@ -1461,6 +1485,8 @@ rama;arm, limb, branch
 rampa-sino;slash, stroke, solidus, forward slash, diagonal, /
 rampa;ramp, lean, incline, slope, bow, slant, tilt, tilted
 rana;frog, toad
+randon-kubo-ludi;dice game
+randon-kubo;dice, die
 randon;random, arbitrary, caprice
 ranko;rank, status, ordering, -th (ordinal)
 rano;early, too soon
@@ -1477,7 +1503,7 @@ ratio;ratio, rate, proportion, fraction
 reaki-makina;telephone answering machine, answerphone
 reaki;answer, response, reaction
 rebele;rebel, rebellion, revolution, treason, rebellious
-redi;ready, available, prepare, preparation
+redi;ready, available, prepare, set up, preparation
 refere;refer to, reference, mention, allusion
 regen-aroma;petrichor
 regen-fobo;oluviophobia
@@ -1499,6 +1525,7 @@ repare;fix, correction, improvement, repair, mend
 Repubika de sina;Taiwan, Republic of China, ROC, Zhōnghuá Mínguó (not to be confused with 'Popula repubika de sina') (see 'Taiuan')
 repubika;republic, republican
 resi-figura;lie down, lay down
+resi-man;retiree
 resi;rest, sleep
 retili-fobo;herpetophobia
 retili;reptile, crawl, creep
@@ -1599,6 +1626,7 @@ se;if, whether
 seda;silk
 sede;sit, seat, chair
 sekeleton;skeleton, framework, scaffolding
+seketa-gove-ajenda;conspiracy
 seketa;secret, mystery
 seko;dry, dryness
 sekola-make;schoolwork, homework, assignment (school)
