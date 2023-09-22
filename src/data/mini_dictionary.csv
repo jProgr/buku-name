@@ -68,18 +68,20 @@ animale-sono;roar, growl, howl, bellow, holler (see 'jeritan')
 animale;animal
 anjo;angel, angelic
 ankora;yet, even, still
+ano-peso;season (of the year)
 ano;year, annual
 ansio-fiba;nerve
 ansio;anxious, anxiety, nervous
 Antartika;Antarctica
 ante-nese;prerequisite
 ante-nun-aje;premodern, pre-modern
-ante;before
+ante;before, prior, previous
 anti-ora-uti-direto;counterclockwise, anticlockwise
 anti-poten;offset
 anti-sinifi;antonymous, antonym
 anti-tempo-tolera;impatience
 anti;against, anti-, opposite, opposing, oppose
+antika-fami;ancestor, ancestry, predecessor
 antika-gadi;celery
 antika;old, to age, antique, ancient
 anunsi;announce, announcement, declare, declaration
@@ -496,7 +498,8 @@ erase-sesi;desex, desexualize, castrate
 erase;erase, erasure, remove, wipe away
 ereki;to stand, upright, erect, straight
 ero;error, mistake, err
-esamin;exam, test, interview, examination, investigation
+esamin-peso;sample
+esamin;exam, test, interview, examination, investigation, assessment
 esato;exact, precise, precision, exactly, methodical
 ese;east
 esi;exist, existence, existent
@@ -733,6 +736,7 @@ jura-deside-kasa;court of law, court, tribunal
 jura-junta;constitution (law)
 jura-man;lawyer
 jura-neso;justice
+jura-pape;contract
 jura-tovari;chaperone, chaperon
 jura;law, rule, instruction
 jusa;just (adv), very recently, to have just, recent
@@ -794,6 +798,7 @@ kare-kaja-sino;square brackets, []
 kare;square, plaza
 karera-man;contestant, player, participant, challenger
 karera;race, competition, compete
+karo-man;driver, rider
 karo-para;parking, park (a vehicle)
 karo;car, vehicle, drive
 kasa;house, building
@@ -841,6 +846,7 @@ kite;leave, quit, abandon, exit
 koda;tail, coda
 kode;code, cipher, program code
 koleki;collect, collection, gather
+kolenka-sede;kneel
 kolenka;knee
 kolidi;crash, collision, collide
 kolina;hill
@@ -966,6 +972,7 @@ lita;liter (SI)
 litera;letter, literature, character, to spell, literary
 Litora-de-denta-materi;Ivory Coast, Côte d'Ivoire, République de Côte d'Ivoire
 litora;shore, beach, coast, littoral
+loji-pensa;rational, reason, reasoning
 loji;logic, logical
 loka;lock, to lock, latch, bolt, clasp
 loke;location, locate, place
@@ -977,6 +984,7 @@ longo-pisi;eel (animal)
 longo-ruse;gaslight, gaslighting
 longo;long, length, longitude
 Losban;Lojban, la .lojban., lo jbobau
+lose-mone;expense, expenditure
 lose;lose, loss, failure, fail
 lubi;slip, slide, slippery, glide
 ludi-man;player (game)
@@ -1074,6 +1082,7 @@ mega-basara;supermarket
 mega-fobo;megalophobia
 mega-ise-lan;glacier
 mega-komputa;server (computer)
+mega-lida;tycoon
 mega-sono;loud
 mega-tingi-foli-lan;plateau (geography)
 mega;big, great, large, million, 1000000
@@ -1309,8 +1318,7 @@ nuta-eleki-peso;neutron (atom)
 nuta;neutral, bland, neuter, boring, impartial
 o;modifier separator
 oasi;oasis (prefer 'saara-lago')
-obe-jura-kapa;arrest, imprisonment, incarceration, legal restraint, detention
-obe-jura-kapa;levy (legal, by an authority), requirement (by legal means)
+obe-jura-kapa;arrest, imprisonment, incarceration, legal restraint, detention, levy (legal, by an authority), requirement (by legal means)
 obe-jura;legal
 obe;obey, compliance, obedient
 odi;hate, hatred, enmity
@@ -1389,6 +1397,7 @@ pausa;pause, break, interruption
 pedi-balo;football, soccer
 pedi;foot, by foot, kick, stomp, feet
 Pekin;Beijing (China)
+pele-manka;freckle, mole (skin), birthmark
 pele-sofio-maladi;dermatitis, eczema
 pele;skin, surface, peel, hide (animal)
 pelo-bovi;bos grunniens, yak, domestic yak, tartary ox, grunting ox, hairy cattle
@@ -1488,7 +1497,7 @@ rana;frog, toad
 randon-kubo-ludi;dice game
 randon-kubo;dice, die
 randon;random, arbitrary, caprice
-ranko;rank, status, ordering, -th (ordinal)
+ranko;rank, status, ordering, -th (ordinal), ranking
 rano;early, too soon
 rapi-kemi-reaki;catalysis
 rapi;fast, speed, quickly
@@ -1616,7 +1625,7 @@ Saturnus;Saturn
 Saudi-arabia;Saudi Arabia, Kingdom of Saudi Arabia, KSA
 sava;save, rescue, salvation, salvage, retrieve
 savaje;wild, savage, feral, uncivilized, wilderness
-savi-man;expert
+savi-man;expert, specialist, master (in something)
 savi-suma-buku;encyclopedia, encyclopædia
 savi;know, understand, knowledge
 savon-gadi;cilantro, coriander
@@ -1825,6 +1834,7 @@ timi;timid, shy, coy, reserved
 tin;tin (see 'atomo-50'), can
 tingi-fobo;acrophobia
 tingi-foli-lan;mesa
+tingi-nati;noble (status)
 tingi-sekola;high school
 tingi-tingi-sekola;university
 tingi;high, tall, height
