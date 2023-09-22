@@ -4,11 +4,12 @@
 
 ## Development
 
-The project uses NPM and its ecosystem. So to run it you need at least:
+To run it you need at least:
 
 - Node 18.
+- Go 1.21.
 
-To begin install depencies using NPM:
+To begin install dependencies using NPM:
 
 ```
 npm i
@@ -50,4 +51,12 @@ To project uses ESLint, to run it use:
 
 ```
 npm run lint
+```
+
+#### Checking dictionary integrity
+
+To check that the dictionary does not have duplicate entries:
+
+```
+npm run check
 ```

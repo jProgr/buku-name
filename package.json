@@ -8,7 +8,8 @@
     "start:open": "webpack-dev-server --open --host 0.0.0.0 --config webpack.dev.js",
     "start:prod": "webpack-dev-server --open --host 0.0.0.0 --config webpack.prod.js",
     "build": "webpack --config webpack.prod.js",
-    "deploy": "node deploy.js"
+    "deploy": "npm run check && node deploy.js",
+    "check": "go run tools/dict_checker.go"
   },
   "author": "jProgr <8537691@gmail.com> (https://github.com/jProgr)",
   "repository": "github:jProgr/buku-name",
