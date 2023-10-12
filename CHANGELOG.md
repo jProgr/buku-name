@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.1
+### Changed
+- Updated dictionary.
+
 ## 2.3.0
 ### Added
 - New script for checking dictionary integrity.

@@ -48,6 +48,7 @@ amo-man;darling
 amo-senti;pat, caress, pet, stroke (lovingly)
 amo;love, dear
 amuse;amuse, entertain, fun, entertainment
+an-kosa;accessory, auxiliary (thing), additional, supplementary, add-on
 an-ma;etcetera
 an-sino;ampersand, and sign, &
 an;and, also, add
@@ -276,7 +277,7 @@ Bask-lan;Basque Country, Euskadi, País Vasco, Basque Autonomous Community
 bata;beat, fight, battle
 batisa;dip, dunk, immerse, baptise, baptism
 baton;stick, rod
-bebe-pota;pregnant, pregnancy
+bebe-pota;pregnant, pregnancy, impregnate
 bebe;baby
 begin;start, initial, beginning
 bela;beautiful, beauty, beautify
@@ -297,6 +298,7 @@ bianka-kera-veji;parsnip
 bianka-rondo-radika-veji;turnip
 bianka;white
 bibe;drink
+Bide;bidet
 biju;jewel, gem, jewelry
 bike;bicycle
 biko;beak, to peck, spout
@@ -415,6 +417,7 @@ dogi-fobo;cynophobia
 dogi;dog
 Dolar;dollar, dollars
 domo-animale;pet (animal)
+domo-bon;hospitality, hospitable
 domo;home, domestic, reside, domesticate
 dona-duka;attack, assault
 dona-mala-name-man;critic (person)
@@ -474,6 +477,7 @@ elika;helix, curl, twist, curly, spiral, coil, propeller, at sign, @
 emo-name;interjection
 emo;emotion, emotional, passionate, emote
 en-fini;marginal
+en-go;enter, access, penetrate, penetration (for pierce see 'pika'), step into
 en-move;immigration
 en-mun;entrance
 en-pota;import
@@ -493,6 +497,7 @@ entero;intestines, bowel, entrails, gut
 envi;envy, jealous
 environ;environment, habitat, ambient, milieu
 epigo;emergency, urgent, to urge, press for
+erase-kapo-biju;defrock, dethrone, uncrown
 erase-sesi-viro;eunuch
 erase-sesi;desex, desexualize, castrate
 erase;erase, erasure, remove, wipe away
@@ -523,6 +528,7 @@ fara-leke-makina;teleprompter, autocue
 fara;far, distance, remote, extreme
 farina-monte;dune
 farina;flour, dust, a granulated substance, sand, grind
+fase-kuretina;veil
 fase;face, to face someone
 Faser;Fajr (prayer, place)
 fasile;easy, ease, simple, straightforward
@@ -583,6 +589,7 @@ foma;foam, froth, suds, mousse, lather
 fon-fobo;nomophobia
 fon;phone
 fonte;fountain, spring, well
+fore-emo;motivate, motivation, driven
 fore-pedi;forefeet, forefoot, frontal feet of a quadruped
 fore;front, forehead, forward
 foreta;forest, woods
@@ -635,6 +642,7 @@ gove-padon;amnesty
 gove-pale-mudi;diplomatic mission, embassy
 gove-pale;diplomacy, diplomat
 gove;government, govern
+Grinsboro;Greensboro
 Gris;Greece, Hellenic Republic  (see 'Elas')
 Guanga;Mandarin Chinese
 gule;throat, gullet
@@ -717,6 +725,7 @@ jira-unda-go;fall rolling, tumble down, fall suddenly and without grace
 jira;turn, gyrate, spin, whirl
 joke;joke, jest
 joli-arapan;satisfy, pleased (with some result)
+joli-koda-maladi;happy tail syndrome, limber tail syndrome, acute caudal myopathy
 joli-man;cheerleader
 joli-neso;hapiness, pleasure
 joli;happy, joy, frolic, enjoy
@@ -791,6 +800,7 @@ kanti-man;singer
 kanti;sing, song, tune, melody
 kapa;capture, catch, seize, grasp, captive, grab, get hold of
 Kapo direto;cardinal direction, cardinal point
+kapo-biju;crown
 kapo-sentense;title (text), heading, header (text)
 kapo-siti;capital (geography)
 kapo;head, main
@@ -821,7 +831,9 @@ ke;what, that, introduce dependant clause
 keju;cheese
 keki;cake
 kelabu;gray, grey
+kemi-botega;pharmacy, drugstore, apothecary
 kemi-man;chemist
+kemi-siensa;chemistry
 kemi;chemical, drug
 Kenia;Kenya
 kera;horn (animal + instrument), spike
@@ -906,6 +918,7 @@ kuri;run, sprint, jog
 kusin;cousin
 kuve;tub, barrel, vat, tank
 labi;lip, rim, brim
+labora-enejia;effort, man power, man-power (not manpower), work (unit)
 labora-man;employee, worker, staff
 labora-safari;commute, travel from or to work
 labora;work, labor, hard-working, job
@@ -916,6 +929,7 @@ lagima;tears, to cry
 lago;lake, loch, pond
 laji-inseto;cockroach
 laji;trash, garbage, waste, to throw away
+lakoni-labora;gig, assignment
 lakoni-note;article, nonfiction short text
 lakoni;short (length), curt, brief
 lampa;lamp
@@ -950,7 +964,7 @@ lida-paren;godparent, godfather, godmother, guideparent
 lida-viro-paren;godfather
 lida;lead, leader, direct, guide
 liga-name;compound word
-liga;tie, bind, knot, league, link, connection, bond
+liga;tie, bind, knot, league, link, connection, connect, bond
 liki-metali;mercury (see 'atomo-80')
 liki-salo;sauce, gravy
 liki;liquid, liquify, fluid
@@ -1005,6 +1019,7 @@ ma;more
 Madrid;Madrid
 madu;honey
 mageneti;magnet, magnetic
+Maiami;Miami
 maisa;corn
 Maja;Maya (civilizations, language, religion, place)
 maji-feme;witch
@@ -1054,7 +1069,7 @@ mare-lago;lagoon
 mare-maladi;seasick (see 'vomi-maladi')
 mare-man;seaman, seafaring person, sailor
 mare;ocean, sea, marine
-mari-feme;wife
+mari-feme;wife, bride
 mari-fobo;gamophobia
 mari-man;spouse, wife, husband, married person
 mari-viro;husband
@@ -1073,6 +1088,7 @@ mebi;maybe, possibility
 medi-savi;common sense
 medi;average, medium, normal, usual, standard, norm
 media;media, communication, press
+medika-kemi-siensa;pharmacology
 medika-man-fobo;iatrophobia
 medika-man;doctor
 medika-metodo;operation (medical), surgery (see 'eki-terapi')
@@ -1135,6 +1151,7 @@ mini-bela;cute (see 'suga-bela')
 mini-gera-ludi;miniature wargame
 mini-keki;cookie, biscuit
 mini-moda;minimalism, minimalistic
+mini-otelo;hostel, inn, motel, lodge (see 'otelo')
 mini-peso;bit, small piece, particle
 mini-sujo;dopant
 mini-viva-fiba;fibril (biology)
@@ -1152,7 +1169,7 @@ momen-reaki;reflex (body)
 momen;moment, instant, instantaneous, immediate
 monato;month, monthly
 mone-apojo-junta;fund (organization)
-mone-apojo;funding (economical), subsidy, financing, sponsorship, subsidize, fund (of money) (see 'mone')
+mone-apojo;funding (economical), fundraising, subsidy, financing, sponsorship, subsidize, fund (of money) (see 'mone')
 mone-fobo;plutophobia
 mone-regula;capitalism
 mone;money
@@ -1383,6 +1400,7 @@ parija;grill, grid, grate, broiler, gridiron
 Parisi;Paris (France)
 pasa-begin;arise, begin to happen, emerge (not from a liquid), come up (not as in movement)
 pasa-dia;yesterday
+pasa-en-tempo;frequency
 pasa-pota;passport
 pasa;pass, happen, past, marks habitual tense
 pase-tori;dove, pigeon
@@ -1475,7 +1493,7 @@ pubili;print, publish
 puja;worship, praise, adore, adoration
 puko;knife, dagger, stab
 pulasi;plastic, plastics, malleable
-pumpa;pump (motion + tool)
+pumpa;pump (motion, tool)
 puni;punish, punishment
 punjo;fist, punch, knob, hilt, handgrip
 punto-impotan;focus, emphasis
@@ -1762,7 +1780,7 @@ sue;sew, stich, seam
 sufi;enough, sufficient, suffice
 suga-bela;cute (see 'mini-bela')
 suga;sugar, sweet
-sujesi;suggest, suggestion, hint, insinuation, propose (an idea)
+sujesi;suggest, suggestion, hint, insinuation, propose (an idea), recommend
 sujo-ropa;laundry
 sujo;dirty, grime, filth, to taint, corruption
 suko;suck, suction
@@ -1952,7 +1970,7 @@ vento;wind, windy
 Venus;Venus
 vepon;weapon, arms, to arm, weaponize
 vere-fule-neso;honesty
-vere-fule;honest, truthful
+vere-fule;honest, truthful, frank, sincere
 vere-make;implement, carry out
 vere;true, truth, really
 vese;west
