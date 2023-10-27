@@ -89,6 +89,7 @@ anunsi;announce, announcement, declare, declaration
 apara;seem, appear, apparent, obvious, appearance
 apojo-kan;sustainable
 apojo;support, backing, advocacy, backup, bolster
+App;app (as in software application)
 ara-fobo;spheksophobia, apiphobia, melissophobia
 ara;bee, hornet, wasp
 Aragon;Aragón
@@ -343,9 +344,11 @@ da-ma-impotan;main
 da-ma;majority (amount)
 da-meno;minority (amount)
 da;that, there, would
+dalili-man;witness
 dalili-name;thesis
 dalili-sentense;argument (logic)
 dalili;evidence, proof, demonstration, testimony
+Dan;Dan
 danja;danger, dangerous
 danke;thanks, to thank, thankful
 Danmak;Denmark, Danmark
@@ -463,6 +466,7 @@ eki-terapi;surgery (see 'medika-metodo')
 eki;out, ex-, away, external
 eko;echo, reflection
 ekonomi;economy, economic, thrifty
+Ekuador;Ecuador, Equador
 Elas;Greece, Hellenic Republic (see 'Gris')
 elasi;spring, coil, elastic, springy
 elefante;elephant
@@ -515,6 +519,7 @@ Etana;Etana
 etudi;learn, study, research
 Europa;Europe
 Euskara;Basque (language), Euskara (language), Basque Country, Euskadi, País Vasco, Basque Autonomous Community
+eutdi-man;student, researcher
 eve;evening, night
 evento;event, case (instance), occurence
 Everest;Everest, Mount Everest (see 'Jomoglanma', 'Santi-feme-paren-monte')
@@ -544,6 +549,7 @@ Feme-dia;Woman's day, International Women's Day
 feme-fili;daughter (see 'fili')
 feme-fobo;gynophobia
 feme-kinde;girl
+feme-nati-uti;female genitalia, uterus, vagina, vulva
 feme-paren;mother
 feme-sibi;sister
 feme-viro;femboy
@@ -592,6 +598,7 @@ fonte;fountain, spring, well
 fore-emo;motivate, motivation, driven
 fore-pedi;forefeet, forefoot, frontal feet of a quadruped
 fore;front, forehead, forward
+foreta-siensa;forestry
 foreta;forest, woods
 fosi;dig, bury
 Frans;France, Francia
@@ -828,6 +835,7 @@ kavalo-rondo-radika-veji;horseradish, horse radish
 kavalo;horse, donkey, mule
 kave;cave, cavern
 ke;what, that, introduce dependant clause
+Keisi;Casey
 keju;cheese
 keki;cake
 kelabu;gray, grey
@@ -873,7 +881,7 @@ kompare;compare, comparison
 komputa;computer, compute
 komun-dire-fobo;glossophobia
 komun;community, communal, public
-kon-pasa;coincide, concur, simultaneous
+kon-pasa;coincide, concur, simultaneous, sync, synchronization, synchronize
 kon;with, include
 kona-kaja-sino;angle brackets, chevrons, ⟨⟩
 kona;corner, angle
@@ -1079,6 +1087,7 @@ maron;brown
 Mars;Mars
 masa;mass, pile, heap, to amass, massive
 masala;spice, curry, spiced
+matemati-vere;theorem
 matemati;math, mathematical
 maten;morning
 materi;matter, material, substance
@@ -1132,7 +1141,7 @@ mesa;table
 mesaje;message, notification, notify
 mesura;measure, measurement, size (clothing), dimension
 metali;metal, metallic
-metodo;method, procedure, technique, means, methodical
+metodo;method, procedure, process, mechanism (as in process) (see 'sitema'), technique, means, methodical
 mi-ale;we (includes addressee)
 mi-ego;myself
 mi-mui;we (excludes addressee)
@@ -1246,6 +1255,7 @@ natura-eleti;instinct, intuition, hunch, gut feeling
 natura;nature, natural
 Navara;Navarre, Navarra, Nafarroa
 navi;boat, ship
+navu-man;prophet, diviner, forecaster
 navu;predict, prophecy, prediction, prophetic
 nea;near, neighborhood, close by, approach, nearly
 nebu;mist, fog, foggy, nebulous
@@ -1504,6 +1514,7 @@ puse;press, push, shove
 radi-uti;radio (machine)
 radi;ray, beam, radiate, bolt, radius
 radika;root, rooted, rhizome, tuber
+raja-paisa;kingdom
 raja-senjore;majesty, highness
 raja-topi-viru;coronavirus
 raja;ruler, royal, king, queen
@@ -1673,6 +1684,7 @@ semi-rondo;arc
 semi;half, partial, incompletely
 sena;scene, stage
 sende;send, transmit, dispatch, broadcast, a post
+Sengai;Shanghai
 seni;art, artistic
 senjore;mr., ms., sir, madam, lord, master
 senta-eve;midnight, middle of the night
@@ -1691,6 +1703,7 @@ serebe;brain
 seri;series, list, order, row, enumerate
 serio;serious, earnest, seriousness
 sesi-ego;masturbate, masturbation
+sesi-mano;handjob, hand job, fingering (see 'sesi-ego')
 sesi-topi;orgasm
 sesi;sex, sexy, copulate, gender
 sete;thirst, thirsty
@@ -1735,7 +1748,7 @@ sinti;sparkle, twinkle, polish, shine
 siren;bell, siren, alarm, to chime, handbell, doorbell
 sisora;scissors, shears
 sita;six, 6
-sitema;system, systematic, systematize
+sitema;system, systematic, systematize, mechanism
 siti-neso;urbanism
 siti-senta;downtown, city centre, city center
 siti;city
@@ -1809,7 +1822,7 @@ Tai;Thailand, Thai (language), Tai (language family)
 Taiuan;Taiwan (see 'Repubika de sina')
 talon;heel
 tambo;drum
-tamen;although, though, nevertheless, in spite of, however
+tamen;although, though, nevertheless, in spite of, however, regardless
 tami;filter, sieve, colander
 Tamiru;Tamil
 Tansania;Tanzania (place, spider), United Republic of Tanzania
@@ -1868,7 +1881,7 @@ Tokio;Tokyo
 tolera;tolerate, tolerance, tolerant, accepting
 toma;take
 tonere;thunder
-topi-give-man;mayor, president, governor, head of government, chief minister, prime minister
+topi-gove-man;mayor, president, governor, head of government, chief minister, prime minister
 topi-noga;lap (front of thighs)
 topi;cap, hat, top, summit
 tore;tower, skyscraper, turret, steeple, minaret
@@ -1956,6 +1969,7 @@ veji;plant, vegetable
 veka;awake, wake, aware
 vela;sail
 ven;when
+vende-anunsi;ad, advertisement, advertising, publicity
 vende-man;seller, vendor, retailer, merchant
 vende;sell, sale
 vendeta;revenge, vengeful, to seek revenge
@@ -2005,6 +2019,7 @@ viro-feme;tomboy
 viro-fili;son (see 'fili')
 viro-kinde;boy
 viro-mari-feme;boywife, boy-wife
+viro-nati-uti;penis, dick, cock, male genitalia
 viro-paren;father
 viro-semen-sela;spermatozoon, sperm, spermatozoa
 viro-semen;semen, seminal fluid, cum
@@ -2031,3 +2046,4 @@ vote;vote
 vudu;curse, hex, jinx, spell
 vuma;worm
 vunda;wonder, miracle, marvel, wonderful
+konfuse-konditi;chaos, mess, disaster (not natural), disarray, havoc, disorder
