@@ -520,6 +520,7 @@ etudi;learn, study, research
 Europa;Europe
 Euskara;Basque (language), Euskara (language), Basque Country, Euskadi, País Vasco, Basque Autonomous Community
 eutdi-man;student, researcher
+eve-manja;dinner, supper
 eve;evening, night
 evento;event, case (instance), occurence
 Everest;Everest, Mount Everest (see 'Jomoglanma', 'Santi-feme-paren-monte')
@@ -740,6 +741,7 @@ Jomoglanma;Qomolangma, Chomolungma (Mount Everest) (see 'Santi-feme-paren-monte'
 Josun;North Korea, Democratic People's Republic of Korea, DPRK
 Josunmau;Korean (language) (see 'Angugo')
 Jouo;Javanese (language), basa Jawa
+juda-relijon-manja-neso;kosher
 Juda-relijon;Judaism
 jue;cheek, jowl
 jumpa;jump, bounce, leap, hop, skip, bounce
@@ -817,6 +819,7 @@ karera-man;contestant, player, participant, challenger
 karera;race, competition, compete
 karo-man;driver, rider
 karo-para;parking, park (a vehicle)
+Karo-renta ofisi;car rental place
 karo;car, vehicle, drive
 kasa;house, building
 Kasastan;Kazakhstan, Qazaqstan
@@ -887,6 +890,7 @@ kona-kaja-sino;angle brackets, chevrons, ⟨⟩
 kona;corner, angle
 konditi;condition, state
 konfi;comfortable, comfort, cozy
+konfuse-konditi;chaos, mess, disaster (not natural), disarray, havoc, disorder
 konfuse;confusion, confuse, confusing, perplex
 Kongo;Congo (people, place, kingdom, language), Kikongo, Republic of the Congo, Congo-Brazzaville (not to be confused with 'Popula-regula-gove republika de kongo', 'Popula republika de kongo')
 konka;shell
@@ -900,6 +904,8 @@ kopere;copper (see 'atomo-29')
 kore;heart
 Korea;Korea (region), Joseon, Hanguk (not to be confused with 'Deanmingu', 'Josun')
 koredora;hall, corridor
+koreo-kadi;postcard, post card
+koreo-sino;stamp (post), postage stamp, post stamp
 koreo;mail, letter, post
 kosa-reo;transit
 kosa;thing, stuff
@@ -1089,6 +1095,7 @@ masa;mass, pile, heap, to amass, massive
 masala;spice, curry, spiced
 matemati-vere;theorem
 matemati;math, mathematical
+maten-manja;breakfast
 maten;morning
 materi;matter, material, substance
 matura;mature, ripe, adult
@@ -1162,6 +1169,7 @@ mini-keki;cookie, biscuit
 mini-moda;minimalism, minimalistic
 mini-otelo;hostel, inn, motel, lodge (see 'otelo')
 mini-peso;bit, small piece, particle
+mini-resi;nap, siesta, doze
 mini-sujo;dopant
 mini-viva-fiba;fibril (biology)
 mini;small, little
@@ -1180,6 +1188,7 @@ monato;month, monthly
 mone-apojo-junta;fund (organization)
 mone-apojo;funding (economical), fundraising, subsidy, financing, sponsorship, subsidize, fund (of money) (see 'mone')
 mone-fobo;plutophobia
+mone-kadi;credit card, creditcard, debit card, payment card
 mone-regula;capitalism
 mone;money
 monki;monkey, gorilla, chimpanzee
@@ -1550,8 +1559,10 @@ regen;rain
 regula-feme;dominatrix
 regula;regulate, regulation, control, ruler (tool), a rule
 reka;right (direction)
+rela-gare;train station
 rela;rail, train, bar
 relate;relate, relation, relationship, connection, connect with
+relijon-kasa;church
 relijon-mesa;altar, shrine
 relijon;religion, religious
 remo;oar, rudder, to row
@@ -1621,6 +1632,7 @@ saara-lago;oasis
 saara;desert
 Saara;Sahara
 sadi;mean, cruel, sadistic
+Safari-man info ofisi;tourist information place
 safari-man;traveler, adventurer
 safari;journey, voyage, trip, travel, adventure, adventurous
 saga-kompare;analogy
@@ -1677,6 +1689,7 @@ selo;sky
 semana;week, weekly
 semen;seed
 semi-aje;middle age (era, human age), medieval
+semi-dia-manja;lunch
 semi-dia;noon, midday
 semi-ila;peninsula
 semi-pota;semiconductor
@@ -1921,6 +1934,8 @@ umile;humble, modest, humility, shame
 unda-go-vasa;fall (of liquid), waterfall, cascade, cataract (of water)
 unda-go;fall, descend
 unda-meno;underscore character, low line, low dash, _
+unda-rela-gare;subway station
+unda-rela;subway, underground railway
 unda-sole;sunset, twilight, sundown
 unda;under, below, down, fall
 undon;sport, athletic, physical exercise
@@ -1941,6 +1956,7 @@ uti;use, tool
 Uu-linga;Wu Chinese (languages)
 Uu;Wu (region)
 vaga;wander, roam, rove
+vagen-gare;bus station
 vagen;wagon, van, cart, bus, truck
 vakansa-dia;bank holiday, national holiday
 vakansa-navi;cruise ship (not to be confused with cruiser ship)
@@ -1965,6 +1981,8 @@ vasa;water
 vasanta;spring (season)
 Vatikan;The Vatican, Vatican City
 ve;where
+veji-manja-man;vegetarian
+veji-manja-neso;vegetarianism
 veji;plant, vegetable
 veka;awake, wake, aware
 vela;sail
@@ -2046,4 +2064,3 @@ vote;vote
 vudu;curse, hex, jinx, spell
 vuma;worm
 vunda;wonder, miracle, marvel, wonderful
-konfuse-konditi;chaos, mess, disaster (not natural), disarray, havoc, disorder
