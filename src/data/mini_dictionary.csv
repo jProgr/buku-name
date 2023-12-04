@@ -439,6 +439,7 @@ duo-ranko-go-fini;second to last, the one before the last one
 duo-sesi;bisexual
 duo;two, 2
 duro-mone;coin, to mint coins
+Duro-piato;hard disk drive, HDD, hard drive, hard disk
 duro-safari;trek, arduous journey
 duro-sujesi;insist
 duro;hard, difficult, problem
@@ -456,6 +457,8 @@ ego-mori;suicide
 ego-sama-manja;autosarcophagy, self-cannibalism, autocannibalism
 ego-seketa-pubili;dox, doxx, doxing, doxxing (prefer 'peribadi-pubili')
 ego-seketa;private, privacy (prefer 'peribadi')
+ego-sesi;gender (see 'ego-tipo')
+ego-tipo;gender (see 'ego-sesi')
 ego;self, own (adj)
 Eire-linga;Irish (language)
 Eire;Ireland, Éire, Airlann (see 'Ire-lan')
@@ -1455,7 +1458,7 @@ peso;piece, part, component
 pianeta;planet, planetary
 piano-man;pianist
 piano;piano
-piato;plate, dish, disc, tray, to plate
+piato;plate, dish, disc, disk, tray, to plate
 piega;fold, crease
 pigi;pig, boar
 pigu;butt, ass
@@ -1516,7 +1519,7 @@ pumpa;pump (motion, tool)
 puni;punish, punishment
 punjo;fist, punch, knob, hilt, handgrip
 punto-impotan;focus, emphasis
-punto;point, dot, spot, indicate, pointy, sharp
+punto;point, dot, spot, indicate, pointy, sharp, period
 pupe;doll, puppet
 pura;pure, clean, cleanse
 puse;press, push, shove
@@ -1715,6 +1718,7 @@ sereale;grain, cereal, wheat
 serebe;brain
 seri;series, list, order, row, enumerate
 serio;serious, earnest, seriousness
+sesi-abuso;violation (sexual), rape, sexual assault
 sesi-ego;masturbate, masturbation
 sesi-mano;handjob, hand job, fingering (see 'sesi-ego')
 sesi-topi;orgasm
