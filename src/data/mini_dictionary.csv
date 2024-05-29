@@ -1,6 +1,6 @@
 word;meaning
 a;introduces direct object & nominal complement
-abuso;abuse, violate, rape, assault, abusive
+abuso;abuse, assault, abusive (for sexual assault prefer 'sesi-abuso')
 ade-kolun;spar (ship), mast
 ade-man;helper, assistant, auxiliary (person)
 ade;aid, care, concern, help, care for
@@ -396,6 +396,7 @@ dia-6;saturday
 dia-7;sunday
 dia;day, date
 diamante;diamond, adamant
+Difuse sitema;distributed systems (software)
 difuse-basilo;infection, infect
 difuse;spread, diffuse, diffusion
 dijesi;digest, digestion
@@ -484,9 +485,10 @@ elika;helix, curl, twist, curly, spiral, coil, propeller, at sign, @
 emo-name;interjection
 emo;emotion, emotional, passionate, emote
 en-fini;marginal
-en-go;enter, access, penetrate, penetration (for pierce see 'pika'), step into
+En-go punto;access point
+en-go;enter, access, penetrate, penetration (for pierce see 'pika'), step into (see 'en-mun')
 en-move;immigration
-en-mun;entrance
+en-mun;entrance (see 'en-go')
 en-pota;import
 en-relate;adopt, adoption, adopted
 en-salu;welcome (see 'bon-veni')
@@ -510,6 +512,7 @@ erase-sesi;desex, desexualize, castrate
 erase;erase, erasure, remove, wipe away
 ereki;to stand, upright, erect, straight
 ero;error, mistake, err
+Eroin;heroin (drug), diacetylmorphine, diamorphine
 esamin-peso;sample
 esamin;exam, test, interview, examination, investigation, assessment
 esato;exact, precise, precision, exactly, methodical
@@ -519,10 +522,11 @@ esita;excite, excited
 Espania;España, Spain
 Espaniol;Spanish (language), Español
 Etana;Etana
+etudi-makina;machine learning, ML (artificial intelligence)
+etudi-man;student, researcher
 etudi;learn, study, research
 Europa;Europe
 Euskara;Basque (language), Euskara (language), Basque Country, Euskadi, País Vasco, Basque Autonomous Community
-eutdi-man;student, researcher
 eve-manja;dinner, supper
 eve;evening, night
 evento;event, case (instance), occurence
@@ -686,6 +690,7 @@ induseri;industry, industrial
 infero;hell, to damn, hellish
 infiniti-vole;greed
 infiniti;infinity, infinite
+Info senta;data center, data centre
 info;information, inform, informative
 inja;wound, injure, injury
 inseto-fobo;entomophobia
@@ -824,6 +829,7 @@ karo-man;driver, rider
 karo-para;parking, park (a vehicle)
 Karo-renta ofisi;car rental place
 karo;car, vehicle, drive
+Kas;cache (computing)
 kasa;house, building
 Kasastan;Kazakhstan, Qazaqstan
 kasele;castle, fortress
@@ -923,6 +929,7 @@ Kuba;Cuba
 kubita;elbow, nudge, cubit
 kubo;brick, cube, block
 kujara;spoon
+Kuki;cookie (software)
 kula-foreta;tundra
 kula-lubi;ski
 kula-vali;fjord, fiord
@@ -938,6 +945,7 @@ labi;lip, rim, brim
 labora-enejia;effort, man power, man-power (not manpower), work (unit)
 labora-man;employee, worker, staff
 labora-safari;commute, travel from or to work
+labora-sitema;operating system, OS (software)
 labora;work, labor, hard-working, job
 lada;ladder, escalator, stairs, steps
 lado-mira;side-eye, side eye, side-look
@@ -973,6 +981,7 @@ leva-sole;sunrise, dawn, daybreak
 leva;level, elevate, rise (see 'supa-go')
 levi;left (direction)
 liabili;responsible, liable, liability, responsibility
+libera kode;open source (software)
 libera;freedom, free, liberate
 lida-feme-paren;godmother
 lida-make;manage, take care of (an issue), deal with
@@ -1281,6 +1290,7 @@ neto-baton;racquet, racket
 neto-foli;webpage (see 'eleki-loke', 'neto-loke')
 neto-komun;server, online community, forum
 neto-loke;website (see 'eleki-loke', 'neto-foli')
+neto-muro;firewall (computing)
 neto;net, network, mesh, web, enmesh
 neve-fobo;chionophobia
 neve;snow
@@ -1301,6 +1311,7 @@ no-duo-numa;odd (number)
 no-fini;unfinished, not finished, unpolished
 no-kon-vole;by accident, accidentally, by chance, unintended, unintentional
 no-kon;without, exclude
+no-liga;untie, unbind, unknot, unlink, disconnect
 no-man;no-one, no one, nobody
 no-metali;nonmetal
 no-mori-man;zombie, undead
@@ -1504,6 +1515,7 @@ Portugal;Portugal
 Portukale;Portuguese (language), português
 Posol;Pozol (drink)
 Posole;Pozole (food)
+pota-lati;bandwidth
 pota-neso;transportation
 pota;carry, transport, transfer, port, cargo
 pote;pot, pan, cauldron, crucible, saucepan
@@ -1526,6 +1538,7 @@ puse;press, push, shove
 radi-uti;radio (machine)
 radi;ray, beam, radiate, bolt, radius
 radika;root, rooted, rhizome, tuber
+raja-ludi;chess
 raja-paisa;kingdom
 raja-senjore;majesty, highness
 raja-topi-viru;coronavirus
