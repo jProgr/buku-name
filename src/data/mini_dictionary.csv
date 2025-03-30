@@ -300,6 +300,7 @@ bianka-rondo-radika-veji;turnip
 bianka;white
 bibe;drink
 Bide;bidet
+biju-botega;jewelry store, jewelry shop
 biju;jewel, gem, jewelry
 bike;bicycle
 biko;beak, to peck, spout
@@ -505,6 +506,7 @@ enkonte;meet, encounter, meeting
 entero;intestines, bowel, entrails, gut
 envi;envy, jealous
 environ;environment, habitat, ambient, milieu
+Epigo koreo;priority mail, urgent mail
 epigo;emergency, urgent, to urge, press for
 erase-kapo-biju;defrock, dethrone, uncrown
 erase-sesi-viro;eunuch
@@ -621,6 +623,7 @@ fura-fobo;trypophobia
 fura;hole, gap, aperture, to drill, bore
 furi;anger, angry
 fusi;pour, fuse, melt, fusion
+gaden-man;gardener
 gaden;garden, a park, recreation area
 gadi;grass, herb, lawn
 Galisia;Galicia, Galiza
@@ -713,6 +716,7 @@ iritate;irritate, bother, pester, annoyance
 ironi;irony, ironic, sarcasm
 ise-lan;iceberg
 Ise-lan;Iceland
+ise-nata-suga-bibe;ice cream float, ice cream soda
 ise-nata;ice cream
 ise-tori;penguin
 ise;ice, freeze
@@ -737,6 +741,7 @@ Jesu-veni;Easter
 Jesu;Jesus (christianity)
 jeti;throw, shot, shoot, hit
 jin;gold, golden (see 'atomo-79')
+Jini;jinni, genie, jinn, djinni, djinn
 jira-unda-go;fall rolling, tumble down, fall suddenly and without grace
 jira;turn, gyrate, spin, whirl
 joke;joke, jest
@@ -822,6 +827,7 @@ Kapo direto;cardinal direction, cardinal point
 kapo-biju;crown
 kapo-sentense;title (text), heading, header (text)
 kapo-siti;capital (geography)
+kapo-sono-makina;headphone (see 'mimi-sono-makina')
 kapo;head, main
 kare-kaja-sino;square brackets, []
 kare;square, plaza
@@ -830,6 +836,7 @@ karera;race, competition, compete
 karo-man;driver, rider
 karo-para;parking, park (a vehicle)
 Karo-renta ofisi;car rental place
+karo-ringo;wheel
 karo;car, vehicle, drive
 Kas;cache (computing)
 kasa;house, building
@@ -1174,6 +1181,7 @@ milita-junta;draft, recruit, enlist (military, by force or choice), levy (as in 
 milita-move;invasion, invade, raid, incursion
 milita;military, army
 mime;mimic, copy, imitation
+mimi-sono-makina;earphone, earbud (see 'kapo-sono-makina')
 mimi;ear (see 'ia')
 mina-roka;mineral, ore
 mina;mine (place + action)
@@ -1184,6 +1192,7 @@ mini-moda;minimalism, minimalistic
 mini-otelo;hostel, inn, motel, lodge (see 'otelo')
 mini-peso;bit, small piece, particle
 mini-resi;nap, siesta, doze
+mini-ruja-feruta;cherry
 mini-sujo;dopant
 mini-viva-fiba;fibril (biology)
 mini;small, little
@@ -1306,6 +1315,7 @@ niku-en-feruta;fig (fruit)
 niku-sando;hamburger, burger
 niku;meat, flesh
 nin;nine, 9
+Ninja imaje-kapa;surveillance camera, CCTV camera, monitoring video camera
 ninja;spy (noun), snoop, scout, surveil
 Nipon-linga;Japanese (language)
 Nipon;Japan (see 'Japan')
@@ -1327,6 +1337,7 @@ no-obe-jura;illegal
 no-paren;orphan, orphaned
 no-vole-anunsi;spam
 no;no, not
+noga-niku;ham, a piece of ham meat
 noga;leg
 nonga;farm, cultivate, agricultural
 nore;north
@@ -1502,6 +1513,7 @@ piuma;feather
 Pluton;Pluto
 poesi;poem, poetry, poetic
 poke;pocket
+polisa-man;police agent, police officer, police person, policeman, policewoman
 polisa;police
 politi;politics, political, politicize
 polo-fobo;alektorophobia
@@ -1524,6 +1536,7 @@ Portukale;Portuguese (language), português
 Posol;Pozol (drink)
 Posole;Pozole (food)
 pota-lati;bandwidth
+pota-navi;ferry, ferryboat
 pota-neso;transportation
 pota;carry, transport, transfer, port, cargo
 pote;pot, pan, cauldron, crucible, saucepan
@@ -1541,6 +1554,7 @@ punjo;fist, punch, knob, hilt, handgrip
 punto-impotan;focus, emphasis
 punto;point, dot, spot, indicate, pointy, sharp, period
 pupe;doll, puppet
+Pura enejia;clean energy, sustainable energy, green energy
 pura;pure, clean, cleanse
 puse;press, push, shove
 radi-uti;radio (machine)
@@ -1612,6 +1626,7 @@ rio;river, stream (prefer 'riva')
 Rioha;La Rioja
 risa;laugh
 risiti-labora;hire, employ (as worker)
+risiti-ofisi;front desk, reception place
 risiti-valu;estimation, appraisal, judgment, judgement, evaluation, appreciation
 risiti;receive, get, receipt, acknowledge, reception
 riso;rice
@@ -1794,11 +1809,12 @@ siti-senta;downtown, city centre, city center
 siti;city
 sivi-neso;citizenship
 sivi;citizen, civilian, civil, civilize
-Skakus;chess
+Skakus;chess (prefer 'raja-ludi')
 so;so, such
 sofa;sofa
 sofio;blow, inflate, puff
 soke;sock, stocking
+sole-fiore;sunflower, Helianthus annuus
 sole-fobo;heliophobia
 sole-fogo;sunburn
 sole-lense;sunglasses, shades
@@ -1816,6 +1832,7 @@ some;some, few, an indefinite amount, somewhat
 sonjo;dream
 sono-bata;noisy dispute, argy-bargy
 sono-fobo;misophonia
+sono-makina;audio speaker, loudspeaker, sound system, earphone, headphone (see 'mimi-sono-makina', 'kapo-sono-makina')
 sono;sound
 sonri;smile
 sori;sorry, to be sorry, contrition, remorse
@@ -1832,6 +1849,7 @@ sude;south
 sue;sew, stich, seam
 sufi;enough, sufficient, suffice
 suga-bela;cute (see 'mini-bela')
+suga-bibe;soda, soft drink, soda pop, fizzy drink
 suga-nuki-oranje-melon;butternut squash (pumpkin)
 suga;sugar, sweet
 sujesi;suggest, suggestion, hint, insinuation, propose (an idea), recommend
@@ -1846,6 +1864,7 @@ sun;soon
 Suomi;Finland, Suomi
 supa-ato;condescending, patronizing
 supa-go;go up, climb, rise (see 'leva')
+supa-move;upload
 supa;above, over, up
 supe;soup
 superise-gape;gawk, gawp
@@ -1917,13 +1936,14 @@ tira;pull, tug
 Titanik;RMS Titanic
 tivi;tv, television
 tobako;tobacco
+toilete-pape;toilet paper, toilet roll, toilet tissue, bathroom tissue, loo roll
 toilete;toilet, urinal, restroom, wc, use bathroom
 Tokio;Tokyo
 tolera;tolerate, tolerance, tolerant, accepting
 toma;take
 tonere;thunder
 topi-gove-man;mayor, president, governor, head of government, chief minister, prime minister
-topi-noga;lap (front of thighs)
+topi-noga;lap (front of thighs), thigh
 topi;cap, hat, top, summit
 tore;tower, skyscraper, turret, steeple, minaret
 tori-fobo-pupe;scarecrow
@@ -1963,10 +1983,12 @@ umile;humble, modest, humility, shame
 unda-go-vasa;fall (of liquid), waterfall, cascade, cataract (of water)
 unda-go;fall, descend
 unda-meno;underscore character, low line, low dash, _
+unda-move;download
 unda-rela-gare;subway station
 unda-rela;subway, underground railway
 unda-sole;sunset, twilight, sundown
 unda;under, below, down, fall
+undon-loke;gym, gymnasium
 undon;sport, athletic, physical exercise
 ungu;nail, hoof, claw
 univesa-siensa;astronomy (see 'najima-siensa'), cosmology
@@ -2094,8 +2116,3 @@ vote;vote
 vudu;curse, hex, jinx, spell
 vuma;worm
 vunda;wonder, miracle, marvel, wonderful
-suga-bibe;soda, soft drink, soda pop, fizzy drink
-ise-nata-suga-bibe;ice cream float, ice cream soda
-risiti-ofisi;front desk, reception place
-pota-navi;ferry, ferryboat
-karo-ringo;wheel
