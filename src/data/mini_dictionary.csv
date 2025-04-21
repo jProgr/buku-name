@@ -281,6 +281,8 @@ baton;stick, rod
 bebe-pota;pregnant, pregnancy, impregnate
 bebe;baby
 begin;start, initial, beginning
+bela-pinta-erase;makeup remover, nail polish remover
+bela-pinta;cosmetics, makeup
 bela;beautiful, beauty, beautify
 beli;stomach, belly, abdomen
 Belin-muro;Berlin Wall
@@ -452,6 +454,7 @@ edu-evento;class (not the room), seminar, course
 edu-man;teacher
 edu;teach, educate, education, educated
 efeto;effect, result, to effect, effective
+egala-sino;equal sign, equals sign, equality sign, =
 egala;equal, equality, equation, equally
 ego-ereki;independence
 ego-man;owner
@@ -808,6 +811,7 @@ kamina-man;pedestrian
 kamina-neso;walkability
 kamina;walk, ambulate, stroll, hike
 kamisa;shirt
+kampo-fogo;campfire, bonfire
 kampo;field, camp, to camp, countryside, meadow, rural
 kan;can, may, able, ability, skill
 Kanada;Canada
@@ -825,6 +829,7 @@ kanti;sing, song, tune, melody
 kapa;capture, catch, seize, grasp, captive, grab, get hold of
 Kapo direto;cardinal direction, cardinal point
 kapo-biju;crown
+kapo-gove-kasa;town hall, municipal hall, city hall, town hall, civic centre (building, not plaza)
 kapo-sentense;title (text), heading, header (text)
 kapo-siti;capital (geography)
 kapo-sono-makina;headphone (see 'mimi-sono-makina')
@@ -1000,6 +1005,7 @@ lida-viro-paren;godfather
 lida;lead, leader, direct, guide
 liga-name;compound word
 liga;tie, bind, knot, league, link, connection, connect, bond
+Liki savon;liquid soap
 liki-metali;mercury (see 'atomo-80')
 liki-salo;sauce, gravy
 liki;liquid, liquify, fluid
@@ -1027,12 +1033,14 @@ loka;lock, to lock, latch, bolt, clasp
 loke;location, locate, place
 loko;crazy, mad, insane, madden
 London;London
+longo-kare;rectangle
 longo-midori-melon;cucumber
 longo-name-fobo;hippopotomonstrosesquipedaliophobia, hippopotomonstrosesquippedaliophobia
 longo-pisi;eel (animal)
 longo-ruse;gaslight, gaslighting
 longo;long, length, longitude
 Losban;Lojban, la .lojban., lo jbobau
+lose-konsiense;pass out, faint, collapse (living), black out, syncope, daze
 lose-mone;expense, expenditure
 lose;lose, loss, failure, fail
 lubi;slip, slide, slippery, glide
@@ -1113,6 +1121,7 @@ Marok;Morocco
 maron;brown
 Mars;Mars
 masa;mass, pile, heap, to amass, massive
+masala-feruta;chili, chilli, chili pepper, chile, spicy pepper, any fruit variety of Capsicum
 masala;spice, curry, spiced
 matemati-vere;theorem
 matemati;math, mathematical
@@ -1212,6 +1221,7 @@ mone-apojo-junta;fund (organization)
 mone-apojo;funding (economical), fundraising, subsidy, financing, sponsorship, subsidize, fund (of money) (see 'mone')
 mone-fobo;plutophobia
 mone-kadi;credit card, creditcard, debit card, payment card
+mone-pura;money laundering
 mone-regula;capitalism
 mone;money
 monki;monkey, gorilla, chimpanzee
@@ -1505,6 +1515,7 @@ pirami;pyramid
 pirata;pirate
 piron;fork
 Pisa;pizza, Pisa (Italy)
+pisi-buo;fishing float, bobber
 pisi-fobo;ichthyophobia
 pisi;fish
 pisina;pool of water, pond, swimming pool
@@ -1848,6 +1859,7 @@ Sude afrika;South Africa (country), Republic of South Africa
 sude;south
 sue;sew, stich, seam
 sufi;enough, sufficient, suffice
+suga-basilo-moloko;yogurt, yoghurt, yogourt, yoghourt
 suga-bela;cute (see 'mini-bela')
 suga-bibe;soda, soft drink, soda pop, fizzy drink
 suga-nuki-oranje-melon;butternut squash (pumpkin)
@@ -2023,6 +2035,7 @@ vali;valley
 valu;value, worth
 vanila;vanilla
 vanita;vanity, pride, proud
+vapo-moto;steam engine
 vapo;steam, vapor
 vare;resource, wares, supply, merchandise, commodity
 vari;vary, variety, various, variation, variance
